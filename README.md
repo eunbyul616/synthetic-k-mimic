@@ -1,0 +1,1 @@
+# Synthetic K-MIMIC: Korean ICU Registry Synthesized for Compliance with Korean Data Regulation    
