@@ -1,0 +1,13 @@
+batch_size: 256
+num_workers: 0
+pin_memory: True
+persistent_workers: False
+train_shuffle: True
+validation_shuffle: True
+test_shuffle: False
+drop_last: True
+
+pad_flag: True
+pad_value: -1
+seq_len: 30
+mask: True

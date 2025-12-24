@@ -1,0 +1,1854 @@
+category,kcd7,kor_name,eng_name,kcd8
+세세,A18.13,전립선의 결핵(N51.0*),Tuberculosis of prostate(N51.0*),A18.14
+세세,A18.15,자궁경부의 결핵(N74.0*),Tuberculosis of cervix(N74.0*),A18.17
+세세,A18.16,결핵성 여성골반염증질환(N74.1*),Tuberculous female pelvic inflammatory disease(N74.1*),A18.17
+세세,A18.80,갑상선의 결핵(E35.0*),Tuberculosis of thyroid gland(E35.0*),A18.88
+세세,A18.81,기타 내분비선의 결핵(E35.8*),Tuberculosis of other endocrine glands(E35.8*),A18.88
+세세,A18.84,비장의 결핵(D77*),Tuberculosis of spleen(D77*),A18.88
+세세,A41.80,장구균에 의한 패혈증,Sepsis due to Enterococcus,A40.20
+세세,A41.88,기타 명시된 패혈증,Other specified sepsis,A41.8
+세세,A59.01,편모충성 전립선염(N51.0*),Trichomonal prostatitis(N51.0*),A59.08
+세세,A59.02,편모충성 방광염 및 요도염,Trichomonal cystitis and urethritis,A59.08
+세세,A60.00,음경의 헤르페스바이러스감염,Herpesviral infection of penis,A60.01
+세세,A60.02,헤르페스바이러스자궁경부염,Herpesviral cervicitis,A60.04
+세세,A60.03,헤르페스바이러스외음질염,Herpesviral vulvovaginitis,A60.04
+세세,A60.08,기타 및 상세불명의 비뇨생식관의 헤르페스바이러스감염,Herpesviral infection of other and unspecified urogenital tract,"A60.01, A60.04"
+세세,B00.80,헤르페스바이러스간염(K77.0*),Herpesviral hepatitis(K77.0*),B00.8†
+세세,B00.88,기타 헤르페스바이러스감염,Other herpesviral infection,B00.8
+세세,B01.80,수두각막염,Varicella keratitis,B01.8
+세세,B01.88,기타 수두합병증,Other varicella complications,B01.8
+세세,B18.10,델타-병원체가 없는 만성 바이러스B형간염,Chronic viral hepatitis B without delta-agent,B18.19
+세세,B18.18,만성 바이러스B형간염 면역관용기,Immune tolerance of chronic viral hepatitis B,"B18.00, B18.10"
+세세,B37.81,칸디다장염,Candidal enteritis,B37.88
+세세,B37.82,칸디다구순염,Candidal cheilitis,B37.88
+세세,B37.83,칸디다외이도염(H62.2*),Candidal otitis externa(H62.2*),B37.2
+소,B59†｜J17.3*,폐포자충증(J17.3*),Pneumocystosis(J17.3*),B48.5†｜J17.2*
+세세,C46.70,소화기관의 카포시육종,Kaposi´s sarcoma of digestive organs,C46.7
+세세,C46.71,폐의 카포시육종,Kaposi´s sarcoma of lung,C46.7
+세세,C46.78,기타 부위의 카포시육종,Kaposi´s sarcoma of other sites,C46.7
+세세,C79.50,골의 이차성 악성 신생물,Secondary malignant neoplasm of bone,C79.5
+세세,C79.51,골수의 이차성 악성 신생물,Secondary malignant neoplasm of bone marrow,C79.5
+세세,C83.30,T-세포/조직구 과다 대B-세포림프종,T-cell/histiocyte-rich large B-cell lymphoma,C83.3
+세세,C83.31,형질모세포성 림프종,Plasmablastic lymphoma,C83.3
+세세,C83.38,기타 및 상세불명의 미만성 대B-세포림프종,Other and unspecified diffuse large B-cell lymphoma,C83.3
+세세,C91.00,전구체 B-세포 림프모구성 백혈병,Precursor B-cell lymphoblastic leukaemia,C91.0
+세세,C91.01,전구체 T-세포 림프모구성 백혈병,Precursor T-cell lymphoblastic leukaemia,C91.0
+세세,C91.02,성숙 T 급성 림프모구성 백혈병,Mature T ALL,C91.0
+세세,C91.08,기타 및 상세불명의 급성 림프모구성 백혈병,Other and unspecified acute lymphoblastic leukaemia,C91.0
+세세,C92.00,t(8;21)을 동반한 급성 골수모구성 백혈병,AML with t(8;21),C92.0
+세세,C92.01,"급성 골수모구성 백혈병, inv(16)(p13;q22)","Acute myeloblastic leukaemia, inv(16)(p13;q22)",C92.0
+세세,C92.08,기타 및 상세불명의 급성 골수모구성 백혈병,Other and unspecified acute myeloblastic leukaemia,C92.0
+세세,D16.42,안와골의 양성 신생물,Benign neoplasm of orbit bone,D16.41
+세세,D69.30,에반스증후군,Evans’ syndrome,D69.3
+세세,D69.38,기타 특발성 혈소판감소성 자반,Other idiopathic thrombocytopenic purpura,D69.3
+세,D70.0,호중구감소성 발열,Neutropenic fever,D70
+세,D70.8,기타 무과립구증,Other agranulocytosis,D70
+세세,G12.24,진행성 근위축,Progressive muscular atrophy,G12.28
+세세,G12.25,X-연관척수연수근위축,X-linked spinobulbar muscular atrophy,G12.28
+세세,G12.27,기타 유전성 운동신경세포병,Other genetic or hereditary motor neuron disease,G12.28
+세세,G31.83,피질기저핵증후군,Corticobasal syndrome,G23.8
+세,G56.4,복합부위통증증후군 Ⅱ형,Complex regional pain syndrome typeⅡ,G90.6
+세세,G57.80,다리의 복합부위통증증후군 II형,Complex regional pain syndrome type II of lower limb,G90.6
+세세,G57.88,다리의 기타 단일신경병증,Other mononeuropathies of lower limb,G57.8
+세세,G58.80,기타 복합부위통증증후군 II형,Other complex regional pain syndrome type II,G90.6
+세세,G58.81,다발성 복합부위통증증후군 II형,Multiple complex regional pain syndrome type II,G90.6
+세세,G58.88,기타 명시된 단일신경병증,Other specified mononeuropathies,G58.8
+세세,H01.00,궤양성 안검염,Ulcerative blepharitis,H01.0
+세세,H01.01,인설성 안검염,Squamous blepharitis,H01.0
+세세,H01.09,상세불명의 안검염,Unspecified blepharitis,H01.0
+세세,H02.09,상세불명의 안검내반,Unspecified entropion of eyelid,H02.08
+세세,H02.19,상세불명의 안검외반,Unspecified ectropion of eyelid,H02.18
+세세,H02.29,상세불명의 토끼눈증,(Unspecified lagophthalmos,H02.28
+세세,H02.49,상세불명의 안검하수,Unspecified ptosis of eyelid,H02.48
+세세,H02.50,이상신경지배증후군,Abnormal innervation syndrome,H02.58
+세세,H02.86,눈꺼풀의 지방탈출,Steatochalasis of eyelid,H02.88
+세세,H04.02,눈물샘의 만성 확대,Chronic enlargement of lacrimal gland,H04.08
+세세,H04.09,상세불명의 누선염,Unspecified dacryoadenitis,H04.08
+세세,H04.12,눈물샘낭,Lacrimal gland cyst,H04.10
+세세,H04.13,원발성 눈물샘위축,Primary lacrimal gland atrophy,H04.18
+세세,H04.14,이차성 눈물샘위축,Secondary lacrimal gland atrophy,H04.18
+세세,H04.15,눈물샘전위,Lacrimal gland dislocation,H04.18
+세세,H04.29,상세불명 원인에 기인한 눈물,"Epiphora, unspecified cause",H04.28
+세세,H04.39,상세불명의 누낭염,Unspecified dacryocystitis,H04.38
+세세,H04.60,누루(淚瘻),Lacrimal fistula,H04.6
+세세,H04.61,눈물길의 육아종,Granuloma of lacrimal passages,H04.6
+세세,H04.68,눈물길에서의 기타 변화,Other changes in lacrimal passages,H04.6
+세세,H11.13,결막의 건조증 NOS,Conjunctival xerosis NOS,H11.18
+세세,H11.19,상세불명의 결막변성,Unspecified conjunctival degenerations,H11.18
+세세,H11.82,결막지방탈출,Steatochalasis of conjunctiva,H11.88
+세세,H15.04,천공성 공막연화증,Scleromalacia perforans,H15.8
+세세,H15.19,상세불명의 상공막염,Unspecified episcleritis,H15.18
+세세,H15.80,적도부포도종,Equatorial staphyloma,H15.8
+세세,H15.81,국소적 전극포도종,Localized anterior staphyloma,H15.8
+세세,H15.82,후극포도종,Staphyloma posticum,H15.8
+세세,H15.83,공막확장증,Scleral ectasia,H15.8
+세세,H15.84,고리모양포도종,Ring staphyloma,H15.8
+세세,H15.88,공막의 기타 장애,Other disorders of sclera,H15.8
+세세,H16.00,중심각막궤양,Central corneal ulcer,H16.0
+세세,H16.01,고리모양각막궤양,Ring corneal ulcer,H16.0
+세세,H16.02,전방축농을 동반한 각막궤양,Corneal ulcer with hypopyon,H16.0
+세세,H16.03,변연부각막궤양,Marginal corneal ulcer,H16.0
+세세,H16.04,무렌각막궤양,Mooren’s corneal ulcer,H16.0
+세세,H16.05,진균성 각막궤양,Mycotic corneal ulcer,H16.0
+세세,H16.06,천공된 각막궤양,Perforated corneal ulcer,H16.0
+세세,H16.09,상세불명의 각막궤양,Unspecified corneal ulcer,H16.0
+세세,H16.20,노출각막결막염,Exposure keratoconjunctivitis,H16.2
+세세,H16.21,"건성 각막결막염, 쇼그렌으로 분류되지 않은","Keratoconjunctivitis sicca, not specified as Sjögren’s",H16.2
+세세,H16.22,신경친화성 각막결막염,Neurotrophic keratoconjunctivitis,H16.2
+세세,H16.23,결절성 안염,Ophthalmia nodosa,H16.2
+세세,H16.24,플릭텐 각막결막염,Phlyctenular keratoconjunctivitis,H16.2
+세세,H16.25,"봄철 각막결막염, 윤부 및 각막을 침범을 동반한","Vernal keratoconjunctivitis, with limbar and corneal involvement",H16.2
+세세,H16.28,기타 각막결막염,Other keratoconjunctivitis,H16.2
+세세,H16.29,상세불명의 각막결막염,Unspecified keratoconjunctivitis,H16.2
+세세,H16.40,유령혈관(각막의),Ghost vessels(corneal),H16.4
+세세,H16.41,파누스(각막의),Pannus(corneal),H16.4
+세세,H16.42,국소성 각막혈관신생,Localized neovascularization of cornea,H16.4
+세세,H16.43,심부 각막혈관신생,Deep neovascularization of cornea,H16.4
+세세,H16.49,상세불명의 각막혈관신생,Unspecified corneal neovascularization,H16.4
+세세,H16.80,미만성 층판성 각막염,Diffuse lamellar keratitis,H59.8
+세세,H16.88,기타 각막염,Other keratitis,H16.8
+세세,H18.72,각막편전위,Corneal flap dislocation,H18.78
+세세,H18.73,각막편찢김,Corneal flap tear,H18.78
+세세,H20.04,전방축농,Hypopyon,H20.08
+세세,H20.05,전방막,Anterior chamber membrane,H20.08
+세세,H20.09,상세불명의 급성 및 아급성 홍채섬모체염,Unspecified acute and subacute iridocyclitis,H20.08
+세세,H33.10,거상연의 낭,Cyst of ora serrata,H33.1
+세세,H33.11,망막의 기생충성 낭 NOS,Parasitic cyst of retina NOS,H33.1
+세세,H33.18,기타 망막분리 및 망막낭,Other retinoschisis and retinal cysts,H33.1
+세세,H33.19,상세불명의 망막분리,Unspecified retinoschisis,H33.1
+세세,H33.39,상세불명의 망막열공,Unspecified retinal break,H33.38
+세세,H33.50,삼출성 망막박리,Exudative retinal detachments,H33.2
+세세,H33.58,기타 망막박리,Other retinal detachments,H33.5
+세세,H35.00,망막혈관형태의 변화,Changes in retinal vascular appearance,H35.0
+세세,H35.01,삼출성 망막병증,Exudative retinopathy,H35.0
+세세,H35.02,고혈압성 망막병증,Hypertensive retinopathy,H35.0
+세세,H35.03,망막미세동맥류 NOS,Retinal micro-aneurysms NOS,H35.0
+세세,H35.04,망막혈관신생 NOS,Retinal neovascularization NOS,H35.0
+세세,H35.05,망막혈관염,Retinal vasculitis,H35.0
+세세,H35.06,망막모세혈관확장증,Retinal telangiectasis,H35.0
+세세,H35.08,기타 망막내미세혈관이상,Other intraretinal microvascular abnormalities,H35.0
+세세,H35.09,상세불명의 배경망막병증,Unspecified background retinopathy,H35.0
+세세,H35.32,황반의 혈관모양줄무늬,Angioid streaks of macula,H35.39
+세세,H35.33,"황반의 낭, 구멍 또는 거짓구멍","Macular cyst, hole, or pseudohole",H35.39
+세세,H35.34,낭성 황반변성,Cystoid macular degeneration,H35.39
+세세,H35.35,황반의 드루젠(퇴행성),Drusen(degenerative) of macula,H35.31
+세세,H35.36,황반의 주름,Puckering of macula,H35.39
+세세,H35.37,독성황반병증,Toxic maculopathy,H35.39
+세세,H35.40,격자형망막변성,Lattice degeneration of retina,H35.4
+세세,H35.41,미세낭모양망막변성,Microcystoid degeneration of retina,H35.4
+세세,H35.42,포석형망막변성,Paving stone degeneration of retina,H35.4
+세세,H35.43,연령과 관련된 망상망막변성,Age-related reticular degeneration of retina,H35.4
+세세,H35.44,이차성 색소변성,Secondary pigmentary degeneration,H35.4
+세세,H35.45,이차성 유리체망막변성,Secondary vitreoretinal degeneration,H35.4
+세세,H35.49,상세불명의 주변부망막변성,Unspecified peripheral retinal degeneration,H35.4
+세세,H35.79,상세불명의 망막층의 분리,Unspecified separation of retinal layers,H35.78
+세세,H40.80,공막위정맥압의 증가를 동반한 녹내장,Glaucoma with increased episcleral venous pressure,H40.8
+세세,H40.81,과다분비녹내장,Hypersecretion glaucoma,H40.8
+세세,H40.82,방수흐름이상 악성 녹내장,Aqueous misdirection malignant glaucoma,H40.8
+세세,H40.88,기타 녹내장,Other glaucoma,H40.8
+세세,H50.01,A 형내사시,Esotropia with A pattern,H50.0
+세세,H50.02,V 형내사시,Esotropia with V pattern,H50.0
+세세,H50.08,기타 공동내사시,Esotropia with other concomitancies,H50.0
+세세,H50.09,상세불명의 내사시,Unspecified esotropia,H50.0
+세세,H50.11,A 형외사시,Exotropia with A pattern,H50.1
+세세,H50.12,V 형외사시,Exotropia with V pattern,H50.1
+세세,H50.18,기타 공동외사시,Exotropia with other concomitancies,H50.1
+세세,H50.19,상세불명의 외사시,Unspecified exotropia,H50.1
+세세,H50.41,단안주시증후군,Monofixation syndrome,H50.48
+세세,H50.42,내사시의 조절성 요소,Accommodative component in esotropia,H50.48
+세세,H50.52,수직사위,Vertical heterophoria,H50.58
+세세,H50.53,회선사위,Cyclophoria,H50.58
+세세,H50.54,교대상사위,Alternating heterophoria,H50.58
+세세,H50.59,상세불명의 사위,Unspecified heterophoria,H50.58
+세세,H50.60,브라운 건초 증후군,Brown’s sheath syndrome,H50.6
+세세,H50.68,기타 기계적 사시,Other mechanical strabismus,H50.6
+세세,H50.69,상세불명의 기계적 사시,"Mechanical strabismus, unspecified",H50.6
+세세,H50.80,두엔 증후군,Duane’s syndrome,H50.8
+세세,H50.88,기타 명시된 사시,Other specified strabismus,H50.8
+세세,H52.22,상세불명의 난시,Unspecified astigmatism,H52.28
+세세,H52.30,부동시,Anisometropia,H52.3
+세세,H52.31,부등상시,Aniseikonia,H52.3
+세세,H52.59,상세불명의 조절의 장애,Unspecified disorders of accommodation,H52.58
+세세,H53.09,상세불명의 약시,Unspecified amblyopia,H53.08
+세세,H53.10,주간맹,Day blindness,H53.1
+세세,H53.11,일시적 시력상실,Transient visual loss,H53.1
+세세,H53.12,돌발시력상실,Sudden visual loss,H53.1
+세세,H53.13,시각의 불편,Visual discomfort,H53.1
+세세,H53.14,시각의 형태나 크기의 왜곡,Visual distortions of shape and size,H53.1
+세세,H53.18,기타 자각적 시각장애,Other subjective visual disturbances,H53.1
+세세,H53.19,상세불명의 자각적 시각장애,Unspecified subjective visual disturbances,H53.1
+세세,H53.40,중심부위를 포함한 암점,Scotoma involving central area,H53.4
+세세,H53.41,맹점부위의 암점,Scotoma of blind spot area,H53.4
+세세,H53.42,부채꼴 또는 궁형결손,Sector or arcuate defects,H53.4
+세세,H53.43,기타 국소적 시야결손,Other localized visual field defect,H53.4
+세세,H53.44,동측성 양쪽 시야결손,Homonymous bilateral field defects,H53.4
+세세,H53.45,반대쪽 양쪽 시야결손,Heteronymous bilateral field defects,H53.4
+세세,H53.46,시야의 전반적 수축,Generalized contraction of visual field,H53.4
+세세,H53.49,상세불명의 시야결손,Unspecified visual field defects,H53.4
+세세,H60.00,외이의 종기,Boil of external ear,H60.0
+세세,H60.01,외이의 큰종기,Carbuncle of external ear,H60.0
+세세,H60.02,외이의 종기,Furuncle of external ear,H60.0
+세세,H60.08,기타 외이의 농양,Other abscess of external ear,H60.0
+세세,H60.32,수영자귀,Swimmer’s ear,H60.38
+세세,H60.50,급성 광선외이도염,Acute actinic otitis externa,H60.5
+세세,H60.51,급성 화학적 외이도염,Acute chemical otitis externa,H60.5
+세세,H60.52,급성 접촉성 외이도염,Acute contact otitis externa,H60.5
+세세,H60.53,급성 습진모양외이도염,Acute eczematoid otitis externa,H60.5
+세세,H60.54,급성 반응성 외이도염,Acute reactive otitis externa,H60.5
+세세,H60.58,기타 급성 비감염성 외이도염,Other acute noninfective otitis externa,H60.5
+세세,H60.59,상세불명의 급성 비감염성 외이도염,Unspecified acute noninfective otitis externa,H60.5
+세세,H61.30,외상에 따른 외이도의 후천성 협착,Acquired stenosis of external ear canal secondary to trauma,H61.3
+세세,H61.31,염증 및 감염에 따른 외이도의 후천성 협착,Acquired stenosis of external ear canal secondary to inflammation and infection,H61.3
+세세,H61.38,외이도의 기타 후천성 협착,Other acquired stenosis of external ear canal,H61.3
+세세,H61.39,외이도의 상세불명의 후천성 협착,"Acquired stenosis of external ear canal, unspecified",H61.3
+세세,H65.02,"재발성 급성 장액성 중이염, 한쪽 또는 상세불명","Recurrent acute serous otitis media, unilateral or unspecified",H65.00
+세세,H65.03,"재발성 급성 장액성 중이염, 양쪽","Recurrent acute serous otitis media, bilateral",H65.01
+세세세,H65.102,"재발성 앨러지성(점액성)(혈액성)(장액성) 급성 및 아급성 중이염, 한쪽 또는 상세불명","Recurrent allergic(mucoid)(sanguinous)(serous) otitis media, acute and subacute, unilateral or unspecified",H65.100
+세세세,H65.103,"재발성 앨러지성(점액성)(혈액성)(장액성) 급성 및 아급성 중이염, 양쪽","Recurrent allergic(mucoid)(sanguinous)(serous) otitis media, acute and subacute, bilateral",H65.101
+세세세,H65.182,"재발성 기타 급성 비화농성 중이염, 한쪽 또는 상세불명","Recurrent other acute nonsuppurative otitis media, unilateral or unspecified",H65.180
+세세세,H65.183,"재발성 기타 급성 비화농성 중이염, 양쪽","Recurrent other acute nonsuppurative otitis media, bilateral",H65.181
+세세세,H66.002,"재발성 자발적 고막파열을 동반하지 않은 급성 화농성 중이염, 한쪽 또는 상세불명","Recurrent acute suppurative otitis media without spontaneous rupture of ear drum, unilateral or unspecified",H66.000
+세세세,H66.003,"재발성 자발적 고막파열을 동반하지 않은 급성 화농성 중이염, 양쪽","Recurrent acute suppurative otitis media without spontaneous rupture of ear drum, bilateral",H66.001
+세세세,H66.012,"재발성 자발적 고막파열을 동반한 급성 화농성 중이염, 한쪽 또는 상세불명","Recurrent acute suppurative otitis media with spontaneous rupture of ear drum, unilateral or unspecified",H66.010
+세세세,H66.013,"재발성 자발적 고막파열을 동반한 급성 화농성 중이염, 양쪽","Reccurrent acute suppurative otitis media with spontaneous rupture of ear drum, bilateral",H66.011
+세세,H68.10,귀인두관의 골성 폐색,Osseous obstruction of Eustachian tube,H68.1
+세세,H68.11,귀인두관의 내인성 연골성 폐색,Intrinsic cartilagenous obstruction of Eustachian tube,H68.1
+세세,H68.12,귀인두관의 외인성 연골성 폐색,Extrinsic cartilagenous obstruction of Eustachian tube,H68.1
+세세,H68.19,귀인두관의 상세불명 폐색,Unspecified obstruction of Eustachian tube,H68.1
+세세,H73.80,위축성 이완고막,Atrophic flaccid tympanic membrane,H73.8
+세세,H73.81,위축성 비이완고막,Atrophic nonflaccid tympanic membrane,H73.8
+세세,H73.88,고막의 기타 명시된 장애,Other specified disorders of tympanic membrane,H73.8
+세세,H93.20,청각누가현상,Auditory recruitment,H93.2
+세세,H93.21,복청(複聽),Diplacusis,H93.2
+세세,H93.22,청각과민,Hyperacusis,H93.2
+세세,H93.23,일과성 청각역치변화,Temporary auditory threshold shift,H93.2
+세세,H93.28,기타 청각의 이상,Other abnormal auditory perceptions,H93.2
+세세,I15.80,약물에 의한 이차성 고혈압,Hypertension secondary to drug,I15.8
+세세,I15.88,기타 이차성 고혈압,Other secondary hypertension,I15.8
+세세,I73.80,무릎아래동맥을 침범한 말초동맥폐쇄질환,Peripheral artery occlusive disease involving arteries below knee,I77.82
+세세,I73.81,투석용동정맥루를 침범한 말초동맥폐쇄질환,Peripheral artery occlusive disease involving arteriovenous fistula for hemodialysis,I77.81
+세세,I73.88,기타 명시된 말초혈관질환,Other specified peripheral vascular diseases,I73.8
+세세,I85.00,"출혈이 있는 식도정맥류, 특발성","Esophageal varices with bleeding, idiopathic",I85.0
+세세,I85.01,"출혈이 있는 식도정맥류, 이차성","Esophageal varices with bleeding, secondary",I85.0
+세세,I85.90,"출혈이 없는 식도정맥류, 특발성","Esophageal varices without bleeding, idiopathic",I85.9
+세세,I85.91,"출혈이 없는 식도정맥류, 이차성","Esophageal varices without bleeding, secondary",I85.9
+세세,J84.10,림프구 간질성 폐렴,Lymphoid interstitial pneumonia,J84.1
+세세,J84.18,섬유증을 동반한 기타 간질성 폐질환,Other interstitial pulmonary diseases with fibrosis,J84.1
+세세,K00.26,소구치화,Premolarization,K00.29
+세세,K00.27,이상결절 및 에나멜진주,Abnormal tubercula and enamel pearls [enameloma],K00.29
+세세,K00.28,우상치,Taurodontism,K00.29
+세세,K00.41,출생전 에나멜형성저하,Prenatal enamel hypoplasia,K00.40
+세세,K00.42,신생아 에나멜형성저하,Neonatal enamel hypoplasia,K00.40
+세세,K00.43,시멘트질의 무형성 및 형성저하,Aplasia and hypoplasia of cementum,K00.48
+세세,K00.45,치아형성이상[국소성 치아형성이상],Odontodysplasia [regional odontodysplasia],K00.48
+세세,K00.46,터너치아,Turner’s tooth,K00.48
+세세,K00.60,선천치,Natal tooth,K00.68
+세세,K00.61,신생치,Neonatal tooth,K00.68
+세세,K00.62,치아의 조기맹출,Premature eruption of tooth,K00.68
+세세,K00.64,만기맹출,Late eruption,K00.68
+세세,K00.65,[탈락성] 유치의 조기탈락,Premature shedding of primary [deciduous] teeth,K00.68
+세세,K00.80,혈액형부적합에 의한 치아형성 중 색조변화,Colour changes during tooth formation due to blood type incompatibility,K00.8
+세세,K00.81,담도계이상으로 인한 치아형성 중 색조변화,Colour changes during tooth formation due to billiary system anomaly,K00.8
+세세,K00.82,포르피린증에 의한 치아형성 중 색조변화,Colour changes during tooth formation due to porphyria,K00.8
+세세,K00.83,테트라사이클린에 의한 치아형성 중 색조변화,Colour changes during tooth formation due to tetracyclines,K00.8
+세세,K00.88,치아발육의 기타 명시된 장애,Other specified disorders of tooth development,K00.8
+세세,K03.11,치아의 습관성 마모,Habitual abrasion of teeth,K03.18
+세세,K03.12,치아의 직업성 마모,Occupational abrasion of teeth,K03.18
+세세,K03.13,치아의 전통성 마모,Traditional abrasion of teeth,K03.18
+세세,K03.20,직업성 치아의 침식,Occupational erosion of teeth,K03.2
+세세,K03.21,지속적 구토에 의한 치아의 침식,Due to persistent regurgitating or vomiting erosion of teeth,K03.2
+세세,K03.22,식사에 의한 치아의 침식,Due to diet erosion of teeth,K03.2
+세세,K03.23,약물 및 약제의 의한 치아의 침식,Due to drug and medicaments erosion of  teeth,K03.2
+세세,K03.24,특발성 치아의 침식,Idopathic erosion of teeth,K03.2
+세세,K03.28,치아의 기타 명시된 침식,Other specified erosion of teeth,K03.2
+세세,K03.29,치아의 상세불명 침식,"Erosion of teeth, unspecified",K03.2
+세세,K06.80,성인성 치은낭,Gingival cyst of adult,K06.8
+세세,K06.88,잇몸 및 무치성 치조융기의 기타 명시된 장애,Other specified disorders of gingiva and edentulous alveolar ridge,K06.8
+세세,K08.82,치조융기의 확대 NOS,Enlargement of alveolar ridge NOS,K08.88
+세,K58.0,설사를 동반한 과민대장증후군,Irritable bowel syndrome with diarrhoea,K58.1
+세,K58.9,설사를 동반하지 않은 과민대장증후군,Irritable bowel syndrome without diarrhoea,K58.8
+세세,K59.81,결장거짓폐색,Colonic pseudoobstruction,K56.0
+세세,K63.50,결장의 연소성 폴립,Juvenile polyp of colon,K63.5
+세세,K63.58,결장의 기타 폴립,Other polyp of colon,K63.5
+세세,K63.59,결장의 상세불명 폴립,"Polyp of colon, unspecified",K63.5
+세세,K74.00,"간섬유증, 차일드-퍼 A","Hepatic fibrosis, Child-Pugh A",K74.0
+세세,K74.01,"간섬유증, 차일드-퍼 B","Hepatic fibrosis, Child-Pugh B",K74.0
+세세,K74.02,"간섬유증, 차일드-퍼 C","Hepatic fibrosis, Child-Pugh C",K74.0
+세세,K74.09,"간섬유증,상세불명","Hepatic fibrosis, unspecified",K74.0
+세세,K74.10,"간경화증, 차일드-퍼 A","Hepatic sclerosis, Child-Pugh A",K74.19
+세세,K74.11,"간경화증, 차일드-퍼 B","Hepatic sclerosis, Child-Pugh B",K74.19
+세세,K74.12,"간경화증, 차일드-퍼 C","Hepatic sclerosis, Child-Pugh C",K74.19
+세세,K74.19,"간경화증,상세불명","Hepatic sclerosis, unspecified",K74.19
+세세,K74.20,"간경화증을 동반한 간섬유증, 차일드-퍼 A","Hepatic fibrosis with hepatic sclerosis, Child-Pugh A",K74.29
+세세,K74.21,"간경화증을 동반한 간섬유증, 차일드-퍼 B","Hepatic fibrosis with hepatic sclerosis, Child-Pugh B",K74.29
+세세,K74.22,"간경화증을 동반한 간섬유증, 차일드-퍼 C","Hepatic fibrosis with hepatic sclerosis, Child-Pugh C",K74.29
+세세,K74.29,"간경화증을 동반한 간섬유증,상세불명","Hepatic fibrosis with hepatic sclerosis, unspecified",K74.29
+세세,K74.30,"원발성 담즙성 경변증, 차일드-퍼 A","Primary biliary cirrhosis, Child-Pugh A",K74.39
+세세,K74.31,"원발성 담즙성 경변증, 차일드-퍼 B","Primary biliary cirrhosis, Child-Pugh B",K74.39
+세세,K74.32,"원발성 담즙성 경변증, 차일드-퍼 C","Primary biliary cirrhosis, Child-Pugh C",K74.39
+세세,K74.39,"원발성 담즙성 경변증,상세불명","Primary biliary cirrhosis, unspecified",K74.39
+세세,K74.40,"이차성 담즙성 간경변증, 차일드-퍼 A","Secondary biliary cirrhosis, Child-Pugh A",K74.49
+세세,K74.41,"이차성 담즙성 간경변증, 차일드-퍼 B","Secondary biliary cirrhosis, Child-Pugh B",K74.49
+세세,K74.42,"이차성 담즙성 간경변증, 차일드-퍼 C","Secondary biliary cirrhosis, Child-Pugh C",K74.49
+세세,K74.49,"이차성 담즙성 간경변증,상세불명","Secondary biliary cirrhosis, unspecified",K74.49
+세세,K74.50,"상세불명의 담즙성 간경변증, 차일드-퍼 A","Biliary cirrhosis, unspecified, Child-Pugh A",K74.59
+세세,K74.51,"상세불명의 담즙성 간경변증, 차일드-퍼 B","Biliary cirrhosis, unspecified, Child-Pugh B",K74.59
+세세,K74.52,"상세불명의 담즙성 간경변증, 차일드-퍼 C","Biliary cirrhosis, unspecified, Child-Pugh C",K74.59
+세세,K74.59,"상세불명의 담즙성 간경변증,상세불명","Biliary cirrhosis, unspecified, unspecified",K74.59
+세세,K74.60,"간의 기타 및 상세불명의 경변증, 차일드-퍼 A","Other and unspecified cirrhosis of liver, Child-Pugh A",K74.69
+세세,K74.61,"간의 기타 및 상세불명의 경변증, 차일드-퍼 B","Other and unspecified cirrhosis of liver, Child-Pugh B",K74.69
+세세,K74.62,"간의 기타 및 상세불명의 경변증, 차일드-퍼 C","Other and unspecified cirrhosis of liver, Child-Pugh C",K74.69
+세세,K74.69,"간의 기타 및 상세불명의 경변증,상세불명","Other and unspecified cirrhosis of liver, unspecified",K74.69
+세세,L01.01,보크하르트농가진,Bockhart’s impetigo,L01.08
+세세,L03.39,몸통의 상세불명 연조직염,"Cellulitis of trunk, unspecified",L03.38
+세세,L08.80,증식성 농피증,Pyoderma vegetans,L08.8
+세세,L08.81,신생아를 제외한 배꼽염,Omphalitis not of newborn,L08.8
+세세,L08.88,피부 및 피하조직의 기타 명시된 국소감염,Other specified local infections of  skin and subcutaneous tissue,L08.8
+세세,L20.80,아토피성 신경피부염,Atopic neurodermatitis,L20.88
+세세,L20.81,굴측습진,Flexural eczema,L20.88
+세세,L20.82,영아습진,Infantile eczema,L20.88
+세세,L20.83,내인성 습진,Intrinsic eczema,L20.88
+세세,M20.01,부또니에르변형,Boutonniere deformity,M20.08
+세세,M20.02,백조목변형,Swan-neck deformity,M20.08
+세세,M21.08,"달리 분류되지 않은 외반변형, 기타 부분","Valgus deformity, NEC, other",M21.09
+세세,M21.18,"달리 분류되지 않은 내반변형, 기타 부분","Varus deformity, NEC, other",M21.09
+세세,M21.28,"굴곡변형, 기타 부분","Flexion deformity, other",M21.29
+세,M31.2,치사중간선육아종,Lethal midline granuloma,C86.0
+세세,M32.10,심장침범 동반 전신홍반루푸스,Systemic lupus erythematosus with heart involvement,M32.1
+세세,M32.12,폐침범 동반 전신홍반루푸스(J99.1*),Systemic lupus erythematosus with lung involvement(J99.1*),M32.1
+세세,M32.13,신장침범 동반 전신홍반루푸스,Systemic lupus erythematosus with renal involvement,M32.1
+세세,M32.15,기타 기관 또는 계통 침범을 동반 전신홍반루푸스,Systemic lupus erythematosus with other organ or system involvement,M32.1
+세세,M32.19,상세불명의 기관 또는 계통 침습을 동반한 전신홍반루푸스,Systemic lupus erythematosus with unspecified organ or system,M32.1
+세세,M41.10,"연소성 특발성 척주측만증, 척추의 여러 부위","Juvenile idiopathic scoliosis, multiple sites in spine","M41.101, M41.102, M41.109"
+세세,M41.11,"연소성 특발성 척주측만증, 후두환축부","Juvenile idiopathic scoliosis, occipito-atlanto-axial region","M41.111, M41.112, M41.119"
+세세,M41.12,"연소성 특발성 척주측만증, 경부","Juvenile idiopathic scoliosis, cervical region","M41.121, M41.122, M41.129"
+세세,M41.13,"연소성 특발성 척주측만증, 경흉추부","Juvenile idiopathic scoliosis, cervicothoracic region","M41.131, M41.132, M41.139"
+세세,M41.14,"연소성 특발성 척주측만증, 흉추부","Juvenile idiopathic scoliosis, thoracic region","M41.141, M41.142, M41.149"
+세세,M41.15,"연소성 특발성 척주측만증, 흉요추부","Juvenile idiopathic scoliosis, thoracolumbar region","M41.151, M41.152, M41.159"
+세세,M41.16,"연소성 특발성 척주측만증, 요추부","Juvenile idiopathic scoliosis, lumbar region","M41.161, M41.162, M41.169"
+세세,M41.17,"연소성 특발성 척주측만증, 요천부","Juvenile idiopathic scoliosis, lumbosacral region","M41.171, M41.172, M41.179"
+세세,M41.18,"연소성 특발성 척주측만증, 천추 및 천미추부","Juvenile idiopathic scoliosis, sacral and sacrococcygeal region","M41.181, M41.182, M41.189"
+세세,M41.19,"연소성 특발성 척주측만증, 상세불명의 부위","Juvenile idiopathic scoliosis, site unspecified","M41.191, M41.192, M41.199"
+세,M89.0,복합부위통증증후군 I형,Complex regional pain syndrome type I,"G90.5, M89.0"
+세세,M89.00,"복합부위통증증후군 I형, 여러 부위","Complex regional pain syndrome type I, multiple sites","G90.5, M89.00"
+세세,M89.01,"복합부위통증증후군 I형, 어깨부분","Complex regional pain syndrome type I, shoulder region","G90.5, M89.01"
+세세,M89.02,"복합부위통증증후군 I형, 위팔","Complex regional pain syndrome type I, upper arm","G90.5, M89.02"
+세세,M89.03,"복합부위통증증후군 I형, 아래팔","Complex regional pain syndrome type I, forearm","G90.5, M89.03"
+세세,M89.04,"복합부위통증증후군 I형, 손","Complex regional pain syndrome type I, hand","G90.5, M89.04"
+세세,M89.05,"복합부위통증증후군 I형, 골반 부분 및 대퇴","Complex regional pain syndrome type I, pelvic region and thigh","G90.5, M89.05"
+세세,M89.06,"복합부위통증증후군 I형, 아래다리","Complex regional pain syndrome type I, lower leg","G90.5, M89.06"
+세세,M89.07,"복합부위통증증후군 I형, 발목 및 발","Complex regional pain syndrome type I, ankle and foot","G90.5, M89.07"
+세세,M89.08,"복합부위통증증후군 I형, 기타 부분","Complex regional pain syndrome type I, other","G90.5, M89.08"
+세세,M89.09,"복합부위통증증후군 I형, 상세불명 부분","Complex regional pain syndrome type I, site unspecified","G90.5, M89.09"
+세세,N28.80,신장의 비대,Hypertrophy of kidney,N28.8
+세세,N28.81,거대요관,Megaloureter,N28.8
+세세,N28.82,신장하수,Nephroptosis,N28.8
+세세,N28.83,낭성 신우염,Pyelitis cystica,N28.8
+세세,N28.84,낭성 신우요관염,Pyeloureteritis cystica,N28.8
+세세,N28.85,낭성 요관염,Ureteritis cystica,N28.8
+세세,N28.88,신장 및 요관의 기타 명시된 장애,Other specified disorders of kidney and ureter,N28.8
+세세,N41.80,육아종성 전립선염,Granulomatous prostatitis,N41.8
+세세,N41.88,기타 전립선염,Other prostatitis,N41.8
+세세,N48.40,동맥기능부전에 의한 남성발기장애,Male erectile dysfunction due to arterial insufficiency,N48.4
+세세,N48.41,해면체폐쇄부전으로 인한 남성발기장애,Male erectile dysfunction due to corporovenous occlusive dysfunction,N48.4
+세세,N48.48,기타 원인으로 인한 남성발기장애,Male erectile dysfunction due to other cause,N48.4
+세세,N48.49,상세불명의 남성발기장애,"Male erectile dysfunction, unspecified",N48.4
+세세,N64.50,유방의 경화,Induration of breast,N64.5
+세세,N64.51,유두분비물,Nipple discharge,N64.5
+세세,N64.52,유두의 함몰,Retraction of nipple,N64.5
+세세,N64.58,유방의 기타 증상 및 징후,Other signs and symptoms in breast,N64.5
+세세,P07.31,32-36주 조산아,"Other preterm infants, 32-36 completed weeks","P07.31, P07.32"
+세세,Q21.11,정맥동결손,Sinus venosus defect,Q21.18
+세세,R10.40,복부압통,Abdominal tenderness,R10.49
+세세세,R10.400,우상복부압통,Right upper quadrant abdominal tenderness,R10.49
+세세세,R10.401,좌상복부압통,Left upper quadrant abdominal tenderness,R10.49
+세세세,R10.402,우하복부압통,Right lower quadrant abdominal tenderness,R10.49
+세세세,R10.403,좌하복부압통,Left lower quadrant abdominal tenderness,R10.49
+세세세,R10.404,배꼽주위압통,Periumbilical abdominal tenderness,R10.49
+세세세,R10.405,명치압통,Epigastric abdominal tenderness,R10.49
+세세세,R10.406,전반적 복부압통,Generalized abdominal tenderness,R10.49
+세세세,R10.409,상세불명 부위의 복부압통,"Abdominal tenderness, unspecified site",R10.49
+세세,R10.41,복부반동압통,Rebound abdominal tenderness,R10.49
+세세세,R10.410,우상복부반동압통,Right upper quadrant rebound abdominal tenderness,R10.49
+세세세,R10.411,좌상복부반동압통,Left upper quadrant rebound abdominal tenderness,R10.49
+세세세,R10.412,우하복부반동압통,Right lower quadrant rebound abdominal tenderness,R10.49
+세세세,R10.413,좌하복부반동압통,Left lower quadrant rebound abdominal tenderness,R10.49
+세세세,R10.414,배꼽주위반동압통,Periumbilical rebound abdominal tenderness,R10.49
+세세세,R10.415,명치반동압통,Epigastric rebound abdominal tenderness,R10.49
+세세세,R10.416,전반적 복부반동압통,Generalized rebound abdominal tenderness,R10.49
+세세세,R10.419,상세불명 부위의 복부반동압통,"Rebound abdominal tenderness, unspecified site",R10.49
+세세,R10.43,전반적 복통,Generalized abdominal pain,R10.49
+세,R11.0,분출성 구토,Projectile vomiting,R11.2
+세세,R76.80,잠복결핵,Latent tuberculosis,Z22.7
+세세,R76.88,혈청의 기타 명시된 면역학적 이상소견,Other specified abnormal immunological findings in serum,R76.8
+세,R80.1,벤스존스단백뇨,Bence Jones proteinuria,R80.8
+세세,S00.00,"두피의 표재성 손상, 박리, 찰과상","Superficial injury of scalp, abrasion",S00.0
+세세,S00.01,"두피의 표재성 손상, 수포","Superficial injury of scalp, blister",S00.0
+세세,S00.02,"두피의 표재성 손상, 곤충물림(비독액성)","Superficial injury of scalp, insect bite(nonvenomous)",S00.0
+세세,S00.03,"두피의 표재성 손상, 표재성 이물(파편)","Superficial injury of scalp, superficial foreign body(splinter)",S00.0
+세세,S00.04,"두피의 표재성 손상, 타박상","Superficial injury of scalp, contusion",S00.0
+세세,S00.08,"두피의 표재성 손상, 기타 손상","Superficial injury of scalp, other injury",S00.0
+세세,S00.09,"두피의 표재성 손상, 상세불명의 손상","Superficial injury of scalp, unspecified injury",S00.0
+세세,S00.20,"눈꺼풀 및 눈주위의 기타 표재성 손상, 박리, 찰과상","Other superficial injuries of eyelid and periocular area, abrasion",S00.2
+세세,S00.21,"눈꺼풀 및 눈주위의 기타 표재성 손상, 수포","Other superficial injuries of eyelid and periocular area, blister",S00.2
+세세,S00.22,"눈꺼풀 및 눈주위의 기타 표재성 손상, 곤충물림(비독액성)","Other superficial injuries of eyelid and periocular area, insect bite(nonvenomous)",S00.2
+세세,S00.23,"눈꺼풀 및 눈주위의 기타 표재성 손상, 표재성 이물(파편)","Other superficial injuries of eyelid and periocular area, superficial foreign body(splinter)",S00.2
+세세,S00.28,"눈꺼풀 및 눈주위의 기타 표재성 손상, 기타 손상","Other superficial injuries of eyelid and periocular area, other injury",S00.2
+세세,S00.29,"눈꺼풀 및 눈주위의 기타 표재성 손상, 상세불명의 손상","Other superficial injuries of eyelid and periocular area, unspecified injury",S00.2
+세세,S00.30,"코의 표재성 손상, 박리, 찰과상","Superficial injury of nose, abrasion",S00.3
+세세,S00.31,"코의 표재성 손상, 수포","Superficial injury of nose, blister",S00.3
+세세,S00.32,"코의 표재성 손상, 곤충물림(비독액성)","Superficial injury of nose, insect bite(nonvenomous)",S00.3
+세세,S00.33,"코의 표재성 손상, 표재성이물(파편)","Superficial injury of nose, superficial foreign body(splinter)",S00.3
+세세,S00.34,"코의 표재성 손상, 타박상","Superficial injury of nose, contusion",S00.3
+세세,S00.38,"코의 표재성 손상, 기타손상","Superficial injury of nose, other injury",S00.3
+세세,S00.39,"코의 표재성 손상, 상세불명의손상","Superficial injury of nose, unspecified injury",S00.3
+세세,S00.40,"귀의 표재성 손상, 박리, 찰과상","Superficial injury of ear, abrasion",S00.4
+세세,S00.41,"귀의 표재성 손상, 수포","Superficial injury of ear, blister",S00.4
+세세,S00.42,"귀의 표재성 손상, 곤충물림(비독액성)","Superficial injury of ear, insect bite(nonvenomous)",S00.4
+세세,S00.43,"귀의 표재성 손상, 표재성이물(파편)","Superficial injury of ear, superficial foreign body(splinter)",S00.4
+세세,S00.44,"귀의 표재성 손상, 타박상","Superficial injury of ear, contusion",S00.4
+세세,S00.48,"귀의 표재성 손상, 기타손상","Superficial injury of ear, other injury",S00.4
+세세,S00.49,"귀의 표재성 손상, 상세불명의손상","Superficial injury of ear, unspecified injury",S00.4
+세세,S00.50,"입술 및 구강의 표재성 손상,박리,찰과상","Superficial injury of lip and oral cavity, abrasion",S00.5
+세세,S00.51,"입술 및 구강의 표재성 손상,수포","Superficial injury of lip and oral cavity, blister",S00.5
+세세,S00.52,"입술 및 구강의 표재성 손상,곤충물림(비독액성)","Superficial injury of lip and oral cavity, insect bite(nonvenomous)",S00.5
+세세,S00.53,"입술 및 구강의 표재성 손상,표재성이물(파편)","Superficial injury of lip and oral cavity, superficial foreign body(splinter)",S00.5
+세세,S00.54,"입술 및 구강의 표재성 손상,타박상","Superficial injury of lip and oral cavity, contusion",S00.5
+세세,S00.58,"입술 및 구강의 표재성 손상,기타손상","Superficial injury of lip and oral cavity, other injury",S00.5
+세세,S00.59,"입술 및 구강의 표재성 손상,상세불명의손상","Superficial injury of lip and oral cavity, unspecified injury",S00.5
+세세,S00.80,"머리의 기타 부분의 표재성 손상, 박리, 찰과상","Superficial injury of other parts of head, abrasion",S00.8
+세세,S00.81,"머리의 기타 부분의 표재성 손상, 수포","Superficial injury of other parts of head, blister",S00.8
+세세,S00.82,"머리의 기타 부분의 표재성 손상, 곤충물림(비독액성)","Superficial injury of other parts of head, insect bite(nonvenomous)",S00.8
+세세,S00.83,"머리의 기타 부분의 표재성 손상, 표재성 이물(파편)","Superficial injury of other parts of head, superficial foreign(splinter)",S00.8
+세세,S00.84,"머리의 기타 부분의 표재성 손상, 타박상","Superficial injury of other parts of head, contusion",S00.8
+세세,S00.88,"기타 머리부분의 표재성 손상, 기타손상","Superficial injury of other parts of head, other injury",S00.8
+세세,S00.89,"머리의 기타 부분의 표재성 손상, 상세불명의손상","Superficial injury of other parts of head, unspecified injury",S00.8
+세세,S00.90,"머리의 상세불명 부분의 표재성 손상, 박리,찰과상","Superficial injury of head, part unspecified, abrasion",S00.9
+세세,S00.91,"머리의 상세불명 부분의 표재성 손상, 수포","Superficial injury of head, part unspecified, blister",S00.9
+세세,S00.92,"머리의 상세불명 부분의 표재성 손상, 곤충물림(비독액성)","Superficial injury of head, part unspecified, insect bite(nonvenomous)",S00.9
+세세,S00.93,"머리의 상세불명 부분의 표재성 손상, 표재성이물(파편)","Superficial injury of head, part unspecified, superficial foreign body(splinter)",S00.9
+세세,S00.94,"머리의 상세불명 부분의 표재성 손상, 타박상","Superficial injury of head, part unspecified, contusion",S00.9
+세세,S00.98,"머리의 상세불명 부분의 표재성 손상, 기타손상","Superficial injury of head, part unspecified, other injury",S00.9
+세세,S00.99,"머리의 상세불명 부분의 표재성 손상, 상세불명의손상","Superficial injury of head, part unspecified, unspecified injury",S00.9
+세세,S01.31,이주의 열린상처,Open wound of tragus,S01.38
+세세,S01.33,귀인두관의 열린상처,Open wound of eustachian tube,S01.38
+세세,S01.34,이소골의 열린상처,Open wound of ossicles,S01.38
+세세,S01.35,고막의 열린상처,Open wound of eardrum,S09.2
+세세,S01.36,내이의 열린상처,Open wound of inner ear,S01.38
+세세,S02.12,전두동의 골절,Fracture of frontal sinus,S02.1
+세세세,S02.120,"전두골동의 골절, 폐쇄성","Fracture of frontal sinus, closed",S02.10
+세세세,S02.121,"전두골동의 골절, 개방성","Fracture of frontal sinus, open",S02.11
+세세,S02.13,안와천장의 골절,Fracture of orbit roof,S02.1
+세세세,S02.130,"안와천장의 골절, 폐쇄성","Fracture of orbit roof, closed",S02.10
+세세세,S02.131,"안와천장의 골절, 개방성","Fracture of orbit roof, open",S02.11
+세세,S02.18,두개저의 기타 골절,Other fracture of base of skull,S02.1
+세세세,S02.180,"두개저의 기타 골절, 폐쇄성","Other fracture of base of skull, closed",S02.10
+세세세,S02.181,"두개저의 기타 골절, 개방성","Other fracture of base of skull, open",S02.11
+세세,S02.82,치조골의 골절,Fracture of alveolus,S02.88
+세세세,S02.820,"치조골의 골절, 폐쇄성","Fracture of alveolus, closed",S02.880
+세세세,S02.821,"치조골의 골절, 개방성","Fracture of alveolus, open",S02.881
+세세,S02.83,경구개의 골절,Fracture of hard palate,S02.88
+세세세,S02.830,"경구개의 골절, 폐쇄성","Fracture of hard palate, closed",S02.880
+세세세,S02.831,"경구개의 골절, 개방성","Fracture of hard palate, open",S02.881
+세세,S03.29,상세불명의 치아의 탈구,"Dislocation of tooth, unspecified",S03.28
+세세,S10.10,"목구멍의 기타 및 상세불명의 표재성 손상, 박리,찰과상","Other and unspecified superficial injuries of throat, abrasion",S10.1
+세세,S10.11,"목구멍의 기타 및 상세불명의 표재성 손상, 수포","Other and unspecified superficial injuries of throat, blister",S10.1
+세세,S10.12,"목구멍의 기타 및 상세불명의 표재성 손상, 곤충물림(비독액성)","Other and unspecified superficial injuries of throat, insect bite(nonvenomous)",S10.1
+세세,S10.13,"목구멍의 기타 및 상세불명의 표재성 손상, 표재성이물(파편)","Other and unspecified superficial injuries of throat, superficial foreign body(splinter)",S10.1
+세세,S10.18,"목구멍의 기타 및 상세불명의 표재성 손상, 기타손상","Other and unspecified superficial injuries of throat, other injury",S10.1
+세세,S10.19,"목구멍의 기타 및 상세불명의 표재성 손상, 상세불명의 손상","Other and unspecified superficial injuries of throat, unspecified injury",S10.1
+세세,S10.80,"목의 기타 부분의 표재성 손상, 박리,찰과상","Superficial injury of other parts of neck, abrasion",S10.8
+세세,S10.81,"목의 기타 부분의 표재성 손상, 수포","Superficial injury of other parts of neck, blister",S10.8
+세세,S10.82,"목의 기타 부분의 표재성 손상, 곤충물림(비독액성)","Superficial injury of other parts of neck, insect bite(nonvenomous)",S10.8
+세세,S10.83,"목의 기타 부분의 표재성 손상, 표재성이물(파편)","Superficial injury of other parts of neck, superficial foreign body(splinter)",S10.8
+세세,S10.84,"목의 기타 부분의 표재성 손상, 타박상","Superficial injury of other parts of neck, contusion",S10.8
+세세,S10.88,"목의 기타 부분의 표재성 손상, 기타손상","Superficial injury of other parts of neck, other injury",S10.8
+세세,S10.89,"목의 기타 부분의 표재성 손상, 상세불명의 손상","Superficial injury of other parts of neck, unspecified injury",S10.8
+세세,S10.90,"목의 상세불명 부분의 표재성 손상, 박리,찰과상","Superficial injury of neck, park unspecified, abrasion",S10.9
+세세,S10.91,"목의 상세불명 부분의 표재성 손상, 수포","Superficial injury of neck, park unspecified, blister",S10.9
+세세,S10.92,"목의 상세불명 부분의 표재성 손상, 곤충물림(비독액성)","Superficial injury of neck, park unspecified,  nsect bite(nonvenomous)",S10.9
+세세,S10.93,"목의 상세불명 부분의 표재성 손상, 표재성이물(파편)","Superficial injury of neck, park unspecified, superficial foreign body(splinter)",S10.9
+세세,S10.94,"목의 상세불명 부분의 표재성 손상, 타박상","Superficial injury of neck, park unspecified, contusion",S10.9
+세세,S10.98,"목의 상세불명 부분의 표재성 손상, 기타손상","Superficial injury of neck, park unspecified, other injury",S10.9
+세세,S10.99,"목의 상세불명 부분의 표재성 손상, 상세불명의 손상","Superficial injury of neck, park unspecified, unspecified injury",S10.9
+세세,S13.16,C7/T1 경흉추의 탈구,Dislocation of C7/T1 cervicothoracic vertebra,T03.8
+세세,S15.00,"경동맥의 손상, 찢김","Injury of carotid artery, avulsion",S15.0
+세세,S15.01,"경동맥의 손상, 절단","Injury of carotid artery, cut",S15.0
+세세,S15.02,"경동맥의 손상, 열상","Injury of carotid artery, laceration",S15.0
+세세,S15.03,"경동맥의 손상, 외상성 동맥류","Injury of carotid artery, traumatic aneurysm",S15.0
+세세,S15.04,"경동맥의 손상, 외상성 (동정맥)누공","Injury of carotid artery, traumatic fistula (arteriovenous)",S15.0
+세세,S15.05,"경동맥의 손상, 외상성 동맥혈종","Injury of carotid artery, traumatic arterial haematoma",S15.0
+세세,S15.06,"경동맥의 손상, 외상성 파열","Injury of carotid artery, traumatic rupture",S15.0
+세세,S15.08,"경동맥의 손상, 기타 및 상세불명의 손상","Injury of carotid artery, other and unspecified injuries",S15.0
+세세,S15.10,"척추동맥의 손상, 찢김","Injury of vertebral artery, avulsion",S15.1
+세세,S15.11,"척추동맥의 손상, 절단","Injury of vertebral artery, cut",S15.1
+세세,S15.12,"척추동맥의 손상, 열상","Injury of vertebral artery, laceration",S15.1
+세세,S15.13,"척추동맥의 손상, 외상성 동맥류","Injury of vertebral artery, traumatic aneurysm",S15.1
+세세,S15.14,"척추동맥의 손상, 외상성 (동정맥)누공","Injury of vertebral artery, traumatic fistula (arteriovenous)",S15.1
+세세,S15.15,"척추동맥의 손상, 외상성 동맥혈종","Injury of vertebral artery, traumatic arterial haematoma",S15.1
+세세,S15.16,"척추동맥의 손상, 외상성 파열","Injury of vertebral artery, traumatic rupture",S15.1
+세세,S15.18,"척추동맥의 손상, 기타 및 상세불명의 손상","Injury of vertebral artery, other and unspecified injuries",S15.1
+세세,S15.20,"외경정맥의 손상, 찢김","Injury of external jugular vein, avulsion",S15.2
+세세,S15.21,"외경정맥의 손상, 절단","Injury of external jugular vein, cut",S15.2
+세세,S15.22,"외경정맥의 손상, 열상","Injury of external jugular vein, laceration",S15.2
+세세,S15.26,"외경정맥의 손상, 외상성 파열","Injury of external jugular vein, traumatic rupture",S15.2
+세세,S15.28,"외경정맥의 손상, 기타 및 상세불명의 손상","Injury of external jugular vein, other and unspecified injuries",S15.2
+세세,S15.30,"내경정맥의 손상, 찢김","Injury of internal jugular vein, avulsion",S15.3
+세세,S15.31,"내경정맥의 손상, 절단","Injury of internal jugular vein, cut",S15.3
+세세,S15.32,"내경정맥의 손상, 열상","Injury of internal jugular vein, laceration",S15.3
+세세,S15.36,"내경정맥의 손상, 외상성 파열","Injury of internal jugular vein, traumatic rupture",S15.3
+세세,S15.38,"내경정맥의 손상, 기타 및 상세불명의 손상","Injury of internal jugular vein, other and unspecified injuries",S15.3
+세세,S15.80,"목부위의 기타 혈관손상, 찢김","Injury of other blood vessels at neck level, avulsion",S15.8
+세세,S15.81,"목부위의 기타 혈관손상, 절단","Injury of other blood vessels at neck level, cut",S15.8
+세세,S15.82,"목부위의 기타 혈관손상, 열상","Injury of other blood vessels at neck level, laceration",S15.8
+세세,S15.83,"목부위의 기타 혈관손상, 외상성 동맥류","Injury of other blood vessels at neck level, traumatic aneurysm",S15.8
+세세,S15.84,"목부위의 기타 혈관손상, 외상성 (동정맥)누공","Injury of other blood vessels at neck level, traumatic fistula (arteriovenous)",S15.8
+세세,S15.85,"목부위의 기타 혈관손상, 외상성 동맥혈종","Injury of other blood vessels at neck level, traumatic arterial haematoma",S15.8
+세세,S15.86,"목부위의 기타 혈관손상, 외상성 파열","Injury of other blood vessels at neck level, traumatic rupture",S15.8
+세세,S15.88,"목부위의 기타 혈관손상, 기타 및 상세불명의 손상","Injury of other blood vessels at neck level, other and unspecified injuries",S15.8
+세세,S15.90,"목부위의 상세불명 혈관손상, 찢김","Injury of unspecified blood vessels at neck level, avulsion",S15.9
+세세,S15.91,"목부위의 상세불명 혈관손상, 절단","Injury of unspecified blood vessels at neck level, cut",S15.9
+세세,S15.92,"목부위의 상세불명 혈관손상, 열상","Injury of unspecified blood vessels at neck level, laceration",S15.9
+세세,S15.93,"목부위의 상세불명 혈관손상, 외상성 동맥류","Injury of unspecified blood vessels at neck level, traumatic aneurysm",S15.9
+세세,S15.94,"목부위의 상세불명 혈관손상, 외상성 (동정맥)누공","Injury of unspecified blood vessels at neck level, traumatic fistula (arteriovenous)",S15.9
+세세,S15.95,"목부위의 상세불명 혈관손상, 외상성 동맥혈종","Injury of unspecified blood vessels at neck level, traumatic arterial haematoma",S15.9
+세세,S15.96,"목부위의 상세불명 혈관손상, 외상성 파열","Injury of unspecified blood vessels at neck level, traumatic rupture",S15.9
+세세,S15.98,"목부위의 상세불명 혈관손상, 기타 및 상세불명의 손상","Injury of unspecified blood vessels at neck level, other and unspecified injuries",S15.9
+세세,S20.10,"유방의 기타 및 상세불명의 표재성 손상, 박리, 찰과상","Other and unspecified superficial injuries of breast, abrasion",S20.1
+세세,S20.11,"유방의 기타 및 상세불명의 표재성 손상, 수포","Other and unspecified superficial injuries of breast, blister",S20.1
+세세,S20.12,"유방의 기타 및 상세불명의 표재성 손상, 곤충물림(비독액성)","Other and unspecified superficial injuries of breast, insect bite (nonvenomous)",S20.1
+세세,S20.13,"유방의 기타 및 상세불명의 표재성 손상, 표재성 이물(파편)","Other and unspecified superficial injuries of breast, superficial foreign body (splinter)",S20.1
+세세,S20.18,"유방의 기타 및 상세불명의 표재성 손상, 기타 손상","Other and unspecified superficial injuries of breast, other injury",S20.1
+세세,S20.19,"유방의 기타 및 상세불명의 표재성 손상, 상세불명의 손상","Other and unspecified superficial injuries of breast, unspecified injury",S20.1
+세세,S20.20,흉곽전벽의 타박상,Contusion of front wall of thorax,S20.2
+세세,S20.21,흉곽후벽의 타박상,Contusion of back wall of thorax,S20.2
+세세,S20.30,"흉곽전벽의 기타 표재성 손상, 박리, 찰과상","Other superficial injuries of front wall of thorax, abrasion",S20.3
+세세,S20.31,"흉곽전벽의 기타 표재성 손상, 수포","Other superficial injuries of front wall of thorax, blister",S20.3
+세세,S20.32,"흉곽전벽의 기타 표재성 손상, 곤충물림(비독액성)","Other superficial injuries of front wall of thorax, insect bite (nonvenomous)",S20.3
+세세,S20.33,"흉곽전벽의 기타 표재성 손상, 표재성 이물(파편)","Other superficial injuries of front wall of thorax, superficial foreign body (splinter)",S20.3
+세세,S20.38,"흉곽전벽의 기타 표재성 손상, 기타 손상","Other superficial injuries of front wall of thorax, other injury",S20.3
+세세,S20.39,"흉곽전벽의 기타 표재성 손상, 상세불명의 손상","Other superficial injuries of front wall of thorax, unspecified injury",S20.3
+세세,S20.40,"흉곽후벽의 기타 표재성 손상, 박리, 찰과상","Other superficial injuries of back wall of thorax, abrasion",S20.4
+세세,S20.41,"흉곽후벽의 기타 표재성 손상, 수포","Other superficial injuries of back wall of thorax, blister",S20.4
+세세,S20.42,"흉곽후벽의 기타 표재성 손상, 곤충물림(비독액성)","Other superficial injuries of back wall of thorax, insect bite (nonvenomous)",S20.4
+세세,S20.43,"흉곽후벽의 기타 표재성 손상, 표재성 이물(파편)","Other superficial injuries of back wall of thorax, superficial foreign body (splinter)",S20.4
+세세,S20.48,"흉곽후벽의 기타 표재성 손상, 기타 손상","Other superficial injuries of back wall of thorax, other injury",S20.4
+세세,S20.49,"흉곽후벽의 기타 표재성 손상, 상세불명의 손상","Other superficial injuries of back wall of thorax, unspecified injury",S20.4
+세세,S20.80,"흉부의 기타 및 상세불명 부분의 표재성 손상, 박리, 찰과상","Superficial injury of other and unspecified parts of thorax, abrasion",S20.8
+세세,S20.81,"흉부의 기타 및 상세불명 부분의 표재성 손상, 수포","Superficial injury of other and unspecified parts of thorax, blister",S20.8
+세세,S20.82,"흉부의 기타 및 상세불명 부분의 표재성 손상, 곤충물림(비독액성)","Superficial injury of other and unspecified parts of thorax, insect bite (nonvenomous)",S20.8
+세세,S20.83,"흉부의 기타 및 상세불명 부분의 표재성 손상, 표재성 이물(파편)","Superficial injury of other and unspecified parts of thorax, superficial foreign body (splinter)",S20.8
+세세,S20.88,"흉부의 기타 및 상세불명 부분의 표재성 손상, 기타 손상","Superficial injury of other and unspecified parts of thorax, other injury",S20.8
+세세,S20.89,"흉부의 기타 및 상세불명 부분의 표재성 손상, 상세불명의 손상","Superficial injury of other and unspecified parts of thorax, unspecified injury",S20.8
+세세,S22.43,두 개의 늑골을 침범한 다발골절,Multiple fracture of involving two ribs,S22.49
+세세세,S22.430,"두 개의 늑골을 침범한 다발골절, 폐쇄성","Multiple fracture of involving two ribs, closed",S22.490
+세세세,S22.431,"두 개의 늑골을 침범한 다발골절, 개방성","Multiple fracture of involving two ribs, open",S22.491
+세세,S22.44,세 개의 늑골을 침범한 다발골절,Multiple fracture of involving three ribs,S22.49
+세세세,S22.440,"세 개의 늑골을 침범한 다발골절, 폐쇄성","Multiple fracture of involving three ribs, closed",S22.490
+세세세,S22.441,"세 개의 늑골을 침범한 다발골절, 개방성","Multiple fracture of involving three ribs, open",S22.491
+세세,S22.45,네 개 또는 그 이상의 늑골을 침범한 다발골절,Multiple fracture of involving four or more ribs,S22.49
+세세세,S22.450,"네 개 또는 그 이상의 늑골을 침범한 다발골절, 폐쇄성","Multiple fracture of involving four or more ribs, closed",S22.490
+세세세,S22.451,"네 개 또는 그 이상의 늑골을 침범한 다발골절, 개방성","Multiple fracture of involving four or more ribs, open",S22.491
+세세,S23.16,T12/L1 흉요추의 탈구,Dislocation of T12/L1 thoracolumbar vertebra,T03.8
+세세,S25.00,"흉부대동맥의 손상, 찢김","Injury of thoracic aorta, avulsion",S25.0
+세세,S25.01,"흉부대동맥의 손상, 절단","Injury of thoracic aorta, cut",S25.0
+세세,S25.02,"흉부대동맥의 손상, 열상","Injury of thoracic aorta, laceration",S25.0
+세세,S25.03,"흉부대동맥의 손상, 외상성 동맥류","Injury of thoracic aorta, traumatic aneurysm",S25.0
+세세,S25.04,"흉부대동맥의 손상, 외상성 (동정맥)누공","Injury of thoracic aorta, traumatic fistula (arteriovenous)",S25.0
+세세,S25.05,"흉부대동맥의 손상, 외상성 동맥혈종","Injury of thoracic aorta, traumatic arterial haematoma",S25.0
+세세,S25.06,"흉부대동맥의 손상, 외상성 파열","Injury of thoracic aorta, traumatic rupture",S25.0
+세세,S25.08,"흉부대동맥의 손상, 기타 및 상세불명의 손상","Injury of thoracic aorta, other and unspecified injuries",S25.0
+세세,S25.10,"무명동맥 또는 쇄골하동맥의 손상, 찢김","Injury of innominate or subclavian artery, avulsion",S25.1
+세세,S25.11,"무명동맥 또는 쇄골하동맥의 손상, 절단","Injury of innominate or subclavian artery, cut",S25.1
+세세,S25.12,"무명동맥 또는 쇄골하동맥의 손상, 열상","Injury of innominate or subclavian artery, laceration",S25.1
+세세,S25.13,"무명동맥 또는 쇄골하동맥의 손상, 외상성 동맥류","Injury of innominate or subclavian artery, traumatic aneurysm",S25.1
+세세,S25.14,"무명동맥 또는 쇄골하동맥의 손상, 외상성 (동정맥)누공","Injury of innominate or subclavian artery, traumatic fistula (arteriovenous)",S25.1
+세세,S25.15,"무명동맥 또는 쇄골하동맥의 손상, 외상성 동맥혈종","Injury of innominate or subclavian artery, traumatic arterial haematoma",S25.1
+세세,S25.16,"무명동맥 또는 쇄골하동맥의 손상, 외상성 파열","Injury of innominate or subclavian artery, traumatic rupture",S25.1
+세세,S25.18,"무명동맥 또는 쇄골하동맥의 손상, 기타 및 상세불명의 손상","Injury of innominate or subclavian artery, other and unspecified injuries",S25.1
+세세,S25.20,"상대정맥의 손상, 찢김","Injury of superior vena cava, avulsion",S25.2
+세세,S25.21,"상대정맥의 손상, 절단","Injury of superior vena cava, cut",S25.2
+세세,S25.22,"상대정맥의 손상, 열상","Injury of superior vena cava, laceration",S25.2
+세세,S25.24,"상대정맥의 손상, 외상성 (동정맥)누공","Injury of superior vena cava, traumatic fistula (arteriovenous)",S25.2
+세세,S25.26,"상대정맥의 손상, 외상성 파열","Injury of superior vena cava, traumatic rupture",S25.2
+세세,S25.28,"상대정맥의 손상, 기타 및 상세불명의 손상","Injury of superior vena cava, other and unspecified injuries",S25.2
+세세,S25.30,"무명정맥 또는 쇄골하정맥의 손상, 찢김","Injury of innominate or subclavian vein, avulsion",S25.3
+세세,S25.31,"무명정맥 또는 쇄골하정맥의 손상, 절단","Injury of innominate or subclavian vein, cut",S25.3
+세세,S25.32,"무명정맥 또는 쇄골하정맥의 손상, 열상","Injury of innominate or subclavian vein, laceration",S25.3
+세세,S25.34,"무명정맥 또는 쇄골하정맥의 손상, 외상성 (동정맥)누공","Injury of innominate or subclavian vein, traumatic fistula (arteriovenous)",S25.3
+세세,S25.36,"무명정맥 또는 쇄골하정맥의 손상, 외상성 파열","Injury of innominate or subclavian vein, traumatic rupture",S25.3
+세세,S25.38,"무명정맥 또는 쇄골하정맥의 손상, 기타 및 상세불명의 손상","Injury of innominate or subclavian vein, other and unspecified injuries",S25.3
+세세,S25.40,"폐혈관의 손상, 찢김","Injury of pulmonary blood vessels, avulsion",S25.4
+세세,S25.41,"폐혈관의 손상, 절단","Injury of pulmonary blood vessels, cut",S25.4
+세세,S25.42,"폐혈관의 손상, 열상","Injury of pulmonary blood vessels, laceration",S25.4
+세세,S25.43,"폐혈관의 손상, 외상성 동맥류","Injury of pulmonary blood vessels, traumatic aneurysm",S25.4
+세세,S25.44,"폐혈관의 손상, 외상성 (동정맥)누공","Injury of pulmonary blood vessels, traumatic fistula (arteriovenous)",S25.4
+세세,S25.45,"폐혈관의 손상, 외상성 동맥혈종","Injury of pulmonary blood vessels, traumatic arterial haematoma",S25.4
+세세,S25.46,"폐혈관의 손상, 외상성 파열","Injury of pulmonary blood vessels, traumatic rupture",S25.4
+세세,S25.48,"폐혈관의 손상, 기타 및 상세불명의 손상","Injury of pulmonary blood vessels, other and unspecified injuries",S25.4
+세세,S25.50,"늑간혈관의 손상, 찢김","Injury of intercostal blood vessels, avulsion",S25.5
+세세,S25.51,"늑간혈관의 손상, 절단","Injury of intercostal blood vessels, cut",S25.5
+세세,S25.52,"늑간혈관의 손상, 열상","Injury of intercostal blood vessels, laceration",S25.5
+세세,S25.53,"늑간혈관의 손상, 외상성 동맥류","Injury of intercostal blood vessels, traumatic aneurysm",S25.5
+세세,S25.54,"늑간혈관의 손상, 외상성 (동정맥)누공","Injury of intercostal blood vessels, traumatic fistula (arteriovenous)",S25.5
+세세,S25.55,"늑간혈관의 손상, 외상성 동맥혈종","Injury of intercostal blood vessels, traumatic arterial haematoma",S25.5
+세세,S25.56,"늑간혈관의 손상, 외상성 파열","Injury of intercostal blood vessels, traumatic rupture",S25.5
+세세,S25.58,"늑간혈관의 손상, 기타 및 상세불명의 손상","Injury of intercostal blood vessels, other and unspecified injuries",S25.5
+세세,S25.80,"흉부의 기타 혈관손상, 찢김","Injury of other blood vessels of thorax, avulsion",S25.8
+세세세,S25.800,"홑정맥의 손상, 찢김","Injury of azygos vein, avulsion",S25.8
+세세세,S25.801,"유방동맥의 손상, 찢김","Injury of mammary artery, avulsion",S25.8
+세세세,S25.802,"유방정맥의 손상, 찢김","Injury of mammary vein, avulsion",S25.8
+세세세,S25.803,"내흉동맥의 손상, 찢김","Injury of internal thoracic artery, avulsion",S25.8
+세세세,S25.808,"흉부의 기타 혈관의 손상, 찢김","Injury of other blood vessel of thorax, avulsion",S25.8
+세세,S25.81,"흉부의 기타 혈관손상, 절단","Injury of other blood vessels of thorax, cut",S25.8
+세세세,S25.810,"홑정맥의 손상, 절단","Injury of azygos vein, cut",S25.8
+세세세,S25.811,"유방동맥의 손상, 절단","Injury of mammary artery, cut",S25.8
+세세세,S25.812,"유방정맥의 손상, 절단","Injury of mammary vein, cut",S25.8
+세세세,S25.813,"내흉동맥의 손상, 절단","Injury of internal thoracic artery, cut",S25.8
+세세세,S25.818,"흉부의 기타 혈관의 손상, 절단","Injury of other blood vessel of thorax, cut",S25.8
+세세,S25.82,"흉부의 기타 혈관손상, 열상","Injury of other blood vessels of thorax, laceration",S25.8
+세세세,S25.820,"홑정맥의 손상, 열상","Injury of azygos vein, laceration",S25.8
+세세세,S25.821,"유방동맥의 손상, 열상","Injury of mammary artery, laceration",S25.8
+세세세,S25.822,"유방정맥의 손상, 열상","Injury of mammary vein, laceration",S25.8
+세세세,S25.823,"내흉동맥의 손상, 열상","Injury of internal thoracic artery, laceration",S25.8
+세세세,S25.828,"흉부의 기타 혈관의 손상, 열상","Injury of other blood vessel of thorax, laceration",S25.8
+세세,S25.83,"흉부의 기타 혈관손상, 외상성 동맥류","Injury of other blood vessels of thorax, traumatic aneurysm",S25.8
+세세세,S25.831,"유방동맥의 손상, 외상성 동맥류","Injury of mammary artery, traumatic aneurysm",S25.8
+세세세,S25.833,"내흉동맥의 손상, 외상성 동맥류","Injury of internal thoracic artery, traumatic aneurysm",S25.8
+세세세,S25.838,"흉부의 기타 혈관의 손상, 외상성 동맥류","Injury of other blood vessel of thorax, traumatic aneurysm",S25.8
+세세,S25.84,"흉부의 기타 혈관손상, 외상성 (동정맥)누공","Injury of other blood vessels of thorax, traumatic fistula (arteriovenous)",S25.8
+세세세,S25.840,"홑정맥의 손상, 외상성 (동정맥)누공","Injury of azygos vein, traumatic fistula (arteriovenous)",S25.8
+세세세,S25.841,"유방동맥의 손상, 외상성 (동정맥)누공","Injury of mammary artery, traumatic fistula (arteriovenous)",S25.8
+세세세,S25.842,"유방정맥의 손상, 외상성 (동정맥)누공","Injury of mammary vein, traumatic fistula (arteriovenous)",S25.8
+세세세,S25.843,"내흉동맥의 손상, 외상성 (동정맥)누공","Injury of internal thoracic artery, traumatic fistula (arteriovenous)",S25.8
+세세세,S25.848,"흉부의 기타 혈관의 손상, 외상성 (동정맥)누공","Injury of other blood vessel of thorax, traumatic fistula (arteriovenous)",S25.8
+세세,S25.85,"흉부의 기타 혈관손상, 외상성 동맥혈종","Injury of other blood vessels of thorax, traumatic arterial haematoma",S25.8
+세세세,S25.851,"유방동맥의 손상, 외상성 동맥혈종","Injury of mammary artery, traumatic arterial haematoma",S25.8
+세세세,S25.853,"내흉동맥의 손상, 외상성 동맥혈종","Injury of internal thoracic artery, traumatic arterial haematoma",S25.8
+세세세,S25.858,"흉부의 기타 혈관의 손상, 외상성 동맥혈종","Injury of other blood vessel of thorax, traumatic arterial haematoma",S25.8
+세세,S25.86,"흉부의 기타 혈관손상, 외상성 파열","Injury of other blood vessels of thorax, traumatic rupture",S25.8
+세세세,S25.860,"홑정맥의 손상, 외상성 파열","Injury of azygos vein, traumatic rupture",S25.8
+세세세,S25.861,"유방동맥의 손상, 외상성 파열","Injury of mammary artery, traumatic rupture",S25.8
+세세세,S25.862,"유방정맥의 손상, 외상성 파열","Injury of mammary vein, traumatic rupture",S25.8
+세세세,S25.863,"내흉동맥의 손상, 외상성 파열","Injury of internal thoracic artery, traumatic rupture",S25.8
+세세세,S25.868,"흉부의 기타 혈관의 손상, 외상성 파열","Injury of other blood vessel of thorax, traumatic rupture",S25.8
+세세,S25.88,"흉부의 기타 혈관손상, 기타 및 상세불명의 손상","Injury of other blood vessels of thorax, other and unspecified injuries",S25.8
+세세세,S25.880,"홑정맥의 손상, 기타 및 상세불명의 손상","Injury of azygos vein, other and unspecified injuries",S25.8
+세세세,S25.881,"유방동맥의 손상, 기타 및 상세불명의 손상","Injury of mammary artery, other and unspecified injuries",S25.8
+세세세,S25.882,"유방정맥의 손상, 기타 및 상세불명의 손상","Injury of mammary vein, other and unspecified injuries",S25.8
+세세세,S25.883,"내흉동맥의 손상, 기타 및 상세불명의 손상","Injury of internal thoracic artery, other and unspecified injuries",S25.8
+세세세,S25.888,"흉부의 기타 혈관의 손상, 기타 및 상세불명의 손상","Injury of other blood vessel of thorax, Injury of other and unspecified injuries",S25.8
+세세,S25.90,"흉부의 상세불명 혈관손상, 찢김","Injury of unspecified blood vessel of thorax, avulsion",S25.9
+세세,S25.91,"흉부의 상세불명 혈관손상, 절단","Injury of unspecified blood vessel of thorax, cut",S25.9
+세세,S25.92,"흉부의 상세불명 혈관손상, 열상","Injury of unspecified blood vessel of thorax, laceration",S25.9
+세세,S25.93,"흉부의 상세불명 혈관손상, 외상성 동맥류","Injury of unspecified blood vessel of thorax, traumatic aneurysm",S25.9
+세세,S25.94,"흉부의 상세불명 혈관손상, 외상성 (동정맥)누공","Injury of unspecified blood vessel of thorax, traumatic fistula (arteriovenous)",S25.9
+세세,S25.95,"흉부의 상세불명 혈관손상, 외상성 동맥혈종","Injury of unspecified blood vessel of thorax, traumatic arterial haematoma",S25.9
+세세,S25.96,"흉부의 상세불명 혈관손상, 외상성 파열","Injury of unspecified blood vessel of thorax, traumatic rupture",S25.9
+세세,S25.98,"흉부의 상세불명 혈관손상, 기타 및 상세불명의 손상","Injury of unspecified blood vessel of thorax, other and unspecified injuries",S25.9
+세세세,S26.000,"흉강내로의 열린상처가 없는 혈심낭을 동반한 심장손상, 폭풍손상","Injury of heart with haemopericardium without open wound into thoracic cavity, blast injuries",S26.00
+세세세,S26.001,"흉강내로의 열린상처가 없는 혈심낭을 동반한 심장손상, 타박상","Injury of heart with haemopericardium without open wound into thoracic cavity, bruise",S26.00
+세세세,S26.002,"흉강내로의 열린상처가 없는 혈심낭을 동반한 심장손상, 진탕손상","Injury of heart with haemopericardium without open wound into thoracic cavity, concussion injuries",S26.00
+세세세,S26.003,"흉강내로의 열린상처가 없는 혈심낭을 동반한 심장손상, 으깸","Injury of heart with haemopericardium without open wound into thoracic cavity, crushing",S26.00
+세세세,S26.004,"흉강내로의 열린상처가 없는 혈심낭을 동반한 심장손상, 열상","Injury of heart with haemopericardium without open wound into thoracic cavity, laceration",S26.00
+세세세,S26.005,"흉강내로의 열린상처가 없는 혈심낭을 동반한 심장손상, 외상성 혈종","Injury of heart with haemopericardium without open wound into thoracic cavity, traumatic haematoma",S26.00
+세세세,S26.006,"흉강내로의 열린상처가 없는 혈심낭을 동반한 심장손상, 외상성 천자","Injury of heart with haemopericardium without open wound into thoracic cavity, traumatic puncture",S26.00
+세세세,S26.007,"흉강내로의 열린상처가 없는 혈심낭을 동반한 심장손상, 외상성 파열","Injury of heart with haemopericardium without open wound into thoracic cavity, traumatic rupture",S26.00
+세세세,S26.008,"흉강내로의 열린상처가 없는 혈심낭을 동반한 심장손상, 외상성 찢김","Injury of heart with haemopericardium without open wound into thoracic cavity, traumatic tear",S26.00
+세세세,S26.009,"흉강내로의 열린상처가 없는 혈심낭을 동반한 심장손상, 기타 및 상세불명의 손상","Injury of heart with haemopericardium without open wound into thoracic cavity, other and unspecified injuries",S26.00
+세세세,S26.010,"흉강내로의 열린상처가 있는 혈심낭을 동반한 심장손상, 폭풍손상","Injury of heart with haemopericardium with open wound into thoracic cavity, blast injuries",S26.01
+세세세,S26.011,"흉강내로의 열린상처가 있는 혈심낭을 동반한 심장손상, 타박상","Injury of heart with haemopericardium with open wound into thoracic cavity, bruise",S26.01
+세세세,S26.012,"흉강내로의 열린상처가 있는 혈심낭을 동반한 심장손상, 진탕손상","Injury of heart with haemopericardium with open wound into thoracic cavity, concussion injuries",S26.01
+세세세,S26.013,"흉강내로의 열린상처가 있는 혈심낭을 동반한 심장손상, 으깸","Injury of heart with haemopericardium with open wound into thoracic cavity, crushing",S26.01
+세세세,S26.014,"흉강내로의 열린상처가 있는 혈심낭을 동반한 심장손상, 열상","Injury of heart with haemopericardium with open wound into thoracic cavity, laceration",S26.01
+세세세,S26.015,"흉강내로의 열린상처가 있는 혈심낭을 동반한 심장손상, 외상성 혈종","Injury of heart with haemopericardium with open wound into thoracic cavity, traumatic haematoma",S26.01
+세세세,S26.016,"흉강내로의 열린상처가 있는 혈심낭을 동반한 심장손상, 외상성 천자","Injury of heart with haemopericardium with open wound into thoracic cavity, traumatic puncture",S26.01
+세세세,S26.017,"흉강내로의 열린상처가 있는 혈심낭을 동반한 심장손상, 외상성 파열","Injury of heart with haemopericardium with open wound into thoracic cavity, traumatic rupture",S26.01
+세세세,S26.018,"흉강내로의 열린상처가 있는 혈심낭을 동반한 심장손상, 외상성 찢김","Injury of heart with haemopericardium with open wound into thoracic cavity, traumatic tear",S26.01
+세세세,S26.019,"흉강내로의 열린상처가 있는 혈심낭을 동반한 심장손상, 기타 및 상세불명의 손상","Injury of heart with haemopericardium with open wound into thoracic cavity, other and unspecified injuries",S26.01
+세세세,S26.800,"흉강내로의 열린상처가 없는 심장의 기타 손상, 폭풍손상","Other injuries of heart without open wound into thoracic cavity, blast injuries",S26.80
+세세세,S26.801,"흉강내로의 열린상처가 없는 심장의 기타 손상, 타박상","Other injuries of heart without open wound into thoracic cavity, bruise",S26.80
+세세세,S26.802,"흉강내로의 열린상처가 없는 심장의 기타 손상, 진탕손상","Other injuries of heart without open wound into thoracic cavity, concussion injuries",S26.80
+세세세,S26.803,"흉강내로의 열린상처가 없는 심장의 기타 손상, 으깸","Other injuries of heart without open wound into thoracic cavity, crushing",S26.80
+세세세,S26.804,"흉강내로의 열린상처가 없는 심장의 기타 손상, 열상","Other injuries of heart without open wound into thoracic cavity, laceration",S26.80
+세세세,S26.805,"흉강내로의 열린상처가 없는 심장의 기타 손상, 외상성 혈종","Other injuries of heart without open wound into thoracic cavity, traumatic haematoma",S26.80
+세세세,S26.806,"흉강내로의 열린상처가 없는 심장의 기타 손상, 외상성 천자","Other injuries of heart without open wound into thoracic cavity, traumatic puncture",S26.80
+세세세,S26.807,"흉강내로의 열린상처가 없는 심장의 기타 손상, 외상성 파열","Other injuries of heart without open wound into thoracic cavity, traumatic rupture",S26.80
+세세세,S26.808,"흉강내로의 열린상처가 없는 심장의 기타 손상, 외상성 찢김","Other injuries of heart without open wound into thoracic cavity, traumatic tear",S26.80
+세세세,S26.809,"흉강내로의 열린상처가 없는 심장의 기타 손상, 기타 및 상세불명의 손상","Other injuries of heart without open wound into thoracic cavity, other and unspecified injuries",S26.80
+세세세,S26.810,"흉강내로의 열린상처가 있는 심장의 기타 손상, 폭풍손상","Other injuries of heart with open wound into thoracic cavity, blast injuries",S26.81
+세세세,S26.811,"흉강내로의 열린상처가 있는 심장의 기타 손상, 타박상","Other injuries of heart with open wound into thoracic cavity, bruise",S26.81
+세세세,S26.812,"흉강내로의 열린상처가 있는 심장의 기타 손상, 진탕손상","Other injuries of heart with open wound into thoracic cavity, concussion injuries",S26.81
+세세세,S26.813,"흉강내로의 열린상처가 있는 심장의 기타 손상, 으깸","Other injuries of heart with open wound into thoracic cavity, crushing",S26.81
+세세세,S26.814,"흉강내로의 열린상처가 있는 심장의 기타 손상, 열상","Other injuries of heart with open wound into thoracic cavity, laceration",S26.81
+세세세,S26.815,"흉강내로의 열린상처가 있는 심장의 기타 손상, 외상성 혈종","Other injuries of heart with open wound into thoracic cavity, traumatic haematoma",S26.81
+세세세,S26.816,"흉강내로의 열린상처가 있는 심장의 기타 손상, 외상성 천자","Other injuries of heart with open wound into thoracic cavity, traumatic puncture",S26.81
+세세세,S26.817,"흉강내로의 열린상처가 있는 심장의 기타 손상, 외상성 파열","Other injuries of heart with open wound into thoracic cavity, traumatic rupture",S26.81
+세세세,S26.818,"흉강내로의 열린상처가 있는 심장의 기타 손상, 외상성 찢김","Other injuries of heart with open wound into thoracic cavity, traumatic tear",S26.81
+세세세,S26.819,"흉강내로의 열린상처가 있는 심장의 기타 손상, 기타 및 상세불명의 손상","Other injuries of heart with open wound into thoracic cavity, other and unspecified injuries",S26.81
+세세세,S26.900,"흉강내로의 열린상처가 없는 심장의 상세불명 손상, 폭풍손상","Injury of heart without open wound into thoracic cavity, unspecified, blast injuries",S26.90
+세세세,S26.901,"흉강내로의 열린상처가 없는 심장의 상세불명 손상, 타박상","Injury of heart without open wound into thoracic cavity, unspecified, bruise",S26.90
+세세세,S26.902,"흉강내로의 열린상처가 없는 심장의 상세불명 손상, 진탕손상","Injury of heart without open wound into thoracic cavity, unspecified, concussion injuries",S26.90
+세세세,S26.903,"흉강내로의 열린상처가 없는 심장의 상세불명 손상, 으깸","Injury of heart without open wound into thoracic cavity, unspecified, crushing",S26.90
+세세세,S26.904,"흉강내로의 열린상처가 없는 심장의 상세불명 손상, 열상","Injury of heart without open wound into thoracic cavity, unspecified, laceration",S26.90
+세세세,S26.905,"흉강내로의 열린상처가 없는 심장의 상세불명 손상, 외상성 혈종","Injury of heart without open wound into thoracic cavity, unspecified, traumatic haematoma",S26.90
+세세세,S26.906,"흉강내로의 열린상처가 없는 심장의 상세불명 손상, 외상성 천자","Injury of heart without open wound into thoracic cavity, unspecified, traumatic puncture",S26.90
+세세세,S26.907,"흉강내로의 열린상처가 없는 심장의 상세불명 손상, 외상성 파열","Injury of heart without open wound into thoracic cavity, unspecified, traumatic rupture",S26.90
+세세세,S26.908,"흉강내로의 열린상처가 없는 심장의 상세불명 손상, 외상성 찢김","Injury of heart without open wound into thoracic cavity, unspecified, traumatic tear",S26.90
+세세세,S26.909,"흉강내로의 열린상처가 없는 심장의 상세불명 손상, 기타 및 상세불명의 손상","Injury of heart without open wound into thoracic cavity, unspecified, other and unspecified injuries",S26.90
+세세세,S26.910,"흉강내로의 열린상처가 있는 심장의 상세불명 손상, 폭풍손상","Injury of heart with open wound into thoracic cavity, unspecified, blast injuries",S26.91
+세세세,S26.911,"흉강내로의 열린상처가 있는 심장의 상세불명 손상, 타박상","Injury of heart with open wound into thoracic cavity, unspecified, bruise",S26.91
+세세세,S26.912,"흉강내로의 열린상처가 있는 심장의 상세불명 손상, 진탕손상","Injury of heart with open wound into thoracic cavity, unspecified, concussion injuries",S26.91
+세세세,S26.913,"흉강내로의 열린상처가 있는 심장의 상세불명 손상, 으깸","Injury of heart with open wound into thoracic cavity, unspecified, crushing",S26.91
+세세세,S26.914,"흉강내로의 열린상처가 있는 심장의 상세불명 손상, 열상","Injury of heart with open wound into thoracic cavity, unspecified, laceration",S26.91
+세세세,S26.915,"흉강내로의 열린상처가 있는 심장의 상세불명 손상, 외상성 혈종","Injury of heart with open wound into thoracic cavity, unspecified, traumatic haematoma",S26.91
+세세세,S26.916,"흉강내로의 열린상처가 있는 심장의 상세불명 손상, 외상성 천자","Injury of heart with open wound into thoracic cavity, unspecified, traumatic puncture",S26.91
+세세세,S26.917,"흉강내로의 열린상처가 있는 심장의 상세불명 손상, 외상성 파열","Injury of heart with open wound into thoracic cavity, unspecified, traumatic rupture",S26.91
+세세세,S26.918,"흉강내로의 열린상처가 있는 심장의 상세불명 손상, 외상성 찢김","Injury of heart with open wound into thoracic cavity, unspecified, traumatic tear",S26.91
+세세세,S26.919,"흉강내로의 열린상처가 있는 심장의 상세불명 손상, 기타 및 상세불명의 손상","Injury of heart with open wound into thoracic cavity, unspecified, other and unspecified injuries",S26.91
+세세세,S27.000,"흉강내로의 열린상처가 없는 외상성 기흉, 폭풍손상","Traumatic pneumothorax without open wound into thoracic cavity, blast injuries",S27.00
+세세세,S27.001,"흉강내로의 열린상처가 없는 외상성 기흉, 타박상","Traumatic pneumothorax without open wound into thoracic cavity, bruise",S27.00
+세세세,S27.002,"흉강내로의 열린상처가 없는 외상성 기흉, 진탕손상","Traumatic pneumothorax without open wound into thoracic cavity, concussion injuries",S27.00
+세세세,S27.003,"흉강내로의 열린상처가 없는 외상성 기흉, 으깸","Traumatic pneumothorax without open wound into thoracic cavity, crushing",S27.00
+세세세,S27.004,"흉강내로의 열린상처가 없는 외상성 기흉, 열상","Traumatic pneumothorax without open wound into thoracic cavity, laceration",S27.00
+세세세,S27.005,"흉강내로의 열린상처가 없는 외상성 기흉, 외상성 혈종","Traumatic pneumothorax without open wound into thoracic cavity, traumatic haematoma",S27.00
+세세세,S27.006,"흉강내로의 열린상처가 없는 외상성 기흉, 외상성 천자","Traumatic pneumothorax without open wound into thoracic cavity, traumatic puncture",S27.00
+세세세,S27.007,"흉강내로의 열린상처가 없는 외상성 기흉, 외상성 파열","Traumatic pneumothorax without open wound into thoracic cavity, traumatic rupture",S27.00
+세세세,S27.008,"흉강내로의 열린상처가 없는 외상성 기흉, 외상성 찢김","Traumatic pneumothorax without open wound into thoracic cavity, traumatic tear",S27.00
+세세세,S27.009,"흉강내로의 열린상처가 없는 외상성 기흉, 기타 및 상세불명의 손상","Traumatic pneumothorax without open wound into thoracic cavity, other and unspecified injuries",S27.00
+세세세,S27.010,"흉강내로의 열린상처가 있는 외상성 기흉, 폭풍손상","Traumatic pneumothorax with open wound into thoracic cavity, blast injuries",S27.01
+세세세,S27.011,"흉강내로의 열린상처가 있는 외상성 기흉, 타박상","Traumatic pneumothorax with open wound into thoracic cavity, bruise",S27.01
+세세세,S27.012,"흉강내로의 열린상처가 있는 외상성 기흉, 진탕손상","Traumatic pneumothorax with open wound into thoracic cavity, concussion injuries",S27.01
+세세세,S27.013,"흉강내로의 열린상처가 있는 외상성 기흉, 으깸","Traumatic pneumothorax with open wound into thoracic cavity, crushing",S27.01
+세세세,S27.014,"흉강내로의 열린상처가 있는 외상성 기흉, 열상","Traumatic pneumothorax with open wound into thoracic cavity, laceration",S27.01
+세세세,S27.015,"흉강내로의 열린상처가 있는 외상성 기흉, 외상성 혈종","Traumatic pneumothorax with open wound into thoracic cavity, traumatic haematoma",S27.01
+세세세,S27.016,"흉강내로의 열린상처가 있는 외상성 기흉, 외상성 천자","Traumatic pneumothorax with open wound into thoracic cavity, traumatic puncture",S27.01
+세세세,S27.017,"흉강내로의 열린상처가 있는 외상성 기흉, 외상성 파열","Traumatic pneumothorax with open wound into thoracic cavity, traumatic rupture",S27.01
+세세세,S27.018,"흉강내로의 열린상처가 있는 외상성 기흉, 외상성 찢김","Traumatic pneumothorax with open wound into thoracic cavity, traumatic tear",S27.01
+세세세,S27.019,"흉강내로의 열린상처가 있는 외상성 기흉, 기타 및 상세불명의 손상","Traumatic pneumothorax with open wound into thoracic cavity, other and unspecified injuries",S27.01
+세세세,S27.100,"흉강내로의 열린상처가 없는 외상성 혈흉, 폭풍손상","Traumatic haemothorax without open wound into thoracic cavity, blast injuries",S27.10
+세세세,S27.101,"흉강내로의 열린상처가 없는 외상성 혈흉, 타박상","Traumatic haemothorax without open wound into thoracic cavity, bruise",S27.10
+세세세,S27.102,"흉강내로의 열린상처가 없는 외상성 혈흉, 진탕손상","Traumatic haemothorax without open wound into thoracic cavity, concussion injuries",S27.10
+세세세,S27.103,"흉강내로의 열린상처가 없는 외상성 혈흉, 으깸","Traumatic haemothorax without open wound into thoracic cavity, crushing",S27.10
+세세세,S27.104,"흉강내로의 열린상처가 없는 외상성 혈흉, 열상","Traumatic haemothorax without open wound into thoracic cavity, laceration",S27.10
+세세세,S27.105,"흉강내로의 열린상처가 없는 외상성 혈흉, 외상성 혈종","Traumatic haemothorax without open wound into thoracic cavity, traumatic haematoma",S27.10
+세세세,S27.106,"흉강내로의 열린상처가 없는 외상성 혈흉, 외상성 천자","Traumatic haemothorax without open wound into thoracic cavity, traumatic puncture",S27.10
+세세세,S27.107,"흉강내로의 열린상처가 없는 외상성 혈흉, 외상성 파열","Traumatic haemothorax without open wound into thoracic cavity, traumatic rupture",S27.10
+세세세,S27.108,"흉강내로의 열린상처가 없는 외상성 혈흉, 외상성 찢김","Traumatic haemothorax without open wound into thoracic cavity, traumatic tear",S27.10
+세세세,S27.109,"흉강내로의 열린상처가 없는 외상성 혈흉, 기타 및 상세불명의 손상","Traumatic haemothorax without open wound into thoracic cavity, other and unspecified injuries",S27.10
+세세세,S27.110,"흉강내로의 열린상처가 있는 외상성 혈흉, 폭풍손상","Traumatic haemothorax with open wound into thoracic cavity, blast injuries",S27.11
+세세세,S27.111,"흉강내로의 열린상처가 있는 외상성 혈흉, 타박상","Traumatic haemothorax with open wound into thoracic cavity, bruise",S27.11
+세세세,S27.112,"흉강내로의 열린상처가 있는 외상성 혈흉, 진탕손상","Traumatic haemothorax with open wound into thoracic cavity, concussion injuries",S27.11
+세세세,S27.113,"흉강내로의 열린상처가 있는 외상성 혈흉, 으깸","Traumatic haemothorax with open wound into thoracic cavity, crushing",S27.11
+세세세,S27.114,"흉강내로의 열린상처가 있는 외상성 혈흉, 열상","Traumatic haemothorax with open wound into thoracic cavity, laceration",S27.11
+세세세,S27.115,"흉강내로의 열린상처가 있는 외상성 혈흉, 외상성 혈종","Traumatic haemothorax with open wound into thoracic cavity, traumatic haematoma",S27.11
+세세세,S27.116,"흉강내로의 열린상처가 있는 외상성 혈흉, 외상성 천자","Traumatic haemothorax with open wound into thoracic cavity, traumatic puncture",S27.11
+세세세,S27.117,"흉강내로의 열린상처가 있는 외상성 혈흉, 외상성 파열","Traumatic haemothorax with open wound into thoracic cavity, traumatic rupture",S27.11
+세세세,S27.118,"흉강내로의 열린상처가 있는 외상성 혈흉, 외상성 찢김","Traumatic haemothorax with open wound into thoracic cavity, traumatic tear",S27.11
+세세세,S27.119,"흉강내로의 열린상처가 있는 외상성 혈흉, 기타 및 상세불명의 손상","Traumatic haemothorax with open wound into thoracic cavity, other and unspecified injuries",S27.11
+세세세,S27.200,"흉강내로의 열린상처가 없는 외상성 혈기흉, 폭풍손상","Traumatic haemopneumothorax without open wound into thoracic cavity, blast injuries",S27.20
+세세세,S27.201,"흉강내로의 열린상처가 없는 외상성 혈기흉, 타박상","Traumatic haemopneumothorax without open wound into thoracic cavity, bruise",S27.20
+세세세,S27.202,"흉강내로의 열린상처가 없는 외상성 혈기흉, 진탕손상","Traumatic haemopneumothorax without open wound into thoracic cavity, concussion injuries",S27.20
+세세세,S27.203,"흉강내로의 열린상처가 없는 외상성 혈기흉, 으깸","Traumatic haemopneumothorax without open wound into thoracic cavity, crushing",S27.20
+세세세,S27.204,"흉강내로의 열린상처가 없는 외상성 혈기흉, 열상","Traumatic haemopneumothorax without open wound into thoracic cavity, laceration",S27.20
+세세세,S27.205,"흉강내로의 열린상처가 없는 외상성 혈기흉, 외상성 혈종","Traumatic haemopneumothorax without open wound into thoracic cavity, traumatic haematoma",S27.20
+세세세,S27.206,"흉강내로의 열린상처가 없는 외상성 혈기흉, 외상성 천자","Traumatic haemopneumothorax without open wound into thoracic cavity, traumatic puncture",S27.20
+세세세,S27.207,"흉강내로의 열린상처가 없는 외상성 혈기흉, 외상성 파열","Traumatic haemopneumothorax without open wound into thoracic cavity, traumatic rupture",S27.20
+세세세,S27.208,"흉강내로의 열린상처가 없는 외상성 혈기흉, 외상성 찢김","Traumatic haemopneumothorax without open wound into thoracic cavity, traumatic tear",S27.20
+세세세,S27.209,"흉강내로의 열린상처가 없는 외상성 혈기흉, 기타 및 상세불명의 손상","Traumatic haemopneumothorax without open wound into thoracic cavity, other and unspecified injuries",S27.20
+세세세,S27.210,"흉강내로의 열린상처가 있는 외상성 혈기흉, 폭풍손상","Traumatic haemopneumothorax with open wound into thoracic cavity, blast injuries",S27.21
+세세세,S27.211,"흉강내로의 열린상처가 있는 외상성 혈기흉, 타박상","Traumatic haemopneumothorax with open wound into thoracic cavity, bruise",S27.21
+세세세,S27.212,"흉강내로의 열린상처가 있는 외상성 혈기흉, 진탕손상","Traumatic haemopneumothorax with open wound into thoracic cavity, concussion injuries",S27.21
+세세세,S27.213,"흉강내로의 열린상처가 있는 외상성 혈기흉, 으깸","Traumatic haemopneumothorax with open wound into thoracic cavity, crushing",S27.21
+세세세,S27.214,"흉강내로의 열린상처가 있는 외상성 혈기흉, 열상","Traumatic haemopneumothorax with open wound into thoracic cavity, laceration",S27.21
+세세세,S27.215,"흉강내로의 열린상처가 있는 외상성 혈기흉, 외상성 혈종","Traumatic haemopneumothorax with open wound into thoracic cavity, traumatic haematoma",S27.21
+세세세,S27.216,"흉강내로의 열린상처가 있는 외상성 혈기흉, 외상성 천자","Traumatic haemopneumothorax with open wound into thoracic cavity, traumatic puncture",S27.21
+세세세,S27.217,"흉강내로의 열린상처가 있는 외상성 혈기흉, 외상성 파열","Traumatic haemopneumothorax with open wound into thoracic cavity, traumatic rupture",S27.21
+세세세,S27.218,"흉강내로의 열린상처가 있는 외상성 혈기흉, 외상성 찢김","Traumatic haemopneumothorax with open wound into thoracic cavity, traumatic tear",S27.21
+세세세,S27.219,"흉강내로의 열린상처가 있는 외상성 혈기흉, 기타 및 상세불명의 손상","Traumatic haemopneumothorax with open wound into thoracic cavity, other and unspecified injuries",S27.21
+세세세,S27.300,"흉강내로의 열린상처가 없는 폐의 기타 손상, 폭풍손상","Other injuries of lung without open wound into thoracic cavity, blast injuries",S27.30
+세세세,S27.301,"흉강내로의 열린상처가 없는 폐의 기타 손상, 타박상","Other injuries of lung without open wound into thoracic cavity, bruise",S27.30
+세세세,S27.302,"흉강내로의 열린상처가 없는 폐의 기타 손상, 진탕손상","Other injuries of lung without open wound into thoracic cavity, concussion injuries",S27.30
+세세세,S27.303,"흉강내로의 열린상처가 없는 폐의 기타 손상, 으깸","Other injuries of lung without open wound into thoracic cavity, crushing",S27.30
+세세세,S27.304,"흉강내로의 열린상처가 없는 폐의 기타 손상, 열상","Other injuries of lung without open wound into thoracic cavity, laceration",S27.30
+세세세,S27.305,"흉강내로의 열린상처가 없는 폐의 기타 손상, 외상성 혈종","Other injuries of lung without open wound into thoracic cavity, traumatic haematoma",S27.30
+세세세,S27.306,"흉강내로의 열린상처가 없는 폐의 기타 손상, 외상성 천자","Other injuries of lung without open wound into thoracic cavity, traumatic puncture",S27.30
+세세세,S27.307,"흉강내로의 열린상처가 없는 폐의 기타 손상, 외상성 파열","Other injuries of lung without open wound into thoracic cavity, traumatic rupture",S27.30
+세세세,S27.308,"흉강내로의 열린상처가 없는 폐의 기타 손상, 외상성 찢김","Other injuries of lung without open wound into thoracic cavity, traumatic tear",S27.30
+세세세,S27.309,"흉강내로의 열린상처가 없는 폐의 기타 손상, 기타 및 상세불명의 손상","Other injuries of lung without open wound into thoracic cavity, other and unspecified injuries",S27.30
+세세세,S27.310,"흉강내로의 열린상처가 있는 폐의 기타 손상, 폭풍손상","Other injuries of lung with open wound into thoracic cavity, blast injuries",S27.31
+세세세,S27.311,"흉강내로의 열린상처가 있는 폐의 기타 손상, 타박상","Other injuries of lung with open wound into thoracic cavity, bruise",S27.31
+세세세,S27.312,"흉강내로의 열린상처가 있는 폐의 기타 손상, 진탕손상","Other injuries of lung with open wound into thoracic cavity, concussion injuries",S27.31
+세세세,S27.313,"흉강내로의 열린상처가 있는 폐의 기타 손상, 으깸","Other injuries of lung with open wound into thoracic cavity, crushing",S27.31
+세세세,S27.314,"흉강내로의 열린상처가 있는 폐의 기타 손상, 열상","Other injuries of lung with open wound into thoracic cavity, laceration",S27.31
+세세세,S27.315,"흉강내로의 열린상처가 있는 폐의 기타 손상, 외상성 혈종","Other injuries of lung with open wound into thoracic cavity, traumatic haematoma",S27.31
+세세세,S27.316,"흉강내로의 열린상처가 있는 폐의 기타 손상, 외상성 천자","Other injuries of lung with open wound into thoracic cavity, traumatic puncture",S27.31
+세세세,S27.317,"흉강내로의 열린상처가 있는 폐의 기타 손상, 외상성 파열","Other injuries of lung with open wound into thoracic cavity, traumatic rupture",S27.31
+세세세,S27.318,"흉강내로의 열린상처가 있는 폐의 기타 손상, 외상성 찢김","Other injuries of lung with open wound into thoracic cavity, traumatic tear",S27.31
+세세세,S27.319,"흉강내로의 열린상처가 있는 폐의 기타 손상, 기타 및 상세불명의 손상","Other injuries of lung with open wound into thoracic cavity, other and unspecified injuries",S27.31
+세세세,S27.400,"흉강내로의 열린상처가 없는 기관지의 손상, 폭풍손상","Injury of bronchus without open wound into thoracic cavity, blast injuries",S27.40
+세세세,S27.401,"흉강내로의 열린상처가 없는 기관지의 손상, 타박상","Injury of bronchus without open wound into thoracic cavity, bruise",S27.40
+세세세,S27.402,"흉강내로의 열린상처가 없는 기관지의 손상, 진탕손상","Injury of bronchus without open wound into thoracic cavity, concussion injuries",S27.40
+세세세,S27.403,"흉강내로의 열린상처가 없는 기관지의 손상, 으깸","Injury of bronchus without open wound into thoracic cavity, crushing",S27.40
+세세세,S27.404,"흉강내로의 열린상처가 없는 기관지의 손상, 열상","Injury of bronchus without open wound into thoracic cavity, laceration",S27.40
+세세세,S27.405,"흉강내로의 열린상처가 없는 기관지의 손상, 외상성 혈종","Injury of bronchus without open wound into thoracic cavity, traumatic haematoma",S27.40
+세세세,S27.406,"흉강내로의 열린상처가 없는 기관지의 손상, 외상성 천자","Injury of bronchus without open wound into thoracic cavity, traumatic puncture",S27.40
+세세세,S27.407,"흉강내로의 열린상처가 없는 기관지의 손상, 외상성 파열","Injury of bronchus without open wound into thoracic cavity, traumatic rupture",S27.40
+세세세,S27.408,"흉강내로의 열린상처가 없는 기관지의 손상, 외상성 찢김","Injury of bronchus without open wound into thoracic cavity, traumatic tear",S27.40
+세세세,S27.409,"흉강내로의 열린상처가 없는 기관지의 손상, 기타 및 상세불명의 손상","Injury of bronchus without open wound into thoracic cavity, other and unspecified injuries",S27.40
+세세세,S27.410,"흉강내로의 열린상처가 있는 기관지의 손상, 폭풍손상","Injury of bronchus with open wound into thoracic cavity, blast injuries",S27.41
+세세세,S27.411,"흉강내로의 열린상처가 있는 기관지의 손상, 타박상","Injury of bronchus with open wound into thoracic cavity, bruise",S27.41
+세세세,S27.412,"흉강내로의 열린상처가 있는 기관지의 손상, 진탕손상","Injury of bronchus with open wound into thoracic cavity, concussion injuries",S27.41
+세세세,S27.413,"흉강내로의 열린상처가 있는 기관지의 손상, 으깸","Injury of bronchus with open wound into thoracic cavity, crushing",S27.41
+세세세,S27.414,"흉강내로의 열린상처가 있는 기관지의 손상, 열상","Injury of bronchus with open wound into thoracic cavity, laceration",S27.41
+세세세,S27.415,"흉강내로의 열린상처가 있는 기관지의 손상, 외상성 혈종","Injury of bronchus with open wound into thoracic cavity, traumatic haematoma",S27.41
+세세세,S27.416,"흉강내로의 열린상처가 있는 기관지의 손상, 외상성 천자","Injury of bronchus with open wound into thoracic cavity, traumatic puncture",S27.41
+세세세,S27.417,"흉강내로의 열린상처가 있는 기관지의 손상, 외상성 파열","Injury of bronchus with open wound into thoracic cavity, traumatic rupture",S27.41
+세세세,S27.418,"흉강내로의 열린상처가 있는 기관지의 손상, 외상성 찢김","Injury of bronchus with open wound into thoracic cavity, traumatic tear",S27.41
+세세세,S27.419,"흉강내로의 열린상처가 있는 기관지의 손상, 기타 및 상세불명의 손상","Injury of bronchus with open wound into thoracic cavity, other and unspecified injuries",S27.41
+세세세,S27.500,"흉강내로의 열린상처가 없는 흉부기관의 손상, 폭풍손상","Injury of thoracic trachea without open wound into thoracic cavity, blast injuries",S27.50
+세세세,S27.501,"흉강내로의 열린상처가 없는 흉부기관의 손상, 타박상","Injury of thoracic trachea without open wound into thoracic cavity, bruise",S27.50
+세세세,S27.502,"흉강내로의 열린상처가 없는 흉부기관의 손상, 진탕손상","Injury of thoracic trachea without open wound into thoracic cavity, concussion injuries",S27.50
+세세세,S27.503,"흉강내로의 열린상처가 없는 흉부기관의 손상, 으깸","Injury of thoracic trachea without open wound into thoracic cavity, crushing",S27.50
+세세세,S27.504,"흉강내로의 열린상처가 없는 흉부기관의 손상, 열상","Injury of thoracic trachea without open wound into thoracic cavity, laceration",S27.50
+세세세,S27.505,"흉강내로의 열린상처가 없는 흉부기관의 손상, 외상성 혈종","Injury of thoracic trachea without open wound into thoracic cavity, traumatic haematoma",S27.50
+세세세,S27.506,"흉강내로의 열린상처가 없는 흉부기관의 손상, 외상성 천자","Injury of thoracic trachea without open wound into thoracic cavity, traumatic puncture",S27.50
+세세세,S27.507,"흉강내로의 열린상처가 없는 흉부기관의 손상, 외상성 파열","Injury of thoracic trachea without open wound into thoracic cavity, traumatic rupture",S27.50
+세세세,S27.508,"흉강내로의 열린상처가 없는 흉부기관의 손상, 외상성 찢김","Injury of thoracic trachea without open wound into thoracic cavity, traumatic tear",S27.50
+세세세,S27.509,"흉강내로의 열린상처가 없는 흉부기관의 손상, 기타 및 상세불명의 손상","Injury of thoracic trachea without open wound into thoracic cavity, other and unspecified injuries",S27.50
+세세세,S27.510,"흉강내로의 열린상처가 있는 흉부기관의 손상, 폭풍손상","Injury of thoracic trachea with open wound into thoracic cavity, blast injuries",S27.51
+세세세,S27.511,"흉강내로의 열린상처가 있는 흉부기관의 손상, 타박상","Injury of thoracic trachea with open wound into thoracic cavity, bruise",S27.51
+세세세,S27.512,"흉강내로의 열린상처가 있는 흉부기관의 손상, 진탕손상","Injury of thoracic trachea with open wound into thoracic cavity, concussion injuries",S27.51
+세세세,S27.513,"흉강내로의 열린상처가 있는 흉부기관의 손상, 으깸","Injury of thoracic trachea with open wound into thoracic cavity, crushing",S27.51
+세세세,S27.514,"흉강내로의 열린상처가 있는 흉부기관의 손상, 열상","Injury of thoracic trachea with open wound into thoracic cavity, laceration",S27.51
+세세세,S27.515,"흉강내로의 열린상처가 있는 흉부기관의 손상, 외상성 혈종","Injury of thoracic trachea with open wound into thoracic cavity, traumatic haematoma",S27.51
+세세세,S27.516,"흉강내로의 열린상처가 있는 흉부기관의 손상, 외상성 천자","Injury of thoracic trachea with open wound into thoracic cavity, traumatic puncture",S27.51
+세세세,S27.517,"흉강내로의 열린상처가 있는 흉부기관의 손상, 외상성 파열","Injury of thoracic trachea with open wound into thoracic cavity, traumatic rupture",S27.51
+세세세,S27.518,"흉강내로의 열린상처가 있는 흉부기관의 손상, 외상성 찢김","Injury of thoracic trachea with open wound into thoracic cavity, traumatic tear",S27.51
+세세세,S27.519,"흉강내로의 열린상처가 있는 흉부기관의 손상, 기타 및 상세불명의 손상","Injury of thoracic trachea with open wound into thoracic cavity, other and unspecified injuries",S27.51
+세세세,S27.600,"흉강내로의 열린상처가 없는 흉막의 손상, 폭풍손상","Injury of pleura without open wound into thoracic cavity, blast injuries",S27.60
+세세세,S27.601,"흉강내로의 열린상처가 없는 흉막의 손상, 타박상","Injury of pleura without open wound into thoracic cavity, bruise",S27.60
+세세세,S27.602,"흉강내로의 열린상처가 없는 흉막의 손상, 진탕손상","Injury of pleura without open wound into thoracic cavity, concussion injuries",S27.60
+세세세,S27.603,"흉강내로의 열린상처가 없는 흉막의 손상, 으깸","Injury of pleura without open wound into thoracic cavity, crushing",S27.60
+세세세,S27.604,"흉강내로의 열린상처가 없는 흉막의 손상, 열상","Injury of pleura without open wound into thoracic cavity, laceration",S27.60
+세세세,S27.605,"흉강내로의 열린상처가 없는 흉막의 손상, 외상성 혈종","Injury of pleura without open wound into thoracic cavity, traumatic haematoma",S27.60
+세세세,S27.606,"흉강내로의 열린상처가 없는 흉막의 손상, 외상성 천자","Injury of pleura without open wound into thoracic cavity, traumatic puncture",S27.60
+세세세,S27.607,"흉강내로의 열린상처가 없는 흉막의 손상, 외상성 파열","Injury of pleura without open wound into thoracic cavity, traumatic rupture",S27.60
+세세세,S27.608,"흉강내로의 열린상처가 없는 흉막의 손상, 외상성 찢김","Injury of pleura without open wound into thoracic cavity, traumatic tear",S27.60
+세세세,S27.609,"흉강내로의 열린상처가 없는 흉막의 손상, 기타 및 상세불명의 손상","Injury of pleura without open wound into thoracic cavity, other and unspecified injuries",S27.60
+세세세,S27.610,"흉강내로의 열린상처가 있는 흉막의 손상, 폭풍손상","Injury of pleura with open wound into thoracic cavity, blast injuries",S27.61
+세세세,S27.611,"흉강내로의 열린상처가 있는 흉막의 손상, 타박상","Injury of pleura with open wound into thoracic cavity, bruise",S27.61
+세세세,S27.612,"흉강내로의 열린상처가 있는 흉막의 손상, 진탕손상","Injury of pleura with open wound into thoracic cavity, concussion injuries",S27.61
+세세세,S27.613,"흉강내로의 열린상처가 있는 흉막의 손상, 으깸","Injury of pleura with open wound into thoracic cavity, crushing",S27.61
+세세세,S27.614,"흉강내로의 열린상처가 있는 흉막의 손상, 열상","Injury of pleura with open wound into thoracic cavity, laceration",S27.61
+세세세,S27.615,"흉강내로의 열린상처가 있는 흉막의 손상, 외상성 혈종","Injury of pleura with open wound into thoracic cavity, traumatic haematoma",S27.61
+세세세,S27.616,"흉강내로의 열린상처가 있는 흉막의 손상, 외상성 천자","Injury of pleura with open wound into thoracic cavity, traumatic puncture",S27.61
+세세세,S27.617,"흉강내로의 열린상처가 있는 흉막의 손상, 외상성 파열","Injury of pleura with open wound into thoracic cavity, traumatic rupture",S27.61
+세세세,S27.618,"흉강내로의 열린상처가 있는 흉막의 손상, 외상성 찢김","Injury of pleura with open wound into thoracic cavity, traumatic tear",S27.61
+세세세,S27.619,"흉강내로의 열린상처가 있는 흉막의 손상, 기타 및 상세불명의 손상","Injury of pleura with open wound into thoracic cavity, other and unspecified injuries",S27.61
+세세세,S27.800,"흉강내로의 열린상처가 없는 기타 명시된 흉곽내기관의 손상, 폭풍손상","Injury of other specified intrathoracic organs without open wound into thoracic cavity, blast injuries",S27.80
+세세세,S27.801,"흉강내로의 열린상처가 없는 기타 명시된 흉곽내기관의 손상, 타박상","Injury of other specified intrathoracic organs without open wound into thoracic cavity, bruise",S27.80
+세세세,S27.802,"흉강내로의 열린상처가 없는 기타 명시된 흉곽내기관의 손상, 진탕손상","Injury of other specified intrathoracic organs without open wound into thoracic cavity, concussion injuries",S27.80
+세세세,S27.803,"흉강내로의 열린상처가 없는 기타 명시된 흉곽내기관의 손상, 으깸","Injury of other specified intrathoracic organs without open wound into thoracic cavity, crushing",S27.80
+세세세,S27.804,"흉강내로의 열린상처가 없는 기타 명시된 흉곽내기관의 손상, 열상","Injury of other specified intrathoracic organs without open wound into thoracic cavity, laceration",S27.80
+세세세,S27.805,"흉강내로의 열린상처가 없는 기타 명시된 흉곽내기관의 손상, 외상성 혈종","Injury of other specified intrathoracic organs without open wound into thoracic cavity, traumatic haematoma",S27.80
+세세세,S27.806,"흉강내로의 열린상처가 없는 기타 명시된 흉곽내기관의 손상, 외상성 천자","Injury of other specified intrathoracic organs without open wound into thoracic cavity, traumatic puncture",S27.80
+세세세,S27.807,"흉강내로의 열린상처가 없는 기타 명시된 흉곽내기관의 손상, 외상성 파열","Injury of other specified intrathoracic organs without open wound into thoracic cavity, traumatic rupture",S27.80
+세세세,S27.808,"흉강내로의 열린상처가 없는 기타 명시된 흉곽내기관의 손상, 외상성 찢김","Injury of other specified intrathoracic organs without open wound into thoracic cavity, traumatic tear",S27.80
+세세세,S27.809,"흉강내로의 열린상처가 없는 기타 명시된 흉곽내기관의 손상, 기타 및 상세불명의 손상","Injury of other specified intrathoracic organs without open wound into thoracic cavity, other and unspecified injuries",S27.80
+세세세,S27.810,"흉강내로의 열린상처가 있는 기타 명시된 흉곽내기관의 손상, 폭풍손상","Injury of other specified intrathoracic organs with open wound into thoracic cavity, blast injuries",S27.81
+세세세,S27.811,"흉강내로의 열린상처가 있는 기타 명시된 흉곽내기관의 손상, 타박상","Injury of other specified intrathoracic organs with open wound into thoracic cavity, bruise",S27.81
+세세세,S27.812,"흉강내로의 열린상처가 있는 기타 명시된 흉곽내기관의 손상, 진탕손상","Injury of other specified intrathoracic organs with open wound into thoracic cavity, concussion injuries",S27.81
+세세세,S27.813,"흉강내로의 열린상처가 있는 기타 명시된 흉곽내기관의 손상, 으깸","Injury of other specified intrathoracic organs with open wound into thoracic cavity, crushing",S27.81
+세세세,S27.814,"흉강내로의 열린상처가 있는 기타 명시된 흉곽내기관의 손상, 열상","Injury of other specified intrathoracic organs with open wound into thoracic cavity, laceration",S27.81
+세세세,S27.815,"흉강내로의 열린상처가 있는 기타 명시된 흉곽내기관의 손상, 외상성 혈종","Injury of other specified intrathoracic organs with open wound into thoracic cavity, traumatic haematoma",S27.81
+세세세,S27.816,"흉강내로의 열린상처가 있는 기타 명시된 흉곽내기관의 손상, 외상성 천자","Injury of other specified intrathoracic organs with open wound into thoracic cavity, traumatic puncture",S27.81
+세세세,S27.817,"흉강내로의 열린상처가 있는 기타 명시된 흉곽내기관의 손상, 외상성 파열","Injury of other specified intrathoracic organs with open wound into thoracic cavity, traumatic rupture",S27.81
+세세세,S27.818,"흉강내로의 열린상처가 있는 기타 명시된 흉곽내기관의 손상, 외상성 찢김","Injury of other specified intrathoracic organs with open wound into thoracic cavity, traumatic tear",S27.81
+세세세,S27.819,"흉강내로의 열린상처가 있는 기타 명시된 흉곽내기관의 손상, 기타 및 상세불명의 손상","Injury of other specified intrathoracic organs with open wound into thoracic cavity, other and unspecified injuries",S27.81
+세세세,S27.900,"흉강내로의 열린상처가 없는 상세불명의 흉곽내기관의 손상, 폭풍손상","Injury of unspecified intrathoracic organ without open wound into thoracic cavity, blast injuries",S27.90
+세세세,S27.901,"흉강내로의 열린상처가 없는 상세불명의 흉곽내기관의 손상, 타박상","Injury of unspecified intrathoracic organ without open wound into thoracic cavity, bruise",S27.90
+세세세,S27.902,"흉강내로의 열린상처가 없는 상세불명의 흉곽내기관의 손상, 진탕손상","Injury of unspecified intrathoracic organ without open wound into thoracic cavity, concussion injuries",S27.90
+세세세,S27.903,"흉강내로의 열린상처가 없는 상세불명의 흉곽내기관의 손상, 으깸","Injury of unspecified intrathoracic organ without open wound into thoracic cavity, crushing",S27.90
+세세세,S27.904,"흉강내로의 열린상처가 없는 상세불명의 흉곽내기관의 손상, 열상","Injury of unspecified intrathoracic organ without open wound into thoracic cavity, laceration",S27.90
+세세세,S27.905,"흉강내로의 열린상처가 없는 상세불명의 흉곽내기관의 손상, 외상성 혈종","Injury of unspecified intrathoracic organ without open wound into thoracic cavity, traumatic haematoma",S27.90
+세세세,S27.906,"흉강내로의 열린상처가 없는 상세불명의 흉곽내기관의 손상, 외상성 천자","Injury of unspecified intrathoracic organ without open wound into thoracic cavity, traumatic puncture",S27.90
+세세세,S27.907,"흉강내로의 열린상처가 없는 상세불명의 흉곽내기관의 손상, 외상성 파열","Injury of unspecified intrathoracic organ without open wound into thoracic cavity, traumatic rupture",S27.90
+세세세,S27.908,"흉강내로의 열린상처가 없는 상세불명의 흉곽내기관의 손상, 외상성 찢김","Injury of unspecified intrathoracic organ without open wound into thoracic cavity, traumatic tear",S27.90
+세세세,S27.909,"흉강내로의 열린상처가 없는 상세불명의 흉곽내기관의 손상, 기타 및 상세불명의 손상","Injury of unspecified intrathoracic organ without open wound into thoracic cavity, other and unspecified injuries",S27.90
+세세세,S27.910,"흉강내로의 열린상처가 있는 상세불명의 흉곽내기관의 손상, 폭풍손상","Injury of unspecified intrathoracic organ with open wound into thoracic cavity, blast injuries",S27.91
+세세세,S27.911,"흉강내로의 열린상처가 있는 상세불명의 흉곽내기관의 손상, 타박상","Injury of unspecified intrathoracic organ with open wound into thoracic cavity, bruise",S27.91
+세세세,S27.912,"흉강내로의 열린상처가 있는 상세불명의 흉곽내기관의 손상, 진탕손상","Injury of unspecified intrathoracic organ with open wound into thoracic cavity, concussion injuries",S27.91
+세세세,S27.913,"흉강내로의 열린상처가 있는 상세불명의 흉곽내기관의 손상, 으깸","Injury of unspecified intrathoracic organ with open wound into thoracic cavity, crushing",S27.91
+세세세,S27.914,"흉강내로의 열린상처가 있는 상세불명의 흉곽내기관의 손상, 열상","Injury of unspecified intrathoracic organ with open wound into thoracic cavity, laceration",S27.91
+세세세,S27.915,"흉강내로의 열린상처가 있는 상세불명의 흉곽내기관의 손상, 외상성 혈종","Injury of unspecified intrathoracic organ with open wound into thoracic cavity, traumatic haematoma",S27.91
+세세세,S27.916,"흉강내로의 열린상처가 있는 상세불명의 흉곽내기관의 손상, 외상성 천자","Injury of unspecified intrathoracic organ with open wound into thoracic cavity, traumatic puncture",S27.91
+세세세,S27.917,"흉강내로의 열린상처가 있는 상세불명의 흉곽내기관의 손상, 외상성 파열","Injury of unspecified intrathoracic organ with open wound into thoracic cavity, traumatic rupture",S27.91
+세세세,S27.918,"흉강내로의 열린상처가 있는 상세불명의 흉곽내기관의 손상, 외상성 찢김","Injury of unspecified intrathoracic organ with open wound into thoracic cavity, traumatic tear",S27.91
+세세세,S27.919,"흉강내로의 열린상처가 있는 상세불명의 흉곽내기관의 손상, 기타 및 상세불명의 손상","Injury of unspecified intrathoracic organ with open wound into thoracic cavity, other and unspecified injuries",S27.91
+세세,S30.80,"복부, 아래등 및 골반의 기타 표재성 손상, 박리, 찰과상","Other superficial injuries of abdomen, lower back and pelvis, abrasion",S30.8
+세세,S30.81,"복부, 아래등 및 골반의 기타 표재성 손상, 수포","Other superficial injuries of abdomen, lower back and pelvis, blister",S30.8
+세세,S30.82,"복부, 아래등 및 골반의 기타 표재성 손상, 곤충물림(비독액성)","Other superficial injuries of abdomen, lower back and pelvis, insect bite (nonvenomous)",S30.8
+세세,S30.83,"복부, 아래등 및 골반의 기타 표재성 손상, 표재성 이물(파편)","Other superficial injuries of abdomen, lower back and pelvis, superficial foreign body (splinter)",S30.8
+세세,S30.88,"복부, 아래등 및 골반의 기타 표재성 손상, 기타 손상","Other superficial injuries of abdomen, lower back and pelvis, other injury",S30.8
+세세,S30.89,"복부, 아래등 및 골반의 기타 표재성 손상, 상세불명의 손상","Other superficial injuries of abdomen, lower back and pelvis, unspecified injury",S30.8
+세세,S30.90,"복부, 아래등 및 골반의 상세불명 부분의 표재성 손상, 박리, 찰과상","Superficial injury of abdomen, lower back and pelvis, part unspecified, abrasion",S30.9
+세세,S30.91,"복부, 아래등 및 골반의 상세불명 부분의 표재성 손상, 수포","Superficial injury of abdomen, lower back and pelvis, part unspecified, blister",S30.9
+세세,S30.92,"복부, 아래등 및 골반의 상세불명 부분의 표재성 손상, 곤충물림(비독액성)","Superficial injury of abdomen, lower back and pelvis, part unspecified, insect bite (nonvenomous)",S30.9
+세세,S30.93,"복부, 아래등 및 골반의 상세불명 부분의 표재성 손상, 표재성 이물(파편)","Superficial injury of abdomen, lower back and pelvis, part unspecified, superficial foreign body (splinter)",S30.9
+세세,S30.98,"복부, 아래등 및 골반의 상세불명 부분의 표재성 손상, 기타 손상","Superficial injury of abdomen, lower back and pelvis, part unspecified, other injury",S30.9
+세세,S30.99,"복부, 아래등 및 골반의 상세불명 부분의 표재성 손상, 상세불명의 손상","Superficial injury of abdomen, lower back and pelvis, part unspecified, unspecified injury",S30.9
+세세,S35.00,"복부대동맥의 손상, 찢김","Injury of abdominal aorta, avulsion",S35.0
+세세,S35.01,"복부대동맥의 손상, 절단","Injury of abdominal aorta, cut",S35.0
+세세,S35.02,"복부대동맥의 손상, 열상","Injury of abdominal aorta, laceration",S35.0
+세세,S35.03,"복부대동맥의 손상, 외상성 동맥류","Injury of abdominal aorta, traumatic aneurysm",S35.0
+세세,S35.04,"복부대동맥의 손상, 외상성 (동정맥)누공","Injury of abdominal aorta, traumatic fistula (arteriovenous)",S35.0
+세세,S35.05,"복부대동맥의 손상, 외상성 동맥혈종","Injury of abdominal aorta, traumatic arterial haematoma",S35.0
+세세,S35.06,"복부대동맥의 손상, 외상성 파열","Injury of abdominal aorta, traumatic rupture",S35.0
+세세,S35.08,"복부대동맥의 손상, 기타 및 상세불명의 손상","Injury of abdominal aorta, other and unspecified injuries",S35.0
+세세,S35.10,"하대정맥의 손상, 찢김","Injury of inferior vena cava, avulsion",S35.1
+세세,S35.11,"하대정맥의 손상, 절단","Injury of inferior vena cava, cut",S35.1
+세세,S35.12,"하대정맥의 손상, 열상","Injury of inferior vena cava, laceration",S35.1
+세세,S35.16,"하대정맥의 손상, 외상성 파열","Injury of inferior vena cava, traumatic rupture",S35.1
+세세,S35.18,"하대정맥의 손상, 기타 및 상세불명의 손상","Injury of inferior vena cava, other and unspecified injuries",S35.1
+세세,S35.20,"복강 또는 장간막 동맥의 손상, 찢김","Injury of coeliac or mesenteric artery, avulsion",S35.2
+세세,S35.21,"복강 또는 장간막 동맥의 손상, 절단","Injury of coeliac or mesenteric artery, cut",S35.2
+세세,S35.22,"복강 또는 장간막 동맥의 손상, 열상","Injury of coeliac or mesenteric artery, laceration",S35.2
+세세,S35.23,"복강 또는 장간막 동맥의 손상, 외상성 동맥류","Injury of coeliac or mesenteric artery, traumatic aneurysm",S35.2
+세세,S35.24,"복강 또는 장간막 동맥의 손상, 외상성 (동정맥)누공","Injury of coeliac or mesenteric artery, traumatic fistula (arteriovenous)",S35.2
+세세,S35.25,"복강 또는 장간막 동맥의 손상, 외상성 동맥혈종","Injury of coeliac or mesenteric artery, traumatic arterial haematoma",S35.2
+세세,S35.26,"복강 또는 장간막 동맥의 손상, 외상성 파열","Injury of coeliac or mesenteric artery, traumatic rupture",S35.2
+세세,S35.28,"복강 또는 장간막 동맥의 손상, 기타 및 상세불명의 손상","Injury of coeliac or mesenteric artery, other and unspecified injuries",S35.2
+세세,S35.30,"문맥 및 비장정맥의 손상, 찢김","Injury of portal or splenic vein, avulsion",S35.3
+세세,S35.31,"문맥 및 비장정맥의 손상, 절단","Injury of portal or splenic vein, cut",S35.3
+세세,S35.32,"문맥 및 비장정맥의 손상, 열상","Injury of portal or splenic vein, laceration",S35.3
+세세,S35.36,"문맥 및 비장정맥의 손상, 외상성 파열","Injury of portal or splenic vein, traumatic rupture",S35.3
+세세,S35.38,"문맥 및 비장정맥의 손상, 기타 및 상세불명의 손상","Injury of portal or splenic vein, other and unspecified injuries",S35.3
+세세,S35.40,"신장혈관의 손상, 찢김","Injury of renal blood vessels, avulsion",S35.4
+세세,S35.41,"신장혈관의 손상, 절단","Injury of renal blood vessels, cut",S35.4
+세세,S35.42,"신장혈관의 손상, 열상","Injury of renal blood vessels, laceration",S35.4
+세세,S35.43,"신장혈관의 손상, 외상성 동맥류","Injury of renal blood vessels, traumatic aneurysm",S35.4
+세세,S35.44,"신장혈관의 손상, 외상성 (동정맥)누공","Injury of renal blood vessels, traumatic fistula (arteriovenous)",S35.4
+세세,S35.45,"신장혈관의 손상, 외상성 동맥혈종","Injury of renal blood vessels, traumatic arterial haematoma",S35.4
+세세,S35.46,"신장혈관의 손상, 외상성 파열","Injury of renal blood vessels, traumatic rupture",S35.4
+세세,S35.48,"신장혈관의 손상, 기타 및 상세불명의 손상","Injury of renal blood vessels, other and unspecified injuries",S35.4
+세세,S35.50,"장골혈관의 손상, 찢김","Injury of iliac blood vessels, avulsion",S35.5
+세세,S35.51,"장골혈관의 손상, 절단","Injury of iliac blood vessels, cut",S35.5
+세세,S35.52,"장골혈관의 손상, 열상","Injury of iliac blood vessels, laceration",S35.5
+세세,S35.53,"장골혈관의 손상, 외상성 동맥류","Injury of iliac blood vessels, traumatic aneurysm",S35.5
+세세,S35.54,"장골혈관의 손상, 외상성 (동정맥)누공","Injury of iliac blood vessels, traumatic fistula (arteriovenous)",S35.5
+세세,S35.55,"장골혈관의 손상, 외상성 동맥혈종","Injury of iliac blood vessels, traumatic arterial haematoma",S35.5
+세세,S35.56,"장골혈관의 손상, 외상성 파열","Injury of iliac blood vessels, traumatic rupture",S35.5
+세세,S35.58,"장골혈관의 손상, 기타 및 상세불명의 손상","Injury of iliac blood vessels, other and unspecified injuries",S35.5
+세세,S35.80,"복부, 아래등 및 골반 부위의 기타 혈관손상, 찢김","Injury of other blood vessels at abdomen, lower back and pelvis level, avulsion",S35.8
+세세,S35.81,"복부, 아래등 및 골반 부위의 기타 혈관손상, 절단","Injury of other blood vessels at abdomen, lower back and pelvis level, cut",S35.8
+세세,S35.82,"복부, 아래등 및 골반 부위의 기타 혈관손상, 열상","Injury of other blood vessels at abdomen, lower back and pelvis level, laceration",S35.8
+세세,S35.83,"복부, 아래등 및 골반 부위의 기타 혈관손상, 외상성 동맥류","Injury of other blood vessels at abdomen, lower back and pelvis level, traumatic aneurysm",S35.8
+세세,S35.84,"복부, 아래등 및 골반 부위의 기타 혈관손상, 외상성 (동정맥)누공","Injury of other blood vessels at abdomen, lower back and pelvis level, traumatic fistula (arteriovenous)",S35.8
+세세,S35.85,"복부, 아래등 및 골반 부위의 기타 혈관손상, 외상성 동맥혈종","Injury of other blood vessels at abdomen, lower back and pelvis level, traumatic arterial haematoma",S35.8
+세세,S35.86,"복부, 아래등 및 골반 부위의 기타 혈관손상, 외상성 파열","Injury of other blood vessels at abdomen, lower back and pelvis level, traumatic rupture",S35.8
+세세,S35.88,"복부, 아래등 및 골반 부위의 기타 혈관손상, 기타 및 상세불명의 손상","Injury of other blood vessels at abdomen, lower back and pelvis level, other and unspecified injuries",S35.8
+세세,S35.90,"복부, 아래등 및 골반 부위의 상세불명 혈관손상, 찢김","Injury of unspecified blood vessel at abdomen, lower back and pelvis level, avulsion",S35.9
+세세,S35.91,"복부, 아래등 및 골반 부위의 상세불명 혈관손상, 절단","Injury of unspecified blood vessel at abdomen, lower back and pelvis level, cut",S35.9
+세세,S35.92,"복부, 아래등 및 골반 부위의 상세불명 혈관손상, 열상","Injury of unspecified blood vessel at abdomen, lower back and pelvis level, laceration",S35.9
+세세,S35.93,"복부, 아래등 및 골반 부위의 상세불명 혈관손상, 외상성 동맥류","Injury of unspecified blood vessel at abdomen, lower back and pelvis level, traumatic aneurysm",S35.9
+세세,S35.94,"복부, 아래등 및 골반 부위의 상세불명 혈관손상, 외상성 (동정맥)누공","Injury of unspecified blood vessel at abdomen, lower back and pelvis level, traumatic fistula (arteriovenous)",S35.9
+세세,S35.95,"복부, 아래등 및 골반 부위의 상세불명 혈관손상, 외상성 동맥혈종","Injury of unspecified blood vessel at abdomen, lower back and pelvis level, traumatic arterial haematoma",S35.9
+세세,S35.96,"복부, 아래등 및 골반 부위의 상세불명 혈관손상, 외상성 파열","Injury of unspecified blood vessel at abdomen, lower back and pelvis level, traumatic rupture",S35.9
+세세,S35.98,"복부, 아래등 및 골반 부위의 상세불명 혈관손상, 기타 및 상세불명의 손상","Injury of unspecified blood vessel at abdomen, lower back and pelvis level, other and unspecified injuries",S35.9
+세세세,S36.000,"강내로의 열린상처가 없는 비장의 손상, 폭풍손상","Injury of spleen without open wound into cavity, blast injuries",S36.00
+세세세,S36.001,"강내로의 열린상처가 없는 비장의 손상, 타박상","Injury of spleen without open wound into cavity, bruise",S36.00
+세세세,S36.002,"강내로의 열린상처가 없는 비장의 손상, 진탕손상","Injury of spleen without open wound into cavity, concussion injuries",S36.00
+세세세,S36.003,"강내로의 열린상처가 없는 비장의 손상, 으깸","Injury of spleen without open wound into cavity, crushing",S36.00
+세세세,S36.004,"강내로의 열린상처가 없는 비장의 손상, 열상","Injury of spleen without open wound into cavity, laceration",S36.00
+세세세,S36.005,"강내로의 열린상처가 없는 비장의 손상, 외상성 혈종","Injury of spleen without open wound into cavity, traumatic haematoma",S36.00
+세세세,S36.006,"강내로의 열린상처가 없는 비장의 손상, 외상성 천자","Injury of spleen without open wound into cavity, traumatic puncture",S36.00
+세세세,S36.007,"강내로의 열린상처가 없는 비장의 손상, 외상성 파열","Injury of spleen without open wound into cavity, traumatic rupture",S36.00
+세세세,S36.008,"강내로의 열린상처가 없는 비장의 손상, 외상성 찢김","Injury of spleen without open wound into cavity, traumatic tear",S36.00
+세세세,S36.009,"강내로의 열린상처가 없는 비장의 손상, 기타 및 상세불명의 손상","Injury of spleen without open wound into cavity, other and unspecified injuries",S36.00
+세세세,S36.010,"강내로의 열린상처가 있는 비장의 손상, 폭풍손상","Injury of spleen with open wound into cavity, blast injuries",S36.01
+세세세,S36.011,"강내로의 열린상처가 있는 비장의 손상, 타박상","Injury of spleen with open wound into cavity, bruise",S36.01
+세세세,S36.012,"강내로의 열린상처가 있는 비장의 손상, 진탕손상","Injury of spleen with open wound into cavity, concussion injuries",S36.01
+세세세,S36.013,"강내로의 열린상처가 있는 비장의 손상, 으깸","Injury of spleen with open wound into cavity, crushing",S36.01
+세세세,S36.014,"강내로의 열린상처가 있는 비장의 손상, 열상","Injury of spleen with open wound into cavity, laceration",S36.01
+세세세,S36.015,"강내로의 열린상처가 있는 비장의 손상, 외상성 혈종","Injury of spleen with open wound into cavity, traumatic haematoma",S36.01
+세세세,S36.016,"강내로의 열린상처가 있는 비장의 손상, 외상성 천자","Injury of spleen with open wound into cavity, traumatic puncture",S36.01
+세세세,S36.017,"강내로의 열린상처가 있는 비장의 손상, 외상성 파열","Injury of spleen with open wound into cavity, traumatic rupture",S36.01
+세세세,S36.018,"강내로의 열린상처가 있는 비장의 손상, 외상성 찢김","Injury of spleen with open wound into cavity, traumatic tear",S36.01
+세세세,S36.019,"강내로의 열린상처가 있는 비장의 손상, 기타 및 상세불명의 손상","Injury of spleen with open wound into cavity, other and unspecified injuries",S36.01
+세세세,S36.200,"강내로의 열린상처가 없는 췌장의 손상, 폭풍손상","Injury of pancreas without open wound into cavity, blast injuries",S36.20
+세세세,S36.201,"강내로의 열린상처가 없는 췌장의 손상, 타박상","Injury of pancreas without open wound into cavity, bruise",S36.20
+세세세,S36.202,"강내로의 열린상처가 없는 췌장의 손상, 진탕손상","Injury of pancreas without open wound into cavity, concussion injuries",S36.20
+세세세,S36.203,"강내로의 열린상처가 없는 췌장의 손상, 으깸","Injury of pancreas without open wound into cavity, crushing",S36.20
+세세세,S36.204,"강내로의 열린상처가 없는 췌장의 손상, 열상","Injury of pancreas without open wound into cavity, laceration",S36.20
+세세세,S36.205,"강내로의 열린상처가 없는 췌장의 손상, 외상성 혈종","Injury of pancreas without open wound into cavity, traumatic haematoma",S36.20
+세세세,S36.206,"강내로의 열린상처가 없는 췌장의 손상, 외상성 천자","Injury of pancreas without open wound into cavity, traumatic puncture",S36.20
+세세세,S36.207,"강내로의 열린상처가 없는 췌장의 손상, 외상성 파열","Injury of pancreas without open wound into cavity, traumatic rupture",S36.20
+세세세,S36.208,"강내로의 열린상처가 없는 췌장의 손상, 외상성 찢김","Injury of pancreas without open wound into cavity, traumatic tear",S36.20
+세세세,S36.209,"강내로의 열린상처가 없는 췌장의 손상, 기타 및 상세불명의 손상","Injury of pancreas without open wound into cavity, other and unspecified injuries",S36.20
+세세세,S36.210,"강내로의 열린상처가 있는 췌장의 손상, 폭풍손상","Injury of pancreas with open wound into cavity, blast injuries",S36.21
+세세세,S36.211,"강내로의 열린상처가 있는 췌장의 손상, 타박상","Injury of pancreas with open wound into cavity, bruise",S36.21
+세세세,S36.212,"강내로의 열린상처가 있는 췌장의 손상, 진탕손상","Injury of pancreas with open wound into cavity, concussion injuries",S36.21
+세세세,S36.213,"강내로의 열린상처가 있는 췌장의 손상, 으깸","Injury of pancreas with open wound into cavity, crushing",S36.21
+세세세,S36.214,"강내로의 열린상처가 있는 췌장의 손상, 열상","Injury of pancreas with open wound into cavity, laceration",S36.21
+세세세,S36.215,"강내로의 열린상처가 있는 췌장의 손상, 외상성 혈종","Injury of pancreas with open wound into cavity, traumatic haematoma",S36.21
+세세세,S36.216,"강내로의 열린상처가 있는 췌장의 손상, 외상성 천자","Injury of pancreas with open wound into cavity, traumatic puncture",S36.21
+세세세,S36.217,"강내로의 열린상처가 있는 췌장의 손상, 외상성 파열","Injury of pancreas with open wound into cavity, traumatic rupture",S36.21
+세세세,S36.218,"강내로의 열린상처가 있는 췌장의 손상, 외상성 찢김","Injury of pancreas with open wound into cavity, traumatic tear",S36.21
+세세세,S36.219,"강내로의 열린상처가 있는 췌장의 손상, 기타 및 상세불명의 손상","Injury of pancreas with open wound into cavity, other and unspecified injuries",S36.21
+세세세,S36.300,"강내로의 열린상처가 없는 위의 손상, 폭풍손상","Injury of stomach without open wound into cavity, blast injuries",S36.30
+세세세,S36.301,"강내로의 열린상처가 없는 위의 손상, 타박상","Injury of stomach without open wound into cavity, bruise",S36.30
+세세세,S36.302,"강내로의 열린상처가 없는 위의 손상, 진탕손상","Injury of stomach without open wound into cavity, concussion injuries",S36.30
+세세세,S36.303,"강내로의 열린상처가 없는 위의 손상, 으깸","Injury of stomach without open wound into cavity, crushing",S36.30
+세세세,S36.304,"강내로의 열린상처가 없는 위의 손상, 열상","Injury of stomach without open wound into cavity, laceration",S36.30
+세세세,S36.305,"강내로의 열린상처가 없는 위의 손상, 외상성 혈종","Injury of stomach without open wound into cavity, traumatic haematoma",S36.30
+세세세,S36.306,"강내로의 열린상처가 없는 위의 손상, 외상성 천자","Injury of stomach without open wound into cavity, traumatic puncture",S36.30
+세세세,S36.307,"강내로의 열린상처가 없는 위의 손상, 외상성 파열","Injury of stomach without open wound into cavity, traumatic rupture",S36.30
+세세세,S36.308,"강내로의 열린상처가 없는 위의 손상, 외상성 찢김","Injury of stomach without open wound into cavity, traumatic tear",S36.30
+세세세,S36.309,"강내로의 열린상처가 없는 위의 손상, 기타 및 상세불명의 손상","Injury of stomach without open wound into cavity, other and unspecified injuries",S36.30
+세세세,S36.310,"강내로의 열린상처가 있는 위의 손상, 폭풍손상","Injury of stomach with open wound into cavity, blast injuries",S36.31
+세세세,S36.311,"강내로의 열린상처가 있는 위의 손상, 타박상","Injury of stomach with open wound into cavity, bruise",S36.31
+세세세,S36.312,"강내로의 열린상처가 있는 위의 손상, 진탕손상","Injury of stomach with open wound into cavity, concussion injuries",S36.31
+세세세,S36.313,"강내로의 열린상처가 있는 위의 손상, 으깸","Injury of stomach with open wound into cavity, crushing",S36.31
+세세세,S36.314,"강내로의 열린상처가 있는 위의 손상, 열상","Injury of stomach with open wound into cavity, laceration",S36.31
+세세세,S36.315,"강내로의 열린상처가 있는 위의 손상, 외상성 혈종","Injury of stomach with open wound into cavity, traumatic haematoma",S36.31
+세세세,S36.316,"강내로의 열린상처가 있는 위의 손상, 외상성 천자","Injury of stomach with open wound into cavity, traumatic puncture",S36.31
+세세세,S36.317,"강내로의 열린상처가 있는 위의 손상, 외상성 파열","Injury of stomach with open wound into cavity, traumatic rupture",S36.31
+세세세,S36.318,"강내로의 열린상처가 있는 위의 손상, 외상성 찢김","Injury of stomach with open wound into cavity, traumatic tear",S36.31
+세세세,S36.319,"강내로의 열린상처가 있는 위의 손상, 기타 및 상세불명의 손상","Injury of stomach with open wound into cavity, other and unspecified injuries",S36.31
+세세세,S36.400,강내로의 열린상처가 없는 십이지장의 손상,Injury of duodenum without open wound into cavity,S36.40
+세세세,S36.401,강내로의 열린상처가 없는 공장의 손상,Injury of jejunum without open wound into cavity,S36.40
+세세세,S36.402,강내로의 열린상처가 없는 회장의 손상,Injury of ileum without open wound into cavity,S36.40
+세세세,S36.408,강내로의 열린상처가 없는 기타 및 상세불명 소장의 손상,Injury of other or unspecified small intestine without open wound into cavity,S36.40
+세세세,S36.410,강내로의 열린상처가 있는 십이지장의 손상,Injury of duodenum with open wound into cavity,S36.41
+세세세,S36.411,강내로의 열린상처가 있는 공장의 손상,Injury of jejunum with open wound into cavity,S36.41
+세세세,S36.412,강내로의 열린상처가 있는 회장의 손상,Injury of ileum with open wound into cavity,S36.41
+세세세,S36.418,강내로의 열린상처가 있는 기타 및 상세불명 소장의 손상,Injury of other or unspecified small intestine with open wound into cavity,S36.41
+세세세,S36.500,"강내로의 열린상처가 없는 결장의 손상, 폭풍손상","Injury of colon without open wound into cavity, blast injuries",S36.50
+세세세,S36.501,"강내로의 열린상처가 없는 결장의 손상, 타박상","Injury of colon without open wound into cavity, bruise",S36.50
+세세세,S36.502,"강내로의 열린상처가 없는 결장의 손상, 진탕손상","Injury of colon without open wound into cavity, concussion injuries",S36.50
+세세세,S36.503,"강내로의 열린상처가 없는 결장의 손상, 으깸","Injury of colon without open wound into cavity, crushing",S36.50
+세세세,S36.504,"강내로의 열린상처가 없는 결장의 손상, 열상","Injury of colon without open wound into cavity, laceration",S36.50
+세세세,S36.505,"강내로의 열린상처가 없는 결장의 손상, 외상성 혈종","Injury of colon without open wound into cavity, traumatic haematoma",S36.50
+세세세,S36.506,"강내로의 열린상처가 없는 결장의 손상, 외상성 천자","Injury of colon without open wound into cavity, traumatic puncture",S36.50
+세세세,S36.507,"강내로의 열린상처가 없는 결장의 손상, 외상성 파열","Injury of colon without open wound into cavity, traumatic rupture",S36.50
+세세세,S36.508,"강내로의 열린상처가 없는 결장의 손상, 외상성 찢김","Injury of colon without open wound into cavity, traumatic tear",S36.50
+세세세,S36.509,"강내로의 열린상처가 없는 결장의 손상, 기타 및 상세불명의 손상","Injury of colon without open wound into cavity, other and unspecified injuries",S36.50
+세세세,S36.510,"강내로의 열린상처가 있는 결장의 손상, 폭풍손상","Injury of colon with open wound into cavity, blast injuries",S36.51
+세세세,S36.511,"강내로의 열린상처가 있는 결장의 손상, 타박상","Injury of colon with open wound into cavity, bruise",S36.51
+세세세,S36.512,"강내로의 열린상처가 있는 결장의 손상, 진탕손상","Injury of colon with open wound into cavity, concussion injuries",S36.51
+세세세,S36.513,"강내로의 열린상처가 있는 결장의 손상, 으깸","Injury of colon with open wound into cavity, crushing",S36.51
+세세세,S36.514,"강내로의 열린상처가 있는 결장의 손상, 열상","Injury of colon with open wound into cavity, laceration",S36.51
+세세세,S36.515,"강내로의 열린상처가 있는 결장의 손상, 외상성 혈종","Injury of colon with open wound into cavity, traumatic haematoma",S36.51
+세세세,S36.516,"강내로의 열린상처가 있는 결장의 손상, 외상성 천자","Injury of colon with open wound into cavity, traumatic puncture",S36.51
+세세세,S36.517,"강내로의 열린상처가 있는 결장의 손상, 외상성 파열","Injury of colon with open wound into cavity, traumatic rupture",S36.51
+세세세,S36.518,"강내로의 열린상처가 있는 결장의 손상, 외상성 찢김","Injury of colon with open wound into cavity, traumatic tear",S36.51
+세세세,S36.519,"강내로의 열린상처가 있는 결장의 손상, 기타 및 상세불명의 손상","Injury of colon with open wound into cavity, other and unspecified injuries",S36.51
+세세세,S36.600,"강내로의 열린상처가 없는 직장의 손상, 폭풍손상","Injury of rectum without open wound into cavity, blast injuries",S36.60
+세세세,S36.601,"강내로의 열린상처가 없는 직장의 손상, 타박상","Injury of rectum without open wound into cavity, bruise",S36.60
+세세세,S36.602,"강내로의 열린상처가 없는 직장의 손상, 진탕손상","Injury of rectum without open wound into cavity, concussion injuries",S36.60
+세세세,S36.603,"강내로의 열린상처가 없는 직장의 손상, 으깸","Injury of rectum without open wound into cavity, crushing",S36.60
+세세세,S36.604,"강내로의 열린상처가 없는 직장의 손상, 열상","Injury of rectum without open wound into cavity, laceration",S36.60
+세세세,S36.605,"강내로의 열린상처가 없는 직장의 손상, 외상성 혈종","Injury of rectum without open wound into cavity, traumatic haematoma",S36.60
+세세세,S36.606,"강내로의 열린상처가 없는 직장의 손상, 외상성 천자","Injury of rectum without open wound into cavity, traumatic puncture",S36.60
+세세세,S36.607,"강내로의 열린상처가 없는 직장의 손상, 외상성 파열","Injury of rectum without open wound into cavity, traumatic rupture",S36.60
+세세세,S36.608,"강내로의 열린상처가 없는 직장의 손상, 외상성 찢김","Injury of rectum without open wound into cavity, traumatic tear",S36.60
+세세세,S36.609,"강내로의 열린상처가 없는 직장의 손상, 기타 및 상세불명의 손상","Injury of rectum without open wound into cavity, other and unspecified injuries",S36.60
+세세세,S36.610,"강내로의 열린상처가 있는 직장의 손상, 폭풍손상","Injury of rectum with open wound into cavity, blast injuries",S36.61
+세세세,S36.611,"강내로의 열린상처가 있는 직장의 손상, 타박상","Injury of rectum with open wound into cavity, bruise",S36.61
+세세세,S36.612,"강내로의 열린상처가 있는 직장의 손상, 진탕손상","Injury of rectum with open wound into cavity, concussion injuries",S36.61
+세세세,S36.613,"강내로의 열린상처가 있는 직장의 손상, 으깸","Injury of rectum with open wound into cavity, crushing",S36.61
+세세세,S36.614,"강내로의 열린상처가 있는 직장의 손상, 열상","Injury of rectum with open wound into cavity, laceration",S36.61
+세세세,S36.615,"강내로의 열린상처가 있는 직장의 손상, 외상성 혈종","Injury of rectum with open wound into cavity, traumatic haematoma",S36.61
+세세세,S36.616,"강내로의 열린상처가 있는 직장의 손상, 외상성 천자","Injury of rectum with open wound into cavity, traumatic puncture",S36.61
+세세세,S36.617,"강내로의 열린상처가 있는 직장의 손상, 외상성 파열","Injury of rectum with open wound into cavity, traumatic rupture",S36.61
+세세세,S36.618,"강내로의 열린상처가 있는 직장의 손상, 외상성 찢김","Injury of rectum with open wound into cavity, traumatic tear",S36.61
+세세세,S36.619,"강내로의 열린상처가 있는 직장의 손상, 기타 및 상세불명의 손상","Injury of rectum with open wound into cavity, other and unspecified injuries",S36.61
+세세세,S36.800,강내로의 열린상처가 없는 복막의 손상,Injury of peritoneum without open wound into cavity,S36.80
+세세세,S36.801,강내로의 열린상처가 없는 후복막의 손상,Injury of retroperitoneum without open wound into cavity,S36.80
+세세세,S36.802,강내로의 열린상처가 없는 그물막의 손상,Injury of omentum without open wound into cavity,S36.80
+세세세,S36.803,강내로의 열린상처가 없는 장간막의 손상,Injury of mesentery without open wound into cavity,S36.80
+세세세,S36.808,강내로의 열린상처가 없는 기타 복강내기관의 손상,Injury of other intra-abdominal organs without open wound into cavity,S36.80
+세세세,S36.810,강내로의 열린상처가 있는 복막의 손상,Injury of peritoneum with open wound into cavity,S36.81
+세세세,S36.811,강내로의 열린상처가 있는 후복막의 손상,Injury of retroperitoneum with open wound into cavity,S36.81
+세세세,S36.812,강내로의 열린상처가 있는 그물막의 손상,Injury of omentum with open wound into cavity,S36.81
+세세세,S36.813,강내로의 열린상처가 있는 장간막의 손상,Injury of mesentery with open wound into cavity,S36.81
+세세세,S36.818,강내로의 열린상처가 있는 기타 복강내기관의 손상,Injury of other intra-abdominal organs with open wound into cavity,S36.81
+세세세,S36.900,"강내로의 열린상처가 없는 상세불명의 복강내기관의 손상, 폭풍손상","Injury of unspecified intra-abdominal organ without open wound into cavity, blast injuries",S36.90
+세세세,S36.901,"강내로의 열린상처가 없는 상세불명의 복강내기관의 손상, 타박상","Injury of unspecified intra-abdominal organ without open wound into cavity, bruise",S36.90
+세세세,S36.902,"강내로의 열린상처가 없는 상세불명의 복강내기관의 손상, 진탕손상","Injury of unspecified intra-abdominal organ without open wound into cavity, concussion injuries",S36.90
+세세세,S36.903,"강내로의 열린상처가 없는 상세불명의 복강내기관의 손상, 으깸","Injury of unspecified intra-abdominal organ without open wound into cavity, crushing",S36.90
+세세세,S36.904,"강내로의 열린상처가 없는 상세불명의 복강내기관의 손상, 열상","Injury of unspecified intra-abdominal organ without open wound into cavity, laceration",S36.90
+세세세,S36.905,"강내로의 열린상처가 없는 상세불명의 복강내기관의 손상, 외상성 혈종","Injury of unspecified intra-abdominal organ without open wound into cavity, traumatic haematoma",S36.90
+세세세,S36.906,"강내로의 열린상처가 없는 상세불명의 복강내기관의 손상, 외상성 천자","Injury of unspecified intra-abdominal organ without open wound into cavity, traumatic puncture",S36.90
+세세세,S36.907,"강내로의 열린상처가 없는 상세불명의 복강내기관의 손상, 외상성 파열","Injury of unspecified intra-abdominal organ without open wound into cavity, traumatic rupture",S36.90
+세세세,S36.908,"강내로의 열린상처가 없는 상세불명의 복강내기관의 손상, 외상성 찢김","Injury of unspecified intra-abdominal organ without open wound into cavity, traumatic tear",S36.90
+세세세,S36.909,"강내로의 열린상처가 없는 상세불명의 복강내기관의 손상, 기타 및 상세불명의 손상","Injury of unspecified intra-abdominal organ without open wound into cavity, other and unspecified injuries",S36.90
+세세세,S36.910,"강내로의 열린상처가 있는 상세불명의 복강내기관의 손상, 폭풍손상","Injury of unspecified intra-abdominal organ with open wound into cavity, blast injuries",S36.91
+세세세,S36.911,"강내로의 열린상처가 있는 상세불명의 복강내기관의 손상, 타박상","Injury of unspecified intra-abdominal organ with open wound into cavity, bruise",S36.91
+세세세,S36.912,"강내로의 열린상처가 있는 상세불명의 복강내기관의 손상, 진탕손상","Injury of unspecified intra-abdominal organ with open wound into cavity, concussion injuries",S36.91
+세세세,S36.913,"강내로의 열린상처가 있는 상세불명의 복강내기관의 손상, 으깸","Injury of unspecified intra-abdominal organ with open wound into cavity, crushing",S36.91
+세세세,S36.914,"강내로의 열린상처가 있는 상세불명의 복강내기관의 손상, 열상","Injury of unspecified intra-abdominal organ with open wound into cavity, laceration",S36.91
+세세세,S36.915,"강내로의 열린상처가 있는 상세불명의 복강내기관의 손상, 외상성 혈종","Injury of unspecified intra-abdominal organ with open wound into cavity, traumatic haematoma",S36.91
+세세세,S36.916,"강내로의 열린상처가 있는 상세불명의 복강내기관의 손상, 외상성 천자","Injury of unspecified intra-abdominal organ with open wound into cavity, traumatic puncture",S36.91
+세세세,S36.917,"강내로의 열린상처가 있는 상세불명의 복강내기관의 손상, 외상성 파열","Injury of unspecified intra-abdominal organ with open wound into cavity, traumatic rupture",S36.91
+세세세,S36.918,"강내로의 열린상처가 있는 상세불명의 복강내기관의 손상, 외상성 찢김","Injury of unspecified intra-abdominal organ with open wound into cavity, traumatic tear",S36.91
+세세세,S36.919,"강내로의 열린상처가 있는 상세불명의 복강내기관의 손상, 기타 및 상세불명의 손상","Injury of unspecified intra-abdominal organ with open wound into cavity, other and unspecified injuries",S36.91
+세세세,S37.000,"강내로의 열린상처가 없는 신장의 손상, 폭풍손상","Injury of kidney without open wound into cavity, blast injuries",S37.00
+세세세,S37.001,"강내로의 열린상처가 없는 신장의 손상, 타박상","Injury of kidney without open wound into cavity, bruise",S37.00
+세세세,S37.002,"강내로의 열린상처가 없는 신장의 손상, 진탕손상","Injury of kidney without open wound into cavity, concussion injuries",S37.00
+세세세,S37.003,"강내로의 열린상처가 없는 신장의 손상, 으깸","Injury of kidney without open wound into cavity, crushing",S37.00
+세세세,S37.004,"강내로의 열린상처가 없는 신장의 손상, 열상","Injury of kidney without open wound into cavity, laceration",S37.00
+세세세,S37.005,"강내로의 열린상처가 없는 신장의 손상, 외상성 혈종","Injury of kidney without open wound into cavity, traumatic haematoma",S37.00
+세세세,S37.006,"강내로의 열린상처가 없는 신장의 손상, 외상성 천자","Injury of kidney without open wound into cavity, traumatic puncture",S37.00
+세세세,S37.007,"강내로의 열린상처가 없는 신장의 손상, 외상성 파열","Injury of kidney without open wound into cavity, traumatic rupture",S37.00
+세세세,S37.008,"강내로의 열린상처가 없는 신장의 손상, 외상성 찢김","Injury of kidney without open wound into cavity, traumatic tear",S37.00
+세세세,S37.009,"강내로의 열린상처가 없는 신장의 손상, 기타 및 상세불명의 손상","Injury of kidney without open wound into cavity, other and unspecified injuries",S37.00
+세세세,S37.010,"강내로의 열린상처가 있는 신장의 손상, 폭풍손상","Injury of kidney with open wound into cavity, blast injuries",S37.01
+세세세,S37.011,"강내로의 열린상처가 있는 신장의 손상, 타박상","Injury of kidney with open wound into cavity, bruise",S37.01
+세세세,S37.012,"강내로의 열린상처가 있는 신장의 손상, 진탕손상","Injury of kidney with open wound into cavity, concussion injuries",S37.01
+세세세,S37.013,"강내로의 열린상처가 있는 신장의 손상, 으깸","Injury of kidney with open wound into cavity, crushing",S37.01
+세세세,S37.014,"강내로의 열린상처가 있는 신장의 손상, 열상","Injury of kidney with open wound into cavity, laceration",S37.01
+세세세,S37.015,"강내로의 열린상처가 있는 신장의 손상, 외상성 혈종","Injury of kidney with open wound into cavity, traumatic haematoma",S37.01
+세세세,S37.016,"강내로의 열린상처가 있는 신장의 손상, 외상성 천자","Injury of kidney with open wound into cavity, traumatic puncture",S37.01
+세세세,S37.017,"강내로의 열린상처가 있는 신장의 손상, 외상성 파열","Injury of kidney with open wound into cavity, traumatic rupture",S37.01
+세세세,S37.018,"강내로의 열린상처가 있는 신장의 손상, 외상성 찢김","Injury of kidney with open wound into cavity, traumatic tear",S37.01
+세세세,S37.019,"강내로의 열린상처가 있는 신장의 손상, 기타 및 상세불명의 손상","Injury of kidney with open wound into cavity, other and unspecified injuries",S37.01
+세세세,S37.100,"강내로의 열린상처가 없는 요관의 손상, 폭풍손상","Injury of ureter without open wound into cavity, blast injuries",S37.10
+세세세,S37.101,"강내로의 열린상처가 없는 요관의 손상, 타박상","Injury of ureter without open wound into cavity, bruise",S37.10
+세세세,S37.102,"강내로의 열린상처가 없는 요관의 손상, 진탕손상","Injury of ureter without open wound into cavity, concussion injuries",S37.10
+세세세,S37.103,"강내로의 열린상처가 없는 요관의 손상, 으깸","Injury of ureter without open wound into cavity, crushing",S37.10
+세세세,S37.104,"강내로의 열린상처가 없는 요관의 손상, 열상","Injury of ureter without open wound into cavity, laceration",S37.10
+세세세,S37.105,"강내로의 열린상처가 없는 요관의 손상, 외상성 혈종","Injury of ureter without open wound into cavity, traumatic haematoma",S37.10
+세세세,S37.106,"강내로의 열린상처가 없는 요관의 손상, 외상성 천자","Injury of ureter without open wound into cavity, traumatic puncture",S37.10
+세세세,S37.107,"강내로의 열린상처가 없는 요관의 손상, 외상성 파열","Injury of ureter without open wound into cavity, traumatic rupture",S37.10
+세세세,S37.108,"강내로의 열린상처가 없는 요관의 손상, 외상성 찢김","Injury of ureter without open wound into cavity, traumatic tear",S37.10
+세세세,S37.109,"강내로의 열린상처가 없는 요관의 손상, 기타 및 상세불명의 손상","Injury of ureter without open wound into cavity, other and unspecified injuries",S37.10
+세세세,S37.110,"강내로의 열린상처가 있는 요관의 손상, 폭풍손상","Injury of ureter with open wound into cavity, blast injuries",S37.11
+세세세,S37.111,"강내로의 열린상처가 있는 요관의 손상, 타박상","Injury of ureter with open wound into cavity, bruise",S37.11
+세세세,S37.112,"강내로의 열린상처가 있는 요관의 손상, 진탕손상","Injury of ureter with open wound into cavity, concussion injuries",S37.11
+세세세,S37.113,"강내로의 열린상처가 있는 요관의 손상, 으깸","Injury of ureter with open wound into cavity, crushing",S37.11
+세세세,S37.114,"강내로의 열린상처가 있는 요관의 손상, 열상","Injury of ureter with open wound into cavity, laceration",S37.11
+세세세,S37.115,"강내로의 열린상처가 있는 요관의 손상, 외상성 혈종","Injury of ureter with open wound into cavity, traumatic haematoma",S37.11
+세세세,S37.116,"강내로의 열린상처가 있는 요관의 손상, 외상성 천자","Injury of ureter with open wound into cavity, traumatic puncture",S37.11
+세세세,S37.117,"강내로의 열린상처가 있는 요관의 손상, 외상성 파열","Injury of ureter with open wound into cavity, traumatic rupture",S37.11
+세세세,S37.118,"강내로의 열린상처가 있는 요관의 손상, 외상성 찢김","Injury of ureter with open wound into cavity, traumatic tear",S37.11
+세세세,S37.119,"강내로의 열린상처가 있는 요관의 손상, 기타 및 상세불명의 손상","Injury of ureter with open wound into cavity, other and unspecified injuries",S37.11
+세세세,S37.200,"강내로의 열린상처가 없는 방광의 손상, 폭풍손상","Injury of bladder without open wound into cavity, blast injuries",S37.20
+세세세,S37.201,"강내로의 열린상처가 없는 방광의 손상, 타박상","Injury of bladder without open wound into cavity, bruise",S37.20
+세세세,S37.202,"강내로의 열린상처가 없는 방광의 손상, 진탕손상","Injury of bladder without open wound into cavity, concussion injuries",S37.20
+세세세,S37.203,"강내로의 열린상처가 없는 방광의 손상, 으깸","Injury of bladder without open wound into cavity, crushing",S37.20
+세세세,S37.204,"강내로의 열린상처가 없는 방광의 손상, 열상","Injury of bladder without open wound into cavity, laceration",S37.20
+세세세,S37.205,"강내로의 열린상처가 없는 방광의 손상, 외상성 혈종","Injury of bladder without open wound into cavity, traumatic haematoma",S37.20
+세세세,S37.206,"강내로의 열린상처가 없는 방광의 손상, 외상성 천자","Injury of bladder without open wound into cavity, traumatic puncture",S37.20
+세세세,S37.207,"강내로의 열린상처가 없는 방광의 손상, 외상성 파열","Injury of bladder without open wound into cavity, traumatic rupture",S37.20
+세세세,S37.208,"강내로의 열린상처가 없는 방광의 손상, 외상성 찢김","Injury of bladder without open wound into cavity, traumatic tear",S37.20
+세세세,S37.209,"강내로의 열린상처가 없는 방광의 손상, 기타 및 상세불명의 손상","Injury of bladder without open wound into cavity, other and unspecified injuries",S37.20
+세세세,S37.210,"강내로의 열린상처가 있는 방광의 손상, 폭풍손상","Injury of bladder with open wound into cavity, blast injuries",S37.21
+세세세,S37.211,"강내로의 열린상처가 있는 방광의 손상, 타박상","Injury of bladder with open wound into cavity, bruise",S37.21
+세세세,S37.212,"강내로의 열린상처가 있는 방광의 손상, 진탕손상","Injury of bladder with open wound into cavity, concussion injuries",S37.21
+세세세,S37.213,"강내로의 열린상처가 있는 방광의 손상, 으깸","Injury of bladder with open wound into cavity, crushing",S37.21
+세세세,S37.214,"강내로의 열린상처가 있는 방광의 손상, 열상","Injury of bladder with open wound into cavity, laceration",S37.21
+세세세,S37.215,"강내로의 열린상처가 있는 방광의 손상, 외상성 혈종","Injury of bladder with open wound into cavity, traumatic haematoma",S37.21
+세세세,S37.216,"강내로의 열린상처가 있는 방광의 손상, 외상성 천자","Injury of bladder with open wound into cavity, traumatic puncture",S37.21
+세세세,S37.217,"강내로의 열린상처가 있는 방광의 손상, 외상성 파열","Injury of bladder with open wound into cavity, traumatic rupture",S37.21
+세세세,S37.218,"강내로의 열린상처가 있는 방광의 손상, 외상성 찢김","Injury of bladder with open wound into cavity, traumatic tear",S37.21
+세세세,S37.219,"강내로의 열린상처가 있는 방광의 손상, 기타 및 상세불명의 손상","Injury of bladder with open wound into cavity, other and unspecified injuries",S37.21
+세세세,S37.300,"강내로의 열린상처가 없는 요도의 손상, 폭풍손상","Injury of urethra without open wound into cavity, blast injuries",S37.30
+세세세,S37.301,"강내로의 열린상처가 없는 요도의 손상, 타박상","Injury of urethra without open wound into cavity, bruise",S37.30
+세세세,S37.302,"강내로의 열린상처가 없는 요도의 손상, 진탕손상","Injury of urethra without open wound into cavity, concussion injuries",S37.30
+세세세,S37.303,"강내로의 열린상처가 없는 요도의 손상, 으깸","Injury of urethra without open wound into cavity, crushing",S37.30
+세세세,S37.304,"강내로의 열린상처가 없는 요도의 손상, 열상","Injury of urethra without open wound into cavity, laceration",S37.30
+세세세,S37.305,"강내로의 열린상처가 없는 요도의 손상, 외상성 혈종","Injury of urethra without open wound into cavity, traumatic haematoma",S37.30
+세세세,S37.306,"강내로의 열린상처가 없는 요도의 손상, 외상성 천자","Injury of urethra without open wound into cavity, traumatic puncture",S37.30
+세세세,S37.307,"강내로의 열린상처가 없는 요도의 손상, 외상성 파열","Injury of urethra without open wound into cavity, traumatic rupture",S37.30
+세세세,S37.308,"강내로의 열린상처가 없는 요도의 손상, 외상성 찢김","Injury of urethra without open wound into cavity, traumatic tear",S37.30
+세세세,S37.309,"강내로의 열린상처가 없는 요도의 손상, 기타 및 상세불명의 손상","Injury of urethra without open wound into cavity, other and unspecified injuries",S37.30
+세세세,S37.310,"강내로의 열린상처가 있는 요도의 손상, 폭풍손상","Injury of urethra with open wound into cavity, blast injuries",S37.31
+세세세,S37.311,"강내로의 열린상처가 있는 요도의 손상, 타박상","Injury of urethra with open wound into cavity, bruise",S37.31
+세세세,S37.312,"강내로의 열린상처가 있는 요도의 손상, 진탕손상","Injury of urethra with open wound into cavity, concussion injuries",S37.31
+세세세,S37.313,"강내로의 열린상처가 있는 요도의 손상, 으깸","Injury of urethra with open wound into cavity, crushing",S37.31
+세세세,S37.314,"강내로의 열린상처가 있는 요도의 손상, 열상","Injury of urethra with open wound into cavity, laceration",S37.31
+세세세,S37.315,"강내로의 열린상처가 있는 요도의 손상, 외상성 혈종","Injury of urethra with open wound into cavity, traumatic haematoma",S37.31
+세세세,S37.316,"강내로의 열린상처가 있는 요도의 손상, 외상성 천자","Injury of urethra with open wound into cavity, traumatic puncture",S37.31
+세세세,S37.317,"강내로의 열린상처가 있는 요도의 손상, 외상성 파열","Injury of urethra with open wound into cavity, traumatic rupture",S37.31
+세세세,S37.318,"강내로의 열린상처가 있는 요도의 손상, 외상성 찢김","Injury of urethra with open wound into cavity, traumatic tear",S37.31
+세세세,S37.319,"강내로의 열린상처가 있는 요도의 손상, 기타 및 상세불명의 손상","Injury of urethra with open wound into cavity, other and unspecified injuries",S37.31
+세세세,S37.400,"강내로의 열린상처가 없는 난소의 손상, 폭풍손상","Injury of ovary without open wound into cavity, blast injuries",S37.40
+세세세,S37.401,"강내로의 열린상처가 없는 난소의 손상, 타박상","Injury of ovary without open wound into cavity, bruise",S37.40
+세세세,S37.402,"강내로의 열린상처가 없는 난소의 손상, 진탕손상","Injury of ovary without open wound into cavity, concussion injuries",S37.40
+세세세,S37.403,"강내로의 열린상처가 없는 난소의 손상, 으깸","Injury of ovary without open wound into cavity, crushing",S37.40
+세세세,S37.404,"강내로의 열린상처가 없는 난소의 손상, 열상","Injury of ovary without open wound into cavity, laceration",S37.40
+세세세,S37.405,"강내로의 열린상처가 없는 난소의 손상, 외상성 혈종","Injury of ovary without open wound into cavity, traumatic haematoma",S37.40
+세세세,S37.406,"강내로의 열린상처가 없는 난소의 손상, 외상성 천자","Injury of ovary without open wound into cavity, traumatic puncture",S37.40
+세세세,S37.407,"강내로의 열린상처가 없는 난소의 손상, 외상성 파열","Injury of ovary without open wound into cavity, traumatic rupture",S37.40
+세세세,S37.408,"강내로의 열린상처가 없는 난소의 손상, 외상성 찢김","Injury of ovary without open wound into cavity, traumatic tear",S37.40
+세세세,S37.409,"강내로의 열린상처가 없는 난소의 손상, 기타 및 상세불명의 손상","Injury of ovary without open wound into cavity, other and unspecified injuries",S37.40
+세세세,S37.410,"강내로의 열린상처가 있는 난소의 손상, 폭풍손상","Injury of ovary with open wound into cavity, blast injuries",S37.41
+세세세,S37.411,"강내로의 열린상처가 있는 난소의 손상, 타박상","Injury of ovary with open wound into cavity, bruise",S37.41
+세세세,S37.412,"강내로의 열린상처가 있는 난소의 손상, 진탕손상","Injury of ovary with open wound into cavity, concussion injuries",S37.41
+세세세,S37.413,"강내로의 열린상처가 있는 난소의 손상, 으깸","Injury of ovary with open wound into cavity, crushing",S37.41
+세세세,S37.414,"강내로의 열린상처가 있는 난소의 손상, 열상","Injury of ovary with open wound into cavity, laceration",S37.41
+세세세,S37.415,"강내로의 열린상처가 있는 난소의 손상, 외상성 혈종","Injury of ovary with open wound into cavity, traumatic haematoma",S37.41
+세세세,S37.416,"강내로의 열린상처가 있는 난소의 손상, 외상성 천자","Injury of ovary with open wound into cavity, traumatic puncture",S37.41
+세세세,S37.417,"강내로의 열린상처가 있는 난소의 손상, 외상성 파열","Injury of ovary with open wound into cavity, traumatic rupture",S37.41
+세세세,S37.418,"강내로의 열린상처가 있는 난소의 손상, 외상성 찢김","Injury of ovary with open wound into cavity, traumatic tear",S37.41
+세세세,S37.419,"강내로의 열린상처가 있는 난소의 손상, 기타 및 상세불명의 손상","Injury of ovary with open wound into cavity, other and unspecified injuries",S37.41
+세세세,S37.500,"강내로의 열린상처가 없는 난관의 손상, 폭풍손상","Injury of fallopian tube without open wound into cavity, blast injuries",S37.50
+세세세,S37.501,"강내로의 열린상처가 없는 난관의 손상, 타박상","Injury of fallopian tube without open wound into cavity, bruise",S37.50
+세세세,S37.502,"강내로의 열린상처가 없는 난관의 손상, 진탕손상","Injury of fallopian tube without open wound into cavity, concussion injuries",S37.50
+세세세,S37.503,"강내로의 열린상처가 없는 난관의 손상, 으깸","Injury of fallopian tube without open wound into cavity, crushing",S37.50
+세세세,S37.504,"강내로의 열린상처가 없는 난관의 손상, 열상","Injury of fallopian tube without open wound into cavity, laceration",S37.50
+세세세,S37.505,"강내로의 열린상처가 없는 난관의 손상, 외상성 혈종","Injury of fallopian tube without open wound into cavity, traumatic haematoma",S37.50
+세세세,S37.506,"강내로의 열린상처가 없는 난관의 손상, 외상성 천자","Injury of fallopian tube without open wound into cavity, traumatic puncture",S37.50
+세세세,S37.507,"강내로의 열린상처가 없는 난관의 손상, 외상성 파열","Injury of fallopian tube without open wound into cavity, traumatic rupture",S37.50
+세세세,S37.508,"강내로의 열린상처가 없는 난관의 손상, 외상성 찢김","Injury of fallopian tube without open wound into cavity, traumatic tear",S37.50
+세세세,S37.509,"강내로의 열린상처가 없는 난관의 손상, 기타 및 상세불명의 손상","Injury of fallopian tube without open wound into cavity, other and unspecified injuries",S37.50
+세세세,S37.510,"강내로의 열린상처가 있는 난관의 손상, 폭풍손상","Injury of fallopian tube with open wound into cavity, blast injuries",S37.51
+세세세,S37.511,"강내로의 열린상처가 있는 난관의 손상, 타박상","Injury of fallopian tube with open wound into cavity, bruise",S37.51
+세세세,S37.512,"강내로의 열린상처가 있는 난관의 손상, 진탕손상","Injury of fallopian tube with open wound into cavity, concussion injuries",S37.51
+세세세,S37.513,"강내로의 열린상처가 있는 난관의 손상, 으깸","Injury of fallopian tube with open wound into cavity, crushing",S37.51
+세세세,S37.514,"강내로의 열린상처가 있는 난관의 손상, 열상","Injury of fallopian tube with open wound into cavity, laceration",S37.51
+세세세,S37.515,"강내로의 열린상처가 있는 난관의 손상, 외상성 혈종","Injury of fallopian tube with open wound into cavity, traumatic haematoma",S37.51
+세세세,S37.516,"강내로의 열린상처가 있는 난관의 손상, 외상성 천자","Injury of fallopian tube with open wound into cavity, traumatic puncture",S37.51
+세세세,S37.517,"강내로의 열린상처가 있는 난관의 손상, 외상성 파열","Injury of fallopian tube with open wound into cavity, traumatic rupture",S37.51
+세세세,S37.518,"강내로의 열린상처가 있는 난관의 손상, 외상성 찢김","Injury of fallopian tube with open wound into cavity, traumatic tear",S37.51
+세세세,S37.519,"강내로의 열린상처가 있는 난관의 손상, 기타 및 상세불명의 손상","Injury of fallopian tube with open wound into cavity, other and unspecified injuries",S37.51
+세세세,S37.600,"강내로의 열린상처가 없는 자궁의 손상, 폭풍손상","Injury of uterus without open wound into cavity, blast injuries",S37.60
+세세세,S37.601,"강내로의 열린상처가 없는 자궁의 손상, 타박상","Injury of uterus without open wound into cavity, bruise",S37.60
+세세세,S37.602,"강내로의 열린상처가 없는 자궁의 손상, 진탕손상","Injury of uterus without open wound into cavity, concussion injuries",S37.60
+세세세,S37.603,"강내로의 열린상처가 없는 자궁의 손상, 으깸","Injury of uterus without open wound into cavity, crushing",S37.60
+세세세,S37.604,"강내로의 열린상처가 없는 자궁의 손상, 열상","Injury of uterus without open wound into cavity, laceration",S37.60
+세세세,S37.605,"강내로의 열린상처가 없는 자궁의 손상, 외상성 혈종","Injury of uterus without open wound into cavity, traumatic haematoma",S37.60
+세세세,S37.606,"강내로의 열린상처가 없는 자궁의 손상, 외상성 천자","Injury of uterus without open wound into cavity, traumatic puncture",S37.60
+세세세,S37.607,"강내로의 열린상처가 없는 자궁의 손상, 외상성 파열","Injury of uterus without open wound into cavity, traumatic rupture",S37.60
+세세세,S37.608,"강내로의 열린상처가 없는 자궁의 손상, 외상성 찢김","Injury of uterus without open wound into cavity, traumatic tear",S37.60
+세세세,S37.609,"강내로의 열린상처가 없는 자궁의 손상, 기타 및 상세불명의 손상","Injury of uterus without open wound into cavity, other and unspecified injuries",S37.60
+세세세,S37.610,"강내로의 열린상처가 있는 자궁의 손상, 폭풍손상","Injury of uterus with open wound into cavity, blast injuries",S37.61
+세세세,S37.611,"강내로의 열린상처가 있는 자궁의 손상, 타박상","Injury of uterus with open wound into cavity, bruise",S37.61
+세세세,S37.612,"강내로의 열린상처가 있는 자궁의 손상, 진탕손상","Injury of uterus with open wound into cavity, concussion injuries",S37.61
+세세세,S37.613,"강내로의 열린상처가 있는 자궁의 손상, 으깸","Injury of uterus with open wound into cavity, crushing",S37.61
+세세세,S37.614,"강내로의 열린상처가 있는 자궁의 손상, 열상","Injury of uterus with open wound into cavity, laceration",S37.61
+세세세,S37.615,"강내로의 열린상처가 있는 자궁의 손상, 외상성 혈종","Injury of uterus with open wound into cavity, traumatic haematoma",S37.61
+세세세,S37.616,"강내로의 열린상처가 있는 자궁의 손상, 외상성 천자","Injury of uterus with open wound into cavity, traumatic puncture",S37.61
+세세세,S37.617,"강내로의 열린상처가 있는 자궁의 손상, 외상성 파열","Injury of uterus with open wound into cavity, traumatic rupture",S37.61
+세세세,S37.618,"강내로의 열린상처가 있는 자궁의 손상, 외상성 찢김","Injury of uterus with open wound into cavity, traumatic tear",S37.61
+세세세,S37.619,"강내로의 열린상처가 있는 자궁의 손상, 기타 및 상세불명의 손상","Injury of uterus with open wound into cavity, other and unspecified injuries",S37.61
+세세세,S37.800,"강내로의 열린상처가 없는 기타 골반기관의 손상, 폭풍손상","Injury of other pelvic organs without open wound into cavity, blast injuries",S37.80
+세세세,S37.801,"강내로의 열린상처가 없는 기타 골반기관의 손상, 타박상","Injury of other pelvic organs without open wound into cavity, bruise",S37.80
+세세세,S37.802,"강내로의 열린상처가 없는 기타 골반기관의 손상, 진탕손상","Injury of other pelvic organs without open wound into cavity, concussion injuries",S37.80
+세세세,S37.803,"강내로의 열린상처가 없는 기타 골반기관의 손상, 으깸","Injury of other pelvic organs without open wound into cavity, crushing",S37.80
+세세세,S37.804,"강내로의 열린상처가 없는 기타 골반기관의 손상, 열상","Injury of other pelvic organs without open wound into cavity, laceration",S37.80
+세세세,S37.805,"강내로의 열린상처가 없는 기타 골반기관의 손상, 외상성 혈종","Injury of other pelvic organs without open wound into cavity, traumatic haematoma",S37.80
+세세세,S37.806,"강내로의 열린상처가 없는 기타 골반기관의 손상, 외상성 천자","Injury of other pelvic organs without open wound into cavity, traumatic puncture",S37.80
+세세세,S37.807,"강내로의 열린상처가 없는 기타 골반기관의 손상, 외상성 파열","Injury of other pelvic organs without open wound into cavity, traumatic rupture",S37.80
+세세세,S37.808,"강내로의 열린상처가 없는 기타 골반기관의 손상, 외상성 찢김","Injury of other pelvic organs without open wound into cavity, traumatic tear",S37.80
+세세세,S37.809,"강내로의 열린상처가 없는 기타 골반기관의 손상, 기타 및 상세불명의 손상","Injury of other pelvic organs without open wound into cavity, other and unspecified injuries",S37.80
+세세세,S37.810,"강내로의 열린상처가 있는 기타 골반기관의 손상, 폭풍손상","Injury of other pelvic organs with open wound into cavity, blast injuries",S37.81
+세세세,S37.811,"강내로의 열린상처가 있는 기타 골반기관의 손상, 타박상","Injury of other pelvic organs with open wound into cavity, bruise",S37.81
+세세세,S37.812,"강내로의 열린상처가 있는 기타 골반기관의 손상, 진탕손상","Injury of other pelvic organs with open wound into cavity, concussion injuries",S37.81
+세세세,S37.813,"강내로의 열린상처가 있는 기타 골반기관의 손상, 으깸","Injury of other pelvic organs with open wound into cavity, crushing",S37.81
+세세세,S37.814,"강내로의 열린상처가 있는 기타 골반기관의 손상, 열상","Injury of other pelvic organs with open wound into cavity, laceration",S37.81
+세세세,S37.815,"강내로의 열린상처가 있는 기타 골반기관의 손상, 외상성 혈종","Injury of other pelvic organs with open wound into cavity, traumatic haematoma",S37.81
+세세세,S37.816,"강내로의 열린상처가 있는 기타 골반기관의 손상, 외상성 천자","Injury of other pelvic organs with open wound into cavity, traumatic puncture",S37.81
+세세세,S37.817,"강내로의 열린상처가 있는 기타 골반기관의 손상, 외상성 파열","Injury of other pelvic organs with open wound into cavity, traumatic rupture",S37.81
+세세세,S37.818,"강내로의 열린상처가 있는 기타 골반기관의 손상, 외상성 찢김","Injury of other pelvic organs with open wound into cavity, traumatic tear",S37.81
+세세세,S37.819,"강내로의 열린상처가 있는 기타 골반기관의 손상, 기타 및 상세불명의 손상","Injury of other pelvic organs with open wound into cavity, other and unspecified injuries",S37.81
+세세세,S37.900,"강내로의 열린상처가 없는 상세불명의 골반기관의 손상, 폭풍손상","Injury of unspecified pelvic organ without open wound into cavity, blast injuries",S37.90
+세세세,S37.901,"강내로의 열린상처가 없는 상세불명의 골반기관의 손상, 타박상","Injury of unspecified pelvic organ without open wound into cavity, bruise",S37.90
+세세세,S37.902,"강내로의 열린상처가 없는 상세불명의 골반기관의 손상, 진탕손상","Injury of unspecified pelvic organ without open wound into cavity, concussion injuries",S37.90
+세세세,S37.903,"강내로의 열린상처가 없는 상세불명의 골반기관의 손상, 으깸","Injury of unspecified pelvic organ without open wound into cavity, crushing",S37.90
+세세세,S37.904,"강내로의 열린상처가 없는 상세불명의 골반기관의 손상, 열상","Injury of unspecified pelvic organ without open wound into cavity, laceration",S37.90
+세세세,S37.905,"강내로의 열린상처가 없는 상세불명의 골반기관의 손상, 외상성 혈종","Injury of unspecified pelvic organ without open wound into cavity, traumatic haematoma",S37.90
+세세세,S37.906,"강내로의 열린상처가 없는 상세불명의 골반기관의 손상, 외상성 천자","Injury of unspecified pelvic organ without open wound into cavity, traumatic puncture",S37.90
+세세세,S37.907,"강내로의 열린상처가 없는 상세불명의 골반기관의 손상, 외상성 파열","Injury of unspecified pelvic organ without open wound into cavity, traumatic rupture",S37.90
+세세세,S37.908,"강내로의 열린상처가 없는 상세불명의 골반기관의 손상, 외상성 찢김","Injury of unspecified pelvic organ without open wound into cavity, traumatic tear",S37.90
+세세세,S37.909,"강내로의 열린상처가 없는 상세불명의 골반기관의 손상, 기타 및 상세불명의 손상","Injury of unspecified pelvic organ without open wound into cavity, other and unspecified injuries",S37.90
+세세세,S37.910,"강내로의 열린상처가 있는 상세불명의 골반기관의 손상, 폭풍손상","Injury of unspecified pelvic organ with open wound into cavity, blast injuries",S37.91
+세세세,S37.911,"강내로의 열린상처가 있는 상세불명의 골반기관의 손상, 타박상","Injury of unspecified pelvic organ with open wound into cavity, bruise",S37.91
+세세세,S37.912,"강내로의 열린상처가 있는 상세불명의 골반기관의 손상, 진탕손상","Injury of unspecified pelvic organ with open wound into cavity, concussion injuries",S37.91
+세세세,S37.913,"강내로의 열린상처가 있는 상세불명의 골반기관의 손상, 으깸","Injury of unspecified pelvic organ with open wound into cavity, crushing",S37.91
+세세세,S37.914,"강내로의 열린상처가 있는 상세불명의 골반기관의 손상, 열상","Injury of unspecified pelvic organ with open wound into cavity, laceration",S37.91
+세세세,S37.915,"강내로의 열린상처가 있는 상세불명의 골반기관의 손상, 외상성 혈종","Injury of unspecified pelvic organ with open wound into cavity, traumatic haematoma",S37.91
+세세세,S37.916,"강내로의 열린상처가 있는 상세불명의 골반기관의 손상, 외상성 천자","Injury of unspecified pelvic organ with open wound into cavity, traumatic puncture",S37.91
+세세세,S37.917,"강내로의 열린상처가 있는 상세불명의 골반기관의 손상, 외상성 파열","Injury of unspecified pelvic organ with open wound into cavity, traumatic rupture",S37.91
+세세세,S37.918,"강내로의 열린상처가 있는 상세불명의 골반기관의 손상, 외상성 찢김","Injury of unspecified pelvic organ with open wound into cavity, traumatic tear",S37.91
+세세세,S37.919,"강내로의 열린상처가 있는 상세불명의 골반기관의 손상, 기타 및 상세불명의 손상","Injury of unspecified pelvic organ with open wound into cavity, other and unspecified injuries",S37.91
+세세,S40.80,"어깨 및 위팔의 기타 표재성 손상, 박리, 찰과상","Other superficial injuries of shoulder and upper arm, abrasion",S40.8
+세세,S40.81,"어깨 및 위팔의 기타 표재성 손상, 수포","Other superficial injuries of shoulder and upper arm, blister",S40.8
+세세,S40.82,"어깨 및 위팔의 기타 표재성 손상, 곤충물림(비독액성)","Other superficial injuries of shoulder and upper arm, insect bite (nonvenomous)",S40.8
+세세,S40.83,"어깨 및 위팔의 기타 표재성 손상, 표재성 이물(파편)","Other superficial injuries of shoulder and upper arm, superficial foreign body (splinter)",S40.8
+세세,S40.88,"어깨 및 위팔의 기타 표재성 손상, 기타 손상","Other superficial injuries of shoulder and upper arm, other injury",S40.8
+세세,S45.00,"겨드랑동맥의 손상, 찢김","Injury of axillary artery, avulsion",S45.0
+세세,S45.01,"겨드랑동맥의 손상, 절단","Injury of axillary artery, cut",S45.0
+세세,S45.02,"겨드랑동맥의 손상, 열상","Injury of axillary artery, laceration",S45.0
+세세,S45.03,"겨드랑동맥의 손상, 외상성 동맥류","Injury of axillary artery, traumatic aneurysm",S45.0
+세세,S45.04,"겨드랑동맥의 손상, 외상성 (동정맥)누공","Injury of axillary artery, traumatic fistula (arteriovenous)",S45.0
+세세,S45.05,"겨드랑동맥의 손상, 외상성 동맥혈종","Injury of axillary artery, traumatic arterial haematoma",S45.0
+세세,S45.06,"겨드랑동맥의 손상, 외상성 파열","Injury of axillary artery, traumatic rupture",S45.0
+세세,S45.08,"겨드랑동맥의 손상, 기타 및 상세불명의 손상","Injury of axillary artery, other and unspecified injuries",S45.0
+세세,S45.10,"상완동맥의 손상, 찢김","Injury of brachial artery, avulsion",S45.1
+세세,S45.11,"상완동맥의 손상, 절단","Injury of brachial artery, cut",S45.1
+세세,S45.12,"상완동맥의 손상, 열상","Injury of brachial artery, laceration",S45.1
+세세,S45.13,"상완동맥의 손상, 외상성 동맥류","Injury of brachial artery, traumatic aneurysm",S45.1
+세세,S45.14,"상완동맥의 손상, 외상성 (동정맥)누공","Injury of brachial artery, traumatic fistula (arteriovenous)",S45.1
+세세,S45.15,"상완동맥의 손상, 외상성 동맥혈종","Injury of brachial artery, traumatic arterial haematoma",S45.1
+세세,S45.16,"상완동맥의 손상, 외상성 파열","Injury of brachial artery, traumatic rupture",S45.1
+세세,S45.18,"상완동맥의 손상, 기타 및 상세불명의 손상","Injury of brachial artery, other and unspecified injuries",S45.1
+세세,S45.20,"겨드랑 또는 상완 정맥의 손상, 찢김","Injury of axillary or brachial vein, avulsion",S45.2
+세세,S45.21,"겨드랑 또는 상완 정맥의 손상, 절단","Injury of axillary or brachial vein, cut",S45.2
+세세,S45.22,"겨드랑 또는 상완 정맥의 손상, 열상","Injury of axillary or brachial vein, laceration",S45.2
+세세,S45.26,"겨드랑 또는 상완 정맥의 손상, 외상성 파열","Injury of axillary or brachial vein, traumatic rupture",S45.2
+세세,S45.28,"겨드랑 또는 상완 정맥의 손상, 기타 및 상세불명의 손상","Injury of axillary or brachial vein, other and unspecified injuries",S45.2
+세세,S45.30,"어깨 및 위팔 부위의 표재성 정맥손상, 찢김","Injury of superficial vein at shoulder and upper arm level, avulsion",S45.3
+세세,S45.31,"어깨 및 위팔 부위의 표재성 정맥손상, 절단","Injury of superficial vein at shoulder and upper arm level, cut",S45.3
+세세,S45.32,"어깨 및 위팔 부위의 표재성 정맥손상, 열상","Injury of superficial vein at shoulder and upper arm level, laceration",S45.3
+세세,S45.36,"어깨 및 위팔 부위의 표재성 정맥손상, 외상성 파열","Injury of superficial vein at shoulder and upper arm level, traumatic rupture",S45.3
+세세,S45.38,"어깨 및 위팔 부위의 표재성 정맥손상, 기타 및 상세불명의 손상","Injury of superficial vein at shoulder and upper arm level, other and unspecified injuries",S45.3
+세세,S45.80,"어깨 및 위팔 부위의 기타 혈관손상, 찢김","Injury of other blood vessels at shoulder and upper arm level, avulsion",S45.8
+세세,S45.81,"어깨 및 위팔 부위의 기타 혈관손상, 절단","Injury of other blood vessels at shoulder and upper arm level, cut",S45.8
+세세,S45.82,"어깨 및 위팔 부위의 기타 혈관손상, 열상","Injury of other blood vessels at shoulder and upper arm level, laceration",S45.8
+세세,S45.83,"어깨 및 위팔 부위의 기타 혈관손상, 외상성 동맥류","Injury of other blood vessels at shoulder and upper arm level, traumatic aneurysm",S45.8
+세세,S45.84,"어깨 및 위팔 부위의 기타 혈관손상, 외상성 (동정맥)누공","Injury of other blood vessels at shoulder and upper arm level, traumatic fistula (arteriovenous)",S45.8
+세세,S45.85,"어깨 및 위팔 부위의 기타 혈관손상, 외상성 동맥혈종","Injury of other blood vessels at shoulder and upper arm level, traumatic arterial haematoma",S45.8
+세세,S45.86,"어깨 및 위팔 부위의 기타 혈관손상, 외상성 파열","Injury of other blood vessels at shoulder and upper arm level, traumatic rupture",S45.8
+세세,S45.88,"어깨 및 위팔 부위의 기타 혈관손상, 기타 및 상세불명의 손상","Injury of other blood vessels at shoulder and upper arm level, other and unspecified injuries",S45.8
+세세,S45.90,"어깨 및 위팔 부위의 상세불명 혈관손상, 찢김","Injury of unspecified blood vessel at shoulder and upper arm level, avulsion",S45.9
+세세,S45.91,"어깨 및 위팔 부위의 상세불명 혈관손상, 절단","Injury of unspecified blood vessel at shoulder and upper arm level, cut",S45.9
+세세,S45.92,"어깨 및 위팔 부위의 상세불명 혈관손상, 열상","Injury of unspecified blood vessel at shoulder and upper arm level, laceration",S45.9
+세세,S45.93,"어깨 및 위팔 부위의 상세불명 혈관손상, 외상성 동맥류","Injury of unspecified blood vessel at shoulder and upper arm level, traumatic aneurysm",S45.9
+세세,S45.94,"어깨 및 위팔 부위의 상세불명 혈관손상, 외상성 (동정맥)누공","Injury of unspecified blood vessel at shoulder and upper arm level, traumatic fistula (arteriovenous)",S45.9
+세세,S45.95,"어깨 및 위팔 부위의 상세불명 혈관손상, 외상성 동맥혈종","Injury of unspecified blood vessel at shoulder and upper arm level, traumatic arterial haematoma",S45.9
+세세,S45.96,"어깨 및 위팔 부위의 상세불명 혈관손상, 외상성 파열","Injury of unspecified blood vessel at shoulder and upper arm level, traumatic rupture",S45.9
+세세,S45.98,"어깨 및 위팔 부위의 상세불명 혈관손상, 기타 및 상세불명의 손상","Injury of unspecified blood vessel at shoulder and upper arm level, other and unspecified injuries",S45.9
+세세,S50.80,"아래팔의 기타 표재성 손상, 박리, 찰과상","Other superficial injuries of forearm, abrasion",S50.8
+세세,S50.81,"아래팔의 기타 표재성 손상, 수포","Other superficial injuries of forearm, blister",S50.8
+세세,S50.82,"아래팔의 기타 표재성 손상, 곤충물림(비독액성)","Other superficial injuries of forearm, insect bite (nonvenomous)",S50.8
+세세,S50.83,"아래팔의 기타 표재성 손상, 표재성 이물(파편)","Other superficial injuries of forearm, superficial foreign body (splinter)",S50.8
+세세,S50.88,"아래팔의 기타 표재성 손상, 기타 손상","Other superficial injuries of forearm, other injury",S50.8
+세세,S52.22,요골 머리의 탈구를 동반한 척골 근위몸통의 골절,Fracture of proximal shaft of ulna with dislocation of head of radius,S52.2
+세세세,S52.220,"요골 머리의 탈구를 동반한 척골 근위몸통의 골절, 폐쇄성","Fracture of proximal shaft of ulna with dislocation of head of radius, closed",S52.20
+세세세,S52.221,"요골 머리의 탈구를 동반한 척골 근위몸통의 골절, 개방성","Fracture of proximal shaft of ulna with dislocation of head of radius, open",S52.21
+세세,S52.29,척골 몸통의 상세불명 부분의 골절,"Fracture of shaft of ulna, part unspecified",S52.2
+세세세,S52.290,"척골 몸통의 상세불명 부분의 골절, 폐쇄성","Fracture of shaft of ulna, part unspecified, closed",S52.20
+세세세,S52.291,"척골 몸통의 상세불명 부분의 골절, 개방성","Fracture of shaft of ulna, part unspecified, open",S52.21
+세세,S52.32,척골 머리의 탈구를 동반한 요골 몸통의 골절,Fracture of distal shaft of radius with dislocation of head of ulna,S52.3
+세세세,S52.320,"척골 머리의 탈구를 동반한 요골 몸통의 골절, 폐쇄성","Fracture of distal shaft of radius with dislocation of head of ulna, closed",S52.30
+세세세,S52.321,"척골 머리의 탈구를 동반한 요골 몸통의 골절, 개방성","Fracture of distal shaft of radius with dislocation of head of ulna, open",S52.31
+세세,S52.39,요골 몸통의 상세불명 부분의 골절,"Fracture of shaft of radius, part unspecified",S52.3
+세세세,S52.390,"요골 몸통의 상세불명 부분의 골절, 폐쇄성","Fracture of shaft of radius, part unspecified, closed",S52.30
+세세세,S52.391,"요골 몸통의 상세불명 부분의 골절, 개방성","Fracture of shaft of radius, part unspecified, open",S52.31
+세세,S53.10,팔꿈치의 전탈구,Anterior dislocation of elbow,S53.1
+세세,S53.11,팔꿈치의 후탈구,Posterior dislocation of elbow,S53.1
+세세,S53.12,팔꿈치의 내측탈구,Medial dislocation of elbow,S53.1
+세세,S53.13,팔꿈치의 외측탈구,Lateral dislocation of elbow,S53.1
+세세,S53.18,팔꿈치의 기타 탈구,Other dislocation of elbow,S53.1
+세세,S53.19,팔꿈치의 상세불명 탈구,"Dislocation of elbow, unspecified",S53.1
+세세,S55.00,"아래팔 부위의 척골동맥의 손상, 찢김","Injury of ulnar artery at forearm level, avulsion",S55.0
+세세,S55.01,"아래팔 부위의 척골동맥의 손상, 절단","Injury of ulnar artery at forearm level, cut",S55.0
+세세,S55.02,"아래팔 부위의 척골동맥의 손상, 열상","Injury of ulnar artery at forearm level, laceration",S55.0
+세세,S55.03,"아래팔 부위의 척골동맥의 손상, 외상성 동맥류","Injury of ulnar artery at forearm level, traumatic aneurysm",S55.0
+세세,S55.04,"아래팔 부위의 척골동맥의 손상, 외상성 (동정맥)누공","Injury of ulnar artery at forearm level, traumatic fistula (arteriovenous)",S55.0
+세세,S55.05,"아래팔 부위의 척골동맥의 손상, 외상성 동맥혈종","Injury of ulnar artery at forearm level, traumatic arterial haematoma",S55.0
+세세,S55.06,"아래팔 부위의 척골동맥의 손상, 외상성 파열","Injury of ulnar artery at forearm level, traumatic rupture",S55.0
+세세,S55.08,"아래팔 부위의 척골동맥의 손상, 기타 및 상세불명의 손상","Injury of ulnar artery at forearm level, other and unspecified injuries",S55.0
+세세,S55.10,"아래팔 부위의 요골동맥의 손상, 찢김","Injury of radial artery at forearm level, avulsion",S55.1
+세세,S55.11,"아래팔 부위의 요골동맥의 손상, 절단","Injury of radial artery at forearm level, cut",S55.1
+세세,S55.12,"아래팔 부위의 요골동맥의 손상, 열상","Injury of radial artery at forearm level, laceration",S55.1
+세세,S55.13,"아래팔 부위의 요골동맥의 손상, 외상성 동맥류","Injury of radial artery at forearm level, traumatic aneurysm",S55.1
+세세,S55.14,"아래팔 부위의 요골동맥의 손상, 외상성 (동정맥)누공","Injury of radial artery at forearm level, traumatic fistula (arteriovenous)",S55.1
+세세,S55.15,"아래팔 부위의 요골동맥의 손상, 외상성 동맥혈종","Injury of radial artery at forearm level, traumatic arterial haematoma",S55.1
+세세,S55.16,"아래팔 부위의 요골동맥의 손상, 외상성 파열","Injury of radial artery at forearm level, traumatic rupture",S55.1
+세세,S55.18,"아래팔 부위의 요골동맥의 손상, 기타 및 상세불명의 손상","Injury of radial artery at forearm level, other and unspecified injuries",S55.1
+세세,S55.20,"아래팔 부위의 정맥손상, 찢김","Injury of vein at forearm level, avulsion",S55.2
+세세,S55.21,"아래팔 부위의 정맥손상, 절단","Injury of vein at forearm level, cut",S55.2
+세세,S55.22,"아래팔 부위의 정맥손상, 열상","Injury of vein at forearm level, laceration",S55.2
+세세,S55.26,"아래팔 부위의 정맥손상, 외상성 파열","Injury of vein at forearm level, traumatic rupture",S55.2
+세세,S55.28,"아래팔 부위의 정맥손상, 기타 및 상세불명의 손상","Injury of vein at forearm level, other and unspecified injuries",S55.2
+세세,S55.80,"아래팔 부위의 기타 혈관손상, 찢김","Injury of other blood vessels at forearm level, avulsion",S55.8
+세세,S55.81,"아래팔 부위의 기타 혈관손상, 절단","Injury of other blood vessels at forearm level, cut",S55.8
+세세,S55.82,"아래팔 부위의 기타 혈관손상, 열상","Injury of other blood vessels at forearm level, laceration",S55.8
+세세,S55.83,"아래팔 부위의 기타 혈관손상, 외상성 동맥류","Injury of other blood vessels at forearm level, traumatic aneurysm",S55.8
+세세,S55.84,"아래팔 부위의 기타 혈관손상, 외상성 (동정맥)누공","Injury of other blood vessels at forearm level, traumatic fistula (arteriovenous)",S55.8
+세세,S55.85,"아래팔 부위의 기타 혈관손상, 외상성 동맥혈종","Injury of other blood vessels at forearm level, traumatic arterial haematoma",S55.8
+세세,S55.86,"아래팔 부위의 기타 혈관손상, 외상성 파열","Injury of other blood vessels at forearm level, traumatic rupture",S55.8
+세세,S55.88,"아래팔 부위의 기타 혈관손상, 기타 및 상세불명의 손상","Injury of other blood vessels at forearm level, other and unspecified injuries",S55.8
+세세,S55.90,"아래팔 부위의 상세불명 혈관손상, 찢김","Injury of unspecified blood vessels at forearm level, avulsion",S55.9
+세세,S55.91,"아래팔 부위의 상세불명 혈관손상, 절단","Injury of unspecified blood vessels at forearm level, cut",S55.9
+세세,S55.92,"아래팔 부위의 상세불명 혈관손상, 열상","Injury of unspecified blood vessels at forearm level, laceration",S55.9
+세세,S55.93,"아래팔 부위의 상세불명 혈관손상, 외상성 동맥류","Injury of unspecified blood vessels at forearm level, traumatic aneurysm",S55.9
+세세,S55.94,"아래팔 부위의 상세불명 혈관손상, 외상성 (동정맥)누공","Injury of unspecified blood vessels at forearm level, traumatic fistula (arteriovenous)",S55.9
+세세,S55.95,"아래팔 부위의 상세불명 혈관손상, 외상성 동맥혈종","Injury of unspecified blood vessels at forearm level, traumatic arterial haematoma",S55.9
+세세,S55.96,"아래팔 부위의 상세불명 혈관손상, 외상성 파열","Injury of unspecified blood vessels at forearm level, traumatic rupture",S55.9
+세세,S55.98,"아래팔 부위의 상세불명 혈관손상, 기타 및 상세불명의 손상","Injury of unspecified blood vessels at forearm level, other and unspecified injuries",S55.9
+세세,S60.80,"손목 및 손의 기타 표재성 손상, 박리, 찰과상","Other superficial injuries of wrist and hand, abrasion",S60.8
+세세,S60.81,"손목 및 손의 기타 표재성 손상, 수포","Other superficial injuries of wrist and hand, blister",S60.8
+세세,S60.82,"손목 및 손의 기타 표재성 손상, 곤충물림(비독액성)","Other superficial injuries of wrist and hand, insect bite (nonvenomous)",S60.8
+세세,S60.83,"손목 및 손의 기타 표재성 손상, 표재성 이물(파편)","Other superficial injuries of wrist and hand, superficial foreign body (splinter)",S60.8
+세세,S60.88,"손목 및 손의 기타 표재성 손상, 기타 손상","Other superficial injuries of wrist and hand, other injury",S60.8
+세세,S62.13,콩알뼈의 골절,Fracture of pisiform,S62.18
+세세세,S62.130,"콩알뼈의 골절, 폐쇄성","Fracture of pisiform, close",S62.180
+세세세,S62.131,"콩알뼈의 골절, 개방성","Fracture of pisiform, open",S62.181
+세세,S62.14,큰마름뼈의 골절,Fracture of trapezium bone,S62.18
+세세세,S62.140,"큰마름뼈의 골절, 폐쇄성","Fracture of trapezium bone, close",S62.180
+세세세,S62.141,"큰마름뼈의 골절, 개방성","Fracture of trapezium bone, open",S62.181
+세세,S62.15,소능형골의 골절,Fracture of trapezoid bone,S62.18
+세세세,S62.150,"소능형골의 골절, 폐쇄성","Fracture of trapezoid bone, close",S62.180
+세세세,S62.151,"소능형골의 골절, 개방성","Fracture of trapezoid bone, open",S62.181
+세세,S62.16,알머리뼈의 골절,Fracture of capitate bone,S62.18
+세세세,S62.160,"알머리뼈의 골절, 폐쇄성","Fracture of capitate bone, close",S62.180
+세세세,S62.161,"알머리뼈의 골절, 개방성","Fracture of capitate bone, open",S62.181
+세세,S65.00,"손목 및 손 부위의 척골동맥의 손상, 찢김","Injury of ulnar artery at wrist and hand level, avulsion",S65.0
+세세,S65.01,"손목 및 손 부위의 척골동맥의 손상, 절단","Injury of ulnar artery at wrist and hand level, cut",S65.0
+세세,S65.02,"손목 및 손 부위의 척골동맥의 손상, 열상","Injury of ulnar artery at wrist and hand level, laceration",S65.0
+세세,S65.03,"손목 및 손 부위의 척골동맥의 손상, 외상성 동맥류","Injury of ulnar artery at wrist and hand level, traumatic aneurysm",S65.0
+세세,S65.04,"손목 및 손 부위의 척골동맥의 손상, 외상성 (동정맥)누공","Injury of ulnar artery at wrist and hand level, traumatic fistula (arteriovenous)",S65.0
+세세,S65.05,"손목 및 손 부위의 척골동맥의 손상, 외상성 동맥혈종","Injury of ulnar artery at wrist and hand level, traumatic arterial haematoma",S65.0
+세세,S65.06,"손목 및 손 부위의 척골동맥의 손상, 외상성 파열","Injury of ulnar artery at wrist and hand level, traumatic rupture",S65.0
+세세,S65.08,"손목 및 손 부위의 척골동맥의 손상, 기타 및 상세불명의 손상","Injury of ulnar artery at wrist and hand level, other and unspecified injuries",S65.0
+세세,S65.10,"손목 및 손 부위의 요골동맥의 손상, 찢김","Injury of radial artery at wrist and hand level, avulsion",S65.1
+세세,S65.11,"손목 및 손 부위의 요골동맥의 손상, 절단","Injury of radial artery at wrist and hand level, cut",S65.1
+세세,S65.12,"손목 및 손 부위의 요골동맥의 손상, 열상","Injury of radial artery at wrist and hand level, laceration",S65.1
+세세,S65.13,"손목 및 손 부위의 요골동맥의 손상, 외상성 동맥류","Injury of radial artery at wrist and hand level, traumatic aneurysm",S65.1
+세세,S65.14,"손목 및 손 부위의 요골동맥의 손상, 외상성 (동정맥)누공","Injury of radial artery at wrist and hand level, traumatic fistula (arteriovenous)",S65.1
+세세,S65.15,"손목 및 손 부위의 요골동맥의 손상, 외상성 동맥혈종","Injury of radial artery at wrist and hand level, traumatic arterial haematoma",S65.1
+세세,S65.16,"손목 및 손 부위의 요골동맥의 손상, 외상성 파열","Injury of radial artery at wrist and hand level, traumatic rupture",S65.1
+세세,S65.18,"손목 및 손 부위의 요골동맥의 손상, 기타 및 상세불명의 손상","Injury of radial artery at wrist and hand level, other and unspecified injuries",S65.1
+세세,S65.20,"표재성 손바닥궁의 손상, 찢김","Injury of superficial palmar arch, avulsion",S65.2
+세세,S65.21,"표재성 손바닥궁의 손상, 절단","Injury of superficial palmar arch, cut",S65.2
+세세,S65.22,"표재성 손바닥궁의 손상, 열상","Injury of superficial palmar arch, laceration",S65.2
+세세,S65.23,"표재성 손바닥궁의 손상, 외상성 동맥류","Injury of superficial palmar arch, traumatic aneurysm",S65.2
+세세,S65.24,"표재성 손바닥궁의 손상, 외상성 (동정맥)누공","Injury of superficial palmar arch, traumatic fistula (arteriovenous)",S65.2
+세세,S65.25,"표재성 손바닥궁의 손상, 외상성 동맥혈종","Injury of superficial palmar arch, traumatic arterial haematoma",S65.2
+세세,S65.26,"표재성 손바닥궁의 손상, 외상성 파열","Injury of superficial palmar arch, traumatic rupture",S65.2
+세세,S65.28,"표재성 손바닥궁의 손상, 기타 및 상세불명의 손상","Injury of superficial palmar arch, other and unspecified injuries",S65.2
+세세,S65.30,"깊은 손바닥궁의 손상, 찢김","Injury of deep palmar arch, avulsion",S65.3
+세세,S65.31,"깊은 손바닥궁의 손상, 절단","Injury of deep palmar arch, cut",S65.3
+세세,S65.32,"깊은 손바닥궁의 손상, 열상","Injury of deep palmar arch, laceration",S65.3
+세세,S65.33,"깊은 손바닥궁의 손상, 외상성 동맥류","Injury of deep palmar arch, traumatic aneurysm",S65.3
+세세,S65.34,"깊은 손바닥궁의 손상, 외상성 (동정맥)누공","Injury of deep palmar arch, traumatic fistula (arteriovenous)",S65.3
+세세,S65.35,"깊은 손바닥궁의 손상, 외상성 동맥혈종","Injury of deep palmar arch, traumatic arterial haematoma",S65.3
+세세,S65.36,"깊은 손바닥궁의 손상, 외상성 파열","Injury of deep palmar arch, traumatic rupture",S65.3
+세세,S65.38,"깊은 손바닥궁의 손상, 기타 및 상세불명의 손상","Injury of deep palmar arch, other and unspecified injuries",S65.3
+세세,S65.40,"엄지손가락의 혈관의 손상, 찢김","Injury of blood vessel(s) of thumb, avulsion",S65.4
+세세,S65.41,"엄지손가락의 혈관의 손상, 절단","Injury of blood vessel(s) of thumb, cut",S65.4
+세세,S65.42,"엄지손가락의 혈관의 손상, 열상","Injury of blood vessel(s) of thumb, laceration",S65.4
+세세,S65.43,"엄지손가락의 혈관의 손상, 외상성 동맥류","Injury of blood vessel(s) of thumb, traumatic aneurysm",S65.4
+세세,S65.44,"엄지손가락의 혈관의 손상, 외상성 (동정맥)누공","Injury of blood vessel(s) of thumb, traumatic fistula (arteriovenous)",S65.4
+세세,S65.45,"엄지손가락의 혈관의 손상, 외상성 동맥혈종","Injury of blood vessel(s) of thumb, traumatic arterial haematoma",S65.4
+세세,S65.46,"엄지손가락의 혈관의 손상, 외상성 파열","Injury of blood vessel(s) of thumb, traumatic rupture",S65.4
+세세,S65.48,"엄지손가락의 혈관의 손상, 기타 및 상세불명의 손상","Injury of blood vessel(s) of thumb, other and unspecified injuries",S65.4
+세세,S65.50,"기타 손가락의 혈관의 손상, 찢김","Injury of blood vessel(s) of other finger, avulsion",S65.5
+세세,S65.51,"기타 손가락의 혈관의 손상, 절단","Injury of blood vessel(s) of other finger, cut",S65.5
+세세,S65.52,"기타 손가락의 혈관의 손상, 열상","Injury of blood vessel(s) of other finger, laceration",S65.5
+세세,S65.53,"기타 손가락의 혈관의 손상, 외상성 동맥류","Injury of blood vessel(s) of other finger, traumatic aneurysm",S65.5
+세세,S65.54,"기타 손가락의 혈관의 손상, 외상성 (동정맥)누공","Injury of blood vessel(s) of other finger, traumatic fistula (arteriovenous)",S65.5
+세세,S65.55,"기타 손가락의 혈관의 손상, 외상성 동맥혈종","Injury of blood vessel(s) of other finger, traumatic arterial haematoma",S65.5
+세세,S65.56,"기타 손가락의 혈관의 손상, 외상성 파열","Injury of blood vessel(s) of other finger, traumatic rupture",S65.5
+세세,S65.58,"기타 손가락의 혈관의 손상, 기타 및 상세불명의 손상","Injury of blood vessel(s) of other finger, other and unspecified injuries",S65.5
+세세,S65.80,"손목 및 손 부위의 기타 혈관손상, 찢김","Injury of other blood vessels at wrist and hand level, avulsion",S65.8
+세세,S65.81,"손목 및 손 부위의 기타 혈관손상, 절단","Injury of other blood vessels at wrist and hand level, cut",S65.8
+세세,S65.82,"손목 및 손 부위의 기타 혈관손상, 열상","Injury of other blood vessels at wrist and hand level, laceration",S65.8
+세세,S65.83,"손목 및 손 부위의 기타 혈관손상, 외상성 동맥류","Injury of other blood vessels at wrist and hand level, traumatic aneurysm",S65.8
+세세,S65.84,"손목 및 손 부위의 기타 혈관손상, 외상성 (동정맥)누공","Injury of other blood vessels at wrist and hand level, traumatic fistula (arteriovenous)",S65.8
+세세,S65.85,"손목 및 손 부위의 기타 혈관손상, 외상성 동맥혈종","Injury of other blood vessels at wrist and hand level, traumatic arterial haematoma",S65.8
+세세,S65.86,"손목 및 손 부위의 기타 혈관손상, 외상성 파열","Injury of other blood vessels at wrist and hand level, traumatic rupture",S65.8
+세세,S65.88,"손목 및 손 부위의 기타 혈관손상, 기타 및 상세불명의 손상","Injury of other blood vessels at wrist and hand level, other and unspecified injuries",S65.8
+세세,S65.90,"손목 및 손 부위의 상세불명 혈관손상, 찢김","Injury of unspecified blood vessel at wrist and hand level, avulsion",S65.9
+세세,S65.91,"손목 및 손 부위의 상세불명 혈관손상, 절단","Injury of unspecified blood vessel at wrist and hand level, cut",S65.9
+세세,S65.92,"손목 및 손 부위의 상세불명 혈관손상, 열상","Injury of unspecified blood vessel at wrist and hand level, laceration",S65.9
+세세,S65.93,"손목 및 손 부위의 상세불명 혈관손상, 외상성 동맥류","Injury of unspecified blood vessel at wrist and hand level, traumatic aneurysm",S65.9
+세세,S65.94,"손목 및 손 부위의 상세불명 혈관손상, 외상성 (동정맥)누공","Injury of unspecified blood vessel at wrist and hand level, traumatic fistula (arteriovenous)",S65.9
+세세,S65.95,"손목 및 손 부위의 상세불명 혈관손상, 외상성 동맥혈종","Injury of unspecified blood vessel at wrist and hand level, traumatic arterial haematoma",S65.9
+세세,S65.96,"손목 및 손 부위의 상세불명 혈관손상, 외상성 파열","Injury of unspecified blood vessel at wrist and hand level, traumatic rupture",S65.9
+세세,S65.98,"손목 및 손 부위의 상세불명 혈관손상, 기타 및 상세불명의 손상","Injury of unspecified blood vessel at wrist and hand level, other and unspecified injuries",S65.9
+세세,S70.80,"엉덩이 및 대퇴의 기타 표재성 손상, 박리, 찰과상","Other superficial injuries of hip and thigh, abrasion",S70.8
+세세,S70.81,"엉덩이 및 대퇴의 기타 표재성 손상, 수포","Other superficial injuries of hip and thigh, blister",S70.8
+세세,S70.82,"엉덩이 및 대퇴의 기타 표재성 손상, 곤충물림(비독액성)","Other superficial injuries of hip and thigh, insect bite (nonvenomous)",S70.8
+세세,S70.83,"엉덩이 및 대퇴의 기타 표재성 손상, 표재성 이물(파편)","Other superficial injuries of hip and thigh, superficial foreign body (splinter)",S70.8
+세세,S70.88,"엉덩이 및 대퇴의 기타 표재성 손상, 기타 손상","Other superficial injuries of hip and thigh, other injury",S70.8
+세세,S72.02,대퇴골의 관절속구역의 골절,Fracture of intracapsular section of femur,S72.08
+세세세,S72.020,"대퇴골의 관절속구역의 골절, 폐쇄성","Fracture of intracapsular section of femur, closed",S72.080
+세세세,S72.021,"대퇴골의 관절속구역의 골절, 개방성","Fracture of intracapsular section of femur, open",S72.081
+세세,S72.03,대퇴골 상골단의 (분리)골절,Fracture of upper epiphysis (separation) of femur,S72.08
+세세세,S72.030,"대퇴골 상골단의 (분리)골절, 폐쇄성","Fracture of upper epiphysis (separation) of femur, closed",S72.080
+세세세,S72.031,"대퇴골 상골단의 (분리)골절, 개방성","Fracture of upper epiphysis (separation) of femur, open",S72.081
+세세,S72.04,대퇴골 골두하구역의 골절,Fracture of subcapital section of femur,S72.08
+세세세,S72.040,"대퇴골 골두하구역의 골절, 폐쇄성","Fracture of subcapital section of femur, closed",S72.080
+세세세,S72.041,"대퇴골 골두하구역의 골절, 개방성","Fracture of subcapital section of femur, open",S72.081
+세세,S72.05,대퇴골 중경부구역의 골절,Fracture of midcervical section of femur,S72.08
+세세세,S72.050,"대퇴골 중경부 구역의 골절, 폐쇄성","Fracture of midcervical section of femur, closed",S72.080
+세세세,S72.051,"대퇴골 중경부 구역의 골절, 개방성","Fracture of midcervical section of femur, open",S72.081
+세세,S72.42,대퇴골 관절융기의 골절,Fracture of femoral condyle,S72.4
+세세세,S72.420,"대퇴골 관절융기의 골절, 폐쇄성","Fracture of femoral condyle, closed",S72.40
+세세세,S72.421,"대퇴골 관절융기의 골절, 개방성","Fracture of femoral condyle, open",S72.41
+세세,S72.43,대퇴골 하골단의 (분리)골절,Fracture of lower epiphysis (separation) of femur,S72.4
+세세세,S72.430,"대퇴골 하골단의 (분리)골절, 폐쇄성","Fracture of lower epiphysis (separation) of femur, closed",S72.40
+세세세,S72.431,"대퇴골 하골단의 (분리)골절, 개방성","Fracture of lower epiphysis (separation) of femur, open",S72.41
+세세,S72.44,대퇴골의 관절융기위골절,Supracondylar fracture of femur,S72.4
+세세세,S72.440,"대퇴골의 관절융기위골절, 폐쇄성","Supracondylar fracture of femur, closed",S72.40
+세세세,S72.441,"대퇴골의 관절융기위골절, 개방성","Supracondylar fracture of femur, open",S72.41
+세세,S72.45,대퇴골의 관절융기간골절,Intercondylar fracture of femur,S72.4
+세세세,S72.450,"대퇴골의 관절융기간골절, 폐쇄성","Intercondylar fracture of femur, closed",S72.40
+세세세,S72.451,"대퇴골의 관절융기간골절, 개방성","Intercondylar fracture of femur, open",S72.41
+세세,S72.49,대퇴골 하단의 상세불명 부분의 골절,"Fracture of lower end of femur, part unspecified",S72.4
+세세세,S72.490,"대퇴골 하단의 상세불명 부분의 골절, 폐쇄성","Fracture of lower end of femur, part unspecified, closed",S72.40
+세세세,S72.491,"대퇴골 하단의 상세불명 부분의 골절, 개방성","Fracture of lower end of femur, part unspecified, open",S72.41
+세세,S73.00,고관절의 후탈구,Posterior dislocation of hip,S73.0
+세세,S73.01,고관절의 폐쇄근탈구,Obturator dislocation of hip,S73.0
+세세,S73.08,고관절의 기타 전탈구,Other anterior dislocation of hip,S73.0
+세세,S73.09,고관절의 상세불명 탈구,Unspecified dislocation of hip,S73.0
+세세,S75.00,"대퇴동맥의 손상, 찢김","Injury of femoral artery, avulsion",S75.0
+세세,S75.01,"대퇴동맥의 손상, 절단","Injury of femoral artery, cut",S75.0
+세세,S75.02,"대퇴동맥의 손상, 열상","Injury of femoral artery, laceration",S75.0
+세세,S75.03,"대퇴동맥의 손상, 외상성 동맥류","Injury of femoral artery, traumatic aneurysm",S75.0
+세세,S75.04,"대퇴동맥의 손상, 외상성 (동정맥)누공","Injury of femoral artery, traumatic fistula (arteriovenous)",S75.0
+세세,S75.05,"대퇴동맥의 손상, 외상성 동맥혈종","Injury of femoral artery, traumatic arterial haematoma",S75.0
+세세,S75.06,"대퇴동맥의 손상, 외상성 파열","Injury of femoral artery, traumatic rupture",S75.0
+세세,S75.08,"대퇴동맥의 손상, 기타 및 상세불명의 손상","Injury of femoral artery, other and unspecified injuries",S75.0
+세세,S75.10,"엉덩이 및 대퇴 부위의 대퇴정맥의 손상, 찢김","Injury of femoral vein at hip and thigh level, avulsion",S75.1
+세세,S75.11,"엉덩이 및 대퇴 부위의 대퇴정맥의 손상, 절단","Injury of femoral vein at hip and thigh level, cut",S75.1
+세세,S75.12,"엉덩이 및 대퇴 부위의 대퇴정맥의 손상, 열상","Injury of femoral vein at hip and thigh level, laceration",S75.1
+세세,S75.16,"엉덩이 및 대퇴 부위의 대퇴정맥의 손상, 외상성 파열","Injury of femoral vein at hip and thigh level, traumatic rupture",S75.1
+세세,S75.18,"엉덩이 및 대퇴 부위의 대퇴정맥의 손상, 기타 및 상세불명의 손상","Injury of femoral vein at hip and thigh level, other and unspecified injuries",S75.1
+세세,S75.20,"엉덩이 및 대퇴 부위의 대복재정맥의 손상, 찢김","Injury of greater saphenous vein at hip and thigh level, avulsion",S75.2
+세세,S75.21,"엉덩이 및 대퇴 부위의 대복재정맥의 손상, 절단","Injury of greater saphenous vein at hip and thigh level, cut",S75.2
+세세,S75.22,"엉덩이 및 대퇴 부위의 대복재정맥의 손상, 열상","Injury of greater saphenous vein at hip and thigh level, laceration",S75.2
+세세,S75.26,"엉덩이 및 대퇴 부위의 대복재정맥의 손상, 외상성 파열","Injury of greater saphenous vein at hip and thigh level, traumatic rupture",S75.2
+세세,S75.28,"엉덩이 및 대퇴 부위의 대복재정맥의 손상, 기타 및 상세불명의 손상","Injury of greater saphenous vein at hip and thigh level, other and unspecified injuries",S75.2
+세세,S75.80,"엉덩이 및 대퇴 부위의 기타 혈관손상, 찢김","Injury of other blood vessels at hip and thigh level, avulsion",S75.8
+세세,S75.81,"엉덩이 및 대퇴 부위의 기타 혈관손상, 절단","Injury of other blood vessels at hip and thigh level, cut",S75.8
+세세,S75.82,"엉덩이 및 대퇴 부위의 기타 혈관손상, 열상","Injury of other blood vessels at hip and thigh level, laceration",S75.8
+세세,S75.83,"엉덩이 및 대퇴 부위의 기타 혈관손상, 외상성 동맥류","Injury of other blood vessels at hip and thigh level, traumatic aneurysm",S75.8
+세세,S75.84,"엉덩이 및 대퇴 부위의 기타 혈관손상, 외상성 (동정맥)누공","Injury of other blood vessels at hip and thigh level, traumatic fistula (arteriovenous)",S75.8
+세세,S75.85,"엉덩이 및 대퇴 부위의 기타 혈관손상, 외상성 동맥혈종","Injury of other blood vessels at hip and thigh level, traumatic arterial haematoma",S75.8
+세세,S75.86,"엉덩이 및 대퇴 부위의 기타 혈관손상, 외상성 파열","Injury of other blood vessels at hip and thigh level, traumatic rupture",S75.8
+세세,S75.88,"엉덩이 및 대퇴 부위의 기타 혈관손상, 기타 및 상세불명의 손상","Injury of other blood vessels at hip and thigh level, other and unspecified injuries",S75.8
+세세,S75.90,"엉덩이 및 대퇴 부위의 상세불명 혈관손상, 찢김","Injury of unspecified blood vessel at hip and thigh level, avulsion",S75.9
+세세,S75.91,"엉덩이 및 대퇴 부위의 상세불명 혈관손상, 절단","Injury of unspecified blood vessel at hip and thigh level, cut",S75.9
+세세,S75.92,"엉덩이 및 대퇴 부위의 상세불명 혈관손상, 열상","Injury of unspecified blood vessel at hip and thigh level, laceration",S75.9
+세세,S75.93,"엉덩이 및 대퇴 부위의 상세불명 혈관손상, 외상성 동맥류","Injury of unspecified blood vessel at hip and thigh level, traumatic aneurysm",S75.9
+세세,S75.94,"엉덩이 및 대퇴 부위의 상세불명 혈관손상, 외상성 (동정맥)누공","Injury of unspecified blood vessel at hip and thigh level, traumatic fistula (arteriovenous)",S75.9
+세세,S75.95,"엉덩이 및 대퇴 부위의 상세불명 혈관손상, 외상성 동맥혈종","Injury of unspecified blood vessel at hip and thigh level, traumatic arterial haematoma",S75.9
+세세,S75.96,"엉덩이 및 대퇴 부위의 상세불명 혈관손상, 외상성 파열","Injury of unspecified blood vessel at hip and thigh level, traumatic rupture",S75.9
+세세,S75.98,"엉덩이 및 대퇴 부위의 상세불명 혈관손상, 기타 및 상세불명의 손상","Injury of unspecified blood vessel at hip and thigh level, other and unspecified injuries",S75.9
+세세,S80.80,"아래다리의 기타 표재성 손상, 박리, 찰과상","Other superficial injuries of lower leg, abrasion",S80.8
+세세,S80.81,"아래다리의 기타 표재성 손상, 수포","Other superficial injuries of lower leg, blister",S80.8
+세세,S80.82,"아래다리의 기타 표재성 손상, 곤충물림(비독액성)","Other superficial injuries of lower leg, insect bite (nonvenomous)",S80.8
+세세,S80.83,"아래다리의 기타 표재성 손상, 표재성 이물(파편)","Other superficial injuries of lower leg, superficial foreign body (splinter)",S80.8
+세세,S80.88,"아래다리의 기타 표재성 손상, 기타 손상","Other superficial injuries of lower leg, other injury",S80.8
+세세,S82.49,비골의 상세불명 부분의 골절,"Fracture of fibula, part unspecified",S82.48
+세세세,S82.490,"상세불명의 비골 부분의 골절, 폐쇄성","Fracture of fibula, part unspecified, closed",S82.480
+세세세,S82.491,"상세불명의 비골 부분의 골절, 개방성","Fracture of fibula, part unspecified, open",S82.481
+세세,S83.10,"경골의 전탈구, 근위단","Anterior dislocation of tibia, proximal end",S83.1
+세세,S83.11,"경골의 후탈구, 근위단","Posterior dislocation of tibia, proximal end",S83.1
+세세,S83.12,"경골의 내측탈구, 근위단","Medial dislocation of tibia, proximal end",S83.1
+세세,S83.13,"경골의 외측탈구, 근위단","Lateral dislocation of tibia, proximal end",S83.1
+세세,S83.18,무릎의 기타 탈구,Other dislocation of knee,S83.1
+세세,S83.19,무릎의 상세불명 탈구,"Dislocation of knee, unspecified",S83.1
+세세,S85.00,"오금동맥의 손상, 찢김","Injury of popliteal artery, avulsion",S85.0
+세세,S85.01,"오금동맥의 손상, 절단","Injury of popliteal artery, cut",S85.0
+세세,S85.02,"오금동맥의 손상, 열상","Injury of popliteal artery, laceration",S85.0
+세세,S85.03,"오금동맥의 손상, 외상성 동맥류","Injury of popliteal artery, traumatic aneurysm",S85.0
+세세,S85.04,"오금동맥의 손상, 외상성 (동정맥)누공","Injury of popliteal artery, traumatic fistula (arteriovenous)",S85.0
+세세,S85.05,"오금동맥의 손상, 외상성 동맥혈종","Injury of popliteal artery, traumatic arterial haematoma",S85.0
+세세,S85.06,"오금동맥의 손상, 외상성 파열","Injury of popliteal artery, traumatic rupture",S85.0
+세세,S85.08,"오금동맥의 손상, 기타 및 상세불명의 손상","Injury of popliteal artery, other and unspecified injuries",S85.0
+세세,S85.10,"(전)(후)경골동맥의 손상, 찢김","Injury of (anterior)(posterior) tibial artery, avulsion",S85.1
+세세,S85.11,"(전)(후)경골동맥의 손상, 절단","Injury of (anterior)(posterior) tibial artery, cut",S85.1
+세세,S85.12,"(전)(후)경골동맥의 손상, 열상","Injury of (anterior)(posterior) tibial artery, laceration",S85.1
+세세,S85.13,"(전)(후)경골동맥의 손상, 외상성 동맥류","Injury of (anterior)(posterior) tibial artery, traumatic aneurysm",S85.1
+세세,S85.14,"(전)(후)경골동맥의 손상, 외상성 (동정맥)누공","Injury of (anterior)(posterior) tibial artery, traumatic fistula (arteriovenous)",S85.1
+세세,S85.15,"(전)(후)경골동맥의 손상, 외상성 동맥혈종","Injury of (anterior)(posterior) tibial artery, traumatic arterial haematoma",S85.1
+세세,S85.16,"(전)(후)경골동맥의 손상, 외상성 파열","Injury of (anterior)(posterior) tibial artery, traumatic rupture",S85.1
+세세,S85.18,"(전)(후)경골동맥의 손상, 기타 및 상세불명의 손상","Injury of (anterior)(posterior) tibial artery, other and unspecified injuries",S85.1
+세세,S85.20,"비골동맥의 손상, 찢김","Injury of peroneal artery, avulsion",S85.2
+세세,S85.21,"비골동맥의 손상, 절단","Injury of peroneal artery, cut",S85.2
+세세,S85.22,"비골동맥의 손상, 열상","Injury of peroneal artery, laceration",S85.2
+세세,S85.23,"비골동맥의 손상, 외상성 동맥류","Injury of peroneal artery, traumatic aneurysm",S85.2
+세세,S85.24,"비골동맥의 손상, 외상성 (동정맥)누공","Injury of peroneal artery, traumatic fistula (arteriovenous)",S85.2
+세세,S85.25,"비골동맥의 손상, 외상성 동맥혈종","Injury of peroneal artery, traumatic arterial haematoma",S85.2
+세세,S85.26,"비골동맥의 손상, 외상성 파열","Injury of peroneal artery, traumatic rupture",S85.2
+세세,S85.28,"비골동맥의 손상, 기타 및 상세불명의 손상","Injury of peroneal artery, other and unspecified injuries",S85.2
+세세,S85.30,"아래다리 부위의 대복재정맥의 손상, 찢김","Injury of greater saphenous vein at lower leg level, avulsion",S85.3
+세세,S85.31,"아래다리 부위의 대복재정맥의 손상, 절단","Injury of greater saphenous vein at lower leg level, cut",S85.3
+세세,S85.32,"아래다리 부위의 대복재정맥의 손상, 열상","Injury of greater saphenous vein at lower leg level, laceration",S85.3
+세세,S85.36,"아래다리 부위의 대복재정맥의 손상, 외상성 파열","Injury of greater saphenous vein at lower leg level, traumatic rupture",S85.3
+세세,S85.38,"아래다리 부위의 대복재정맥의 손상, 기타 및 상세불명의 손상","Injury of greater saphenous vein at lower leg level, other and unspecified injuries",S85.3
+세세,S85.40,"아래다리 부위의 소복재정맥의 손상, 찢김","Injury of lesser saphenous vein at lower leg level, avulsion",S85.4
+세세,S85.41,"아래다리 부위의 소복재정맥의 손상, 절단","Injury of lesser saphenous vein at lower leg level, cut",S85.4
+세세,S85.42,"아래다리 부위의 소복재정맥의 손상, 열상","Injury of lesser saphenous vein at lower leg level, laceration",S85.4
+세세,S85.46,"아래다리 부위의 소복재정맥의 손상, 외상성 파열","Injury of lesser saphenous vein at lower leg level, traumatic rupture",S85.4
+세세,S85.48,"아래다리 부위의 소복재정맥의 손상, 기타 및 상세불명의 손상","Injury of lesser saphenous vein at lower leg level, other and unspecified injuries",S85.4
+세세,S85.50,"오금정맥의 손상, 찢김","Injury of popliteal vein, avulsion",S85.5
+세세,S85.51,"오금정맥의 손상, 절단","Injury of popliteal vein, cut",S85.5
+세세,S85.52,"오금정맥의 손상, 열상","Injury of popliteal vein, laceration",S85.5
+세세,S85.56,"오금정맥의 손상, 외상성 파열","Injury of popliteal vein, traumatic rupture",S85.5
+세세,S85.58,"오금정맥의 손상, 기타 및 상세불명의 손상","Injury of popliteal vein, other and unspecified injuries",S85.5
+세세,S85.80,"아래다리 부위의 기타 혈관손상, 찢김","Injury of other blood vessels at lower leg level, avulsion",S85.8
+세세,S85.81,"아래다리 부위의 기타 혈관손상, 절단","Injury of other blood vessels at lower leg level, cut",S85.8
+세세,S85.82,"아래다리 부위의 기타 혈관손상, 열상","Injury of other blood vessels at lower leg level, laceration",S85.8
+세세,S85.83,"아래다리 부위의 기타 혈관손상, 외상성 동맥류","Injury of other blood vessels at lower leg level, traumatic aneurysm",S85.8
+세세,S85.84,"아래다리 부위의 기타 혈관손상, 외상성 (동정맥)누공","Injury of other blood vessels at lower leg level, traumatic fistula (arteriovenous)",S85.8
+세세,S85.85,"아래다리 부위의 기타 혈관손상, 외상성 동맥혈종","Injury of other blood vessels at lower leg level, traumatic arterial haematoma",S85.8
+세세,S85.86,"아래다리 부위의 기타 혈관손상, 외상성 파열","Injury of other blood vessels at lower leg level, traumatic rupture",S85.8
+세세,S85.88,"아래다리 부위의 기타 혈관손상, 기타 및 상세불명의 손상","Injury of other blood vessels at lower leg level, other and unspecified injuries",S85.8
+세세,S85.90,"아래다리 부위의 상세불명 혈관손상, 찢김","Injury of unspecified blood vessel at lower leg level, avulsion",S85.9
+세세,S85.91,"아래다리 부위의 상세불명 혈관손상, 절단","Injury of unspecified blood vessel at lower leg level, cut",S85.9
+세세,S85.92,"아래다리 부위의 상세불명 혈관손상, 열상","Injury of unspecified blood vessel at lower leg level, laceration",S85.9
+세세,S85.93,"아래다리 부위의 상세불명 혈관손상, 외상성 동맥류","Injury of unspecified blood vessel at lower leg level, traumatic aneurysm",S85.9
+세세,S85.94,"아래다리 부위의 상세불명 혈관손상, 외상성 (동정맥)누공","Injury of unspecified blood vessel at lower leg level, traumatic fistula (arteriovenous)",S85.9
+세세,S85.95,"아래다리 부위의 상세불명 혈관손상, 외상성 동맥혈종","Injury of unspecified blood vessel at lower leg level, traumatic arterial haematoma",S85.9
+세세,S85.96,"아래다리 부위의 상세불명 혈관손상, 외상성 파열","Injury of unspecified blood vessel at lower leg level, traumatic rupture",S85.9
+세세,S85.98,"아래다리 부위의 상세불명 혈관손상, 기타 및 상세불명의 손상","Injury of unspecified blood vessel at lower leg level, other and unspecified injuries",S85.9
+세세,S90.80,"발목 및 발의 기타 표재성 손상, 박리, 찰과상","Other superficial injuries of ankle and foot, abrasion",S90.8
+세세,S90.81,"발목 및 발의 기타 표재성 손상, 수포","Other superficial injuries of ankle and foot, blister",S90.8
+세세,S90.82,"발목 및 발의 기타 표재성 손상, 곤충물림(비독액성)","Other superficial injuries of ankle and foot, insect bite (nonvenomous)",S90.8
+세세,S90.83,"발목 및 발의 기타 표재성 손상, 표재성 이물(파편)","Other superficial injuries of ankle and foot, superficial foreign body (splinter)",S90.8
+세세,S90.88,"발목 및 발의 기타 표재성 손상, 기타 손상","Other superficial injuries of ankle and foot, other injury",S90.8
+세세,S95.00,"발등동맥의 손상, 찢김","Injury of dorsal artery of foot, avulsion",S95.0
+세세,S95.01,"발등동맥의 손상, 절단","Injury of dorsal artery of foot, cut",S95.0
+세세,S95.02,"발등동맥의 손상, 열상","Injury of dorsal artery of foot, laceration",S95.0
+세세,S95.03,"발등동맥의 손상, 외상성 동맥류","Injury of dorsal artery of foot, traumatic aneurysm",S95.0
+세세,S95.04,"발등동맥의 손상, 외상성 (동정맥)누공","Injury of dorsal artery of foot, traumatic fistula (arteriovenous)",S95.0
+세세,S95.05,"발등동맥의 손상, 외상성 동맥혈종","Injury of dorsal artery of foot, traumatic arterial haematoma",S95.0
+세세,S95.06,"발등동맥의 손상, 외상성 파열","Injury of dorsal artery of foot, traumatic rupture",S95.0
+세세,S95.08,"발등동맥의 손상, 기타 및 상세불명의 손상","Injury of dorsal artery of foot, other and unspecified injuries",S95.0
+세세,S95.10,"발바닥동맥의 손상, 찢김","Injury of plantar artery of foot, avulsion",S95.1
+세세,S95.11,"발바닥동맥의 손상, 절단","Injury of plantar artery of foot, cut",S95.1
+세세,S95.12,"발바닥동맥의 손상, 열상","Injury of plantar artery of foot, laceration",S95.1
+세세,S95.13,"발바닥동맥의 손상, 외상성 동맥류","Injury of plantar artery of foot, traumatic aneurysm",S95.1
+세세,S95.14,"발바닥동맥의 손상, 외상성 (동정맥)누공","Injury of plantar artery of foot, traumatic fistula (arteriovenous)",S95.1
+세세,S95.15,"발바닥동맥의 손상, 외상성 동맥혈종","Injury of plantar artery of foot, traumatic arterial haematoma",S95.1
+세세,S95.16,"발바닥동맥의 손상, 외상성 파열","Injury of plantar artery of foot, traumatic rupture",S95.1
+세세,S95.18,"발바닥동맥의 손상, 기타 및 상세불명의 손상","Injury of plantar artery of foot, other and unspecified injuries",S95.1
+세세,S95.20,"발등정맥의 손상, 찢김","Injury of dorsal vein of foot, avulsion",S95.2
+세세,S95.21,"발등정맥의 손상, 절단","Injury of dorsal vein of foot, cut",S95.2
+세세,S95.22,"발등정맥의 손상, 열상","Injury of dorsal vein of foot, laceration",S95.2
+세세,S95.26,"발등정맥의 손상, 외상성 파열","Injury of dorsal vein of foot, traumatic rupture",S95.2
+세세,S95.28,"발등정맥의 손상, 기타 및 상세불명의 손상","Injury of dorsal vein of foot, other and unspecified injuries",S95.2
+세세,S95.80,"발목 및 발 부위의 기타 혈관손상, 찢김","Injury of other blood vessels at ankle and foot level, avulsion",S95.8
+세세,S95.81,"발목 및 발 부위의 기타 혈관손상, 절단","Injury of other blood vessels at ankle and foot level, cut",S95.8
+세세,S95.82,"발목 및 발 부위의 기타 혈관손상, 열상","Injury of other blood vessels at ankle and foot level, laceration",S95.8
+세세,S95.83,"발목 및 발 부위의 기타 혈관손상, 외상성 동맥류","Injury of other blood vessels at ankle and foot level, traumatic aneurysm",S95.8
+세세,S95.84,"발목 및 발 부위의 기타 혈관손상, 외상성 (동정맥)누공","Injury of other blood vessels at ankle and foot level, traumatic fistula (arteriovenous)",S95.8
+세세,S95.85,"발목 및 발 부위의 기타 혈관손상, 외상성 동맥혈종","Injury of other blood vessels at ankle and foot level, traumatic arterial haematoma",S95.8
+세세,S95.86,"발목 및 발 부위의 기타 혈관손상, 외상성 파열","Injury of other blood vessels at ankle and foot level, traumatic rupture",S95.8
+세세,S95.88,"발목 및 발 부위의 기타 혈관손상, 기타 및 상세불명의 손상","Injury of other blood vessels at ankle and foot level, other and unspecified injuries",S95.8
+세세,S95.90,"발목 및 발 부위의 상세불명 혈관손상, 찢김","Injury of unspecified blood vessel at ankle and foot level, avulsion",S95.9
+세세,S95.91,"발목 및 발 부위의 상세불명 혈관손상, 절단","Injury of unspecified blood vessel at ankle and foot level, cut",S95.9
+세세,S95.92,"발목 및 발 부위의 상세불명 혈관손상, 열상","Injury of unspecified blood vessel at ankle and foot level, laceration",S95.9
+세세,S95.93,"발목 및 발 부위의 상세불명 혈관손상, 외상성 동맥류","Injury of unspecified blood vessel at ankle and foot level, traumatic aneurysm",S95.9
+세세,S95.94,"발목 및 발 부위의 상세불명 혈관손상, 외상성 (동정맥)누공","Injury of unspecified blood vessel at ankle and foot level, traumatic fistula (arteriovenous)",S95.9
+세세,S95.95,"발목 및 발 부위의 상세불명 혈관손상, 외상성 동맥혈종","Injury of unspecified blood vessel at ankle and foot level, traumatic arterial haematoma",S95.9
+세세,S95.96,"발목 및 발 부위의 상세불명 혈관손상, 외상성 파열","Injury of unspecified blood vessel at ankle and foot level, traumatic rupture",S95.9
+세세,S95.98,"발목 및 발 부위의 상세불명 혈관손상, 기타 및 상세불명의 손상","Injury of unspecified blood vessel at ankle and foot level, other and unspecified injuries",S95.9
+세세,T17.20,"인두의 이물, 위내용물","Foreign body in pharynx, gastric contents",T17.2
+세세,T17.21,"인두의 이물, 음식물","Foreign body in pharynx, food",T17.2
+세세,T17.28,"인두의 이물, 기타 이물","Foreign body in pharynx, other foreign object",T17.2
+세세,T17.29,"인두의 이물, 상세불명의 이물","Foreign body in pharynx, unspecified foreign body",T17.2
+세세,T17.30,"후두의 이물, 위 내용물","Foreign body in larynx, gastric contents",T17.3
+세세,T17.31,"후두의 이물, 음식물","Foreign body in larynx, food",T17.3
+세세,T17.38,"후두의 이물, 기타 이물","Foreign body in larynx, other foreign object",T17.3
+세세,T17.39,"후두의 이물, 상세불명의 이물","Foreign body in larynx, unspecified foreign body",T17.3
+세세,T17.40,"기관의 이물, 위 내용물","Foreign body in trachea, gastric contents",T17.4
+세세,T17.41,"기관의 이물, 음식물","Foreign body in trachea, food",T17.4
+세세,T17.48,"기관의 이물, 기타 이물","Foreign body in trachea, other foreign object",T17.4
+세세,T17.49,"기관의 이물, 상세불명의 이물","Foreign body in trachea, unspecified foreign body",T17.4
+세세,T17.50,"기관지의 이물, 위 내용물","Foreign body in bronchus, gastric contents",T17.5
+세세,T17.51,"기관지의 이물, 음식물","Foreign body in bronchus, food",T17.5
+세세,T17.58,"기관지의 이물, 기타 이물","Foreign body in bronchus, other foreign object",T17.5
+세세,T17.59,"기관지의 이물, 상세불명의 이물","Foreign body in bronchus, unspecified foreign body",T17.5
+세세,T17.80,"기도의 기타 및 여러 부분의 이물, 위내용물","Foreign body in other and multiple parts of respiratory tract, thumb (nail)",T17.8
+세세,T17.81,"기도의 기타 및 여러 부분의 이물, 음식물","Foreign body in other and multiple parts of respiratory tract, single finger (nail), except thumb",T17.8
+세세,T17.88,"기도의 기타 및 여러 부분의 이물, 기타 이물","Foreign body in other and multiple parts of respiratory tract, multiple fingers (nail), not including thumb",T17.8
+세세,T17.89,"기도의 기타 및 여러 부분의 이물, 상세불명의 이물","Foreign body in other and multiple parts of respiratory tract, multiple fingers (nail), including thumb",T17.8
+세세,T17.90,"기도의 상세불명 부분의 이물, 위내용물","Foreign body in respiratory tract, part unspecified, gastric contents",T17.9
+세세,T17.91,"기도의 상세불명 부분의 이물, 음식물","Foreign body in respiratory tract, part unspecified, food",T17.9
+세세,T17.98,"기도의 상세불명 부분의 이물, 기타 이물","Foreign body in respiratory tract, part unspecified, other foreign object",T17.9
+세세,T17.99,"기도의 상세불명 부분의 이물, 상세불명의 이물","Foreign body in respiratory tract, part unspecified, unspecified foreign body",T17.9
+세세,T31.00,신체표면의 10%미만을 침범한 화상 중 3도화상이 신체표면의 10% 미만 또는 상세불명인 경우,Burns involving less than 10％ of body surface with third-degree burns involving less than 10% or unspecified,T31.0
+세세,T31.10,신체표면의 10-19%를 침범한 화상 중 3도화상이 신체표면의 10% 미만 또는 상세불명인 경우,Burns involving 10-19％ of body surface with third-degree burns involving less than 10% or unspecified,T31.1
+세세,T31.11,신체표면의 10-19%를 침범한 화상 중 3도화상이 신체표면의 10-19%인 경우,Burns involving 10-19％ of body surface with third-degree burns involving 10-19% of body surface,T31.1
+세세,T31.20,신체표면의 20-29%를 침범한 화상 중 3도화상이 신체표면의 10% 미만 또는 상세불명인 경우,Burns involving 20-29％ of body surface with third-degree burns involving less than 10% or unspecified,T31.2
+세세,T31.21,신체표면의 20-29%를 침범한 화상 중 3도화상이 신체표면의 10-19%인 경우,Burns involving 20-29％ of body surface with third-degree burns involving 10-19% of body surface,T31.2
+세세,T31.22,신체표면의 20-29%를 침범한 화상 중 3도화상이 신체표면의 20-29%인 경우,Burns involving 20-29％ of body surface with third-degree burns involving 20-29% of body surface,T31.2
+세세,T31.30,신체표면의 30-39%를 침범한 화상 중 3도화상이 신체표면의 10% 미만 또는 상세불명인 경우,Burns involving 30-39％ of body surface with third-degree burns involving less than 10% or unspecified,T31.3
+세세,T31.31,신체표면의 30-39%를 침범한 화상 중 3도화상이 신체표면의 10-19%인 경우,Burns involving 30-39％ of body surface with third-degree burns involving 10-19% of body surface,T31.3
+세세,T31.32,신체표면의 30-39%를 침범한 화상 중 3도화상이 신체표면의 20-29%인 경우,Burns involving 30-39％ of body surface with third-degree burns involving 20-29% of body surface,T31.3
+세세,T31.33,신체표면의 30-39%를 침범한 화상 중 3도화상이 신체표면의 30-39%인 경우,Burns involving 30-39％ of body surface with third-degree burns involving 30-39% of body surface,T31.3
+세세,T31.40,신체표면의 40-49%를 침범한 화상 중 3도화상이 신체표면의 10% 미만 또는 상세불명인 경우,Burns involving 40-49％ of body surface with third-degree burns involving less than 10% or unspecified,T31.4
+세세,T31.41,신체표면의 40-49%를 침범한 화상 중 3도화상이 신체표면의 10-19%인 경우,Burns involving 40-49％ of body surface with third-degree burns involving 10-19% of body surface,T31.4
+세세,T31.42,신체표면의 40-49%를 침범한 화상 중 3도화상이 신체표면의 20-29%인 경우,Burns involving 40-49％ of body surface with third-degree burns involving 20-29% of body surface,T31.4
+세세,T31.43,신체표면의 40-49%를 침범한 화상 중 3도화상이 신체표면의 30-39%인 경우,Burns involving 40-49％ of body surface with third-degree burns involving 30-39% of body surface,T31.4
+세세,T31.44,신체표면의 40-49%를 침범한 화상 중 3도화상이 신체표면의 40-49%인 경우,Burns involving 40-49％ of body surface with third-degree burns involving 40-49% of body surface,T31.4
+세세,T31.50,신체표면의 50-59%를 침범한 화상 중 3도화상이 신체표면의 10% 미만 또는 상세불명인 경우,Burns involving 50-59％ of body surface with third-degree burns involving less than 10% or unspecified,T31.5
+세세,T31.51,신체표면의 50-59%를 침범한 화상 중 3도화상이 신체표면의 10-19%인 경우,Burns involving 50-59％ of body surface with third-degree burns involving 10-19% of body surface,T31.5
+세세,T31.52,신체표면의 50-59%를 침범한 화상 중 3도화상이 신체표면의 20-29%인 경우,Burns involving 50-59％ of body surface with third-degree burns involving 20-29% of body surface,T31.5
+세세,T31.53,신체표면의 50-59%를 침범한 화상 중 3도화상이 신체표면의 30-39%인 경우,Burns involving 50-59％ of body surface with third-degree burns involving 30-39% of body surface,T31.5
+세세,T31.54,신체표면의 50-59%를 침범한 화상 중 3도화상이 신체표면의 40-49%인 경우,Burns involving 50-59％ of body surface with third-degree burns involving 40-49% of body surface,T31.5
+세세,T31.55,신체표면의 50-59%를 침범한 화상 중 3도화상이 신체표면의 50-59%인 경우,Burns involving 50-59％ of body surface with third-degree burns involving 50-59% of body surface,T31.5
+세세,T31.60,신체표면의 60-69%를 침범한 화상 중 3도화상이 신체표면의 10% 미만 또는 상세불명인 경우,Burns involving 60-69％ of body surface with third-degree burns involving less than 10% or unspecified,T31.6
+세세,T31.61,신체표면의 60-69%를 침범한 화상 중 3도화상이 신체표면의 10-19%인 경우,Burns involving 60-69％ of body surface with third-degree burns involving 10-19% of body surface,T31.6
+세세,T31.62,신체표면의 60-69%를 침범한 화상 중 3도화상이 신체표면의 20-29%인 경우,Burns involving 60-69％ of body surface with third-degree burns involving 20-29% of body surface,T31.6
+세세,T31.63,신체표면의 60-69%를 침범한 화상 중 3도화상이 신체표면의 30-39%인 경우,Burns involving 60-69％ of body surface with third-degree burns involving 30-39% of body surface,T31.6
+세세,T31.64,신체표면의 60-69%를 침범한 화상 중 3도화상이 신체표면의 40-49%인 경우,Burns involving 60-69％ of body surface with third-degree burns involving 40-49% of body surface,T31.6
+세세,T31.65,신체표면의 60-69%를 침범한 화상 중 3도화상이 신체표면의 50-59%인 경우,Burns involving 60-69％ of body surface with third-degree burns involving 50-59% of body surface,T31.6
+세세,T31.66,신체표면의 60-69%를 침범한 화상 중 3도화상이 신체표면의 60-69%인 경우,Burns involving 60-69％ of body surface with third-degree burns involving 60-69% of body surface,T31.6
+세세,T31.70,신체표면의 70-79%를 침범한 화상 중 3도화상이 신체표면의 10% 미만 또는 상세불명인 경우,Burns involving 70-79％ of body surface with third-degree burns involving less than 10% or unspecified,T31.7
+세세,T31.71,신체표면의 70-79%를 침범한 화상 중 3도화상이 신체표면의 10-19%인 경우,Burns involving 70-79％ of body surface with third-degree burns involving 10-19% of body surface,T31.7
+세세,T31.72,신체표면의 70-79%를 침범한 화상 중 3도화상이 신체표면의 20-29%인 경우,Burns involving 70-79％ of body surface with third-degree burns involving 20-29% of body surface,T31.7
+세세,T31.73,신체표면의 70-79%를 침범한 화상 중 3도화상이 신체표면의 30-39%인 경우,Burns involving 70-79％ of body surface with third-degree burns involving 30-39% of body surface,T31.7
+세세,T31.74,신체표면의 70-79%를 침범한 화상 중 3도화상이 신체표면의 40-49%인 경우,Burns involving 70-79％ of body surface with third-degree burns involving 40-49% of body surface,T31.7
+세세,T31.75,신체표면의 70-79%를 침범한 화상 중 3도화상이 신체표면의 50-59%인 경우,Burns involving 70-79％ of body surface with third-degree burns involving 50-59% of body surface,T31.7
+세세,T31.76,신체표면의 70-79%를 침범한 화상 중 3도화상이 신체표면의 60-69%인 경우,Burns involving 70-79％ of body surface with third-degree burns involving 60-69% of body surface,T31.7
+세세,T31.77,신체표면의 70-79%를 침범한 화상 중 3도화상이 신체표면의 70-79%인 경우,Burns involving 70-79％ of body surface with third-degree burns involving 70-79% of body surface,T31.7
+세세,T31.80,신체표면의 80-89%를 침범한 화상 중 3도화상이 신체표면의 10% 미만 또는 상세불명인 경우,Burns involving 80-89％ of body surface with third-degree burns involving less than 10% or unspecified,T31.8
+세세,T31.81,신체표면의 80-89%를 침범한 화상 중 3도화상이 신체표면의 10-19%인 경우,Burns involving 80-89％ of body surface with third-degree burns involving 10-19% of body surface,T31.8
+세세,T31.82,신체표면의 80-89%를 침범한 화상 중 3도화상이 신체표면의 20-29%인 경우,Burns involving 80-89％ of body surface with third-degree burns involving 20-29% of body surface,T31.8
+세세,T31.83,신체표면의 80-89%를 침범한 화상 중 3도화상이 신체표면의 30-39%인 경우,Burns involving 80-89％ of body surface with third-degree burns involving 30-39% of body surface,T31.8
+세세,T31.84,신체표면의 80-89%를 침범한 화상 중 3도화상이 신체표면의 40-49%인 경우,Burns involving 80-89％ of body surface with third-degree burns involving 40-49% of body surface,T31.8
+세세,T31.85,신체표면의 80-89%를 침범한 화상 중 3도화상이 신체표면의 50-59%인 경우,Burns involving 80-89％ of body surface with third-degree burns involving 50-59% of body surface,T31.8
+세세,T31.86,신체표면의 80-89%를 침범한 화상 중 3도화상이 신체표면의 60-69%인 경우,Burns involving 80-89％ of body surface with third-degree burns involving 60-69% of body surface,T31.8
+세세,T31.87,신체표면의 80-89%를 침범한 화상 중 3도화상이 신체표면의 70-79%인 경우,Burns involving 80-89％ of body surface with third-degree burns involving 70-79% of body surface,T31.8
+세세,T31.88,신체표면의 80-89%를 침범한 화상 중 3도화상이 신체표면의 80-89%인 경우,Burns involving 80-89％ of body surface with third-degree burns involving 80-89% of body surface,T31.8
+세세,T31.90,신체표면의 90%이상을 침범한 화상 중 3도화상이 신체표면의 10% 미만 또는 상세불명인 경우,Burns involving 90％ or more of body surface with third-degree burns involving less than 10% or unspecified,T31.9
+세세,T31.91,신체표면의 90%이상을 침범한 화상 중 3도화상이 신체표면의 10-19%인 경우,Burns involving 90％ or more of body surface with third-degree burns involving 10-19% of body surface,T31.9
+세세,T31.92,신체표면의 90%이상을 침범한 화상 중 3도화상이 신체표면의 20-29%인 경우,Burns involving 90％ or more of body surface with third-degree burns involving 20-29% of body surface,T31.9
+세세,T31.93,신체표면의 90%이상을 침범한 화상 중 3도화상이 신체표면의 30-39%인 경우,Burns involving 90％ or more of body surface with third-degree burns involving 30-39% of body surface,T31.9
+세세,T31.94,신체표면의 90%이상을 침범한 화상 중 3도화상이 신체표면의 40-49%인 경우,Burns involving 90％ or more of body surface with third-degree burns involving 40-49% of body surface,T31.9
+세세,T31.95,신체표면의 90%이상을 침범한 화상 중 3도화상이 신체표면의 50-59%인 경우,Burns involving 90％ or more of body surface with third-degree burns involving 50-59% of body surface,T31.9
+세세,T31.96,신체표면의 90%이상을 침범한 화상 중 3도화상이 신체표면의 60-69%인 경우,Burns involving 90％ or more of body surface with third-degree burns involving 60-69% of body surface,T31.9
+세세,T31.97,신체표면의 90%이상을 침범한 화상 중 3도화상이 신체표면의 70-79%인 경우,Burns involving 90％ or more of body surface with third-degree burns involving 70-79% of body surface,T31.9
+세세,T31.98,신체표면의 90%이상을 침범한 화상 중 3도화상이 신체표면의 80-89%인 경우,Burns involving 90％ or more of body surface with third-degree burns involving 80-89% of body surface,T31.9
+세세,T31.99,신체표면의 90%이상을 침범한 화상 중 3도화상이 신체표면의 90%이상을 경우,Burns involving 90％ or more of body surface with third-degree burns involving 90% or more of body surface,T31.9
+세세,T32.00,신체표면의 10％ 미만을 침범한 부식 중 3도부식이 신체표면의 10% 미만 또는 상세불명인 경우,Corrosions involving less than 10％ of body surface with third-degree corrosions involving less than 10% or unspecified,T32.0
+세세,T32.10,신체표면의 10-19％를 침범한 부식 중 3도부식이 신체표면의 10% 미만 또는 상세불명인 경우,Corrosions involving 10-19％ of body surface with third-degree corrosions involving less than 10% or unspecified,T32.1
+세세,T32.11,신체표면의 10-19％를 침범한 부식 중 3도부식이 신체표면의 10-19%인 경우,Corrosions involving 10-19％ of body surface with third-degree corrosions involving 10-19% of body surface,T32.1
+세세,T32.20,신체표면의 20-29％를 침범한 부식중 3도부식이 신체표면의 10% 미만 또는 상세불명인 경우,Corrosions involving 20-29％ of body surface with third-degree corrosions involving less than 10% or unspecified,T32.2
+세세,T32.21,신체표면의 20-29％를 침범한 부식중 3도부식이 신체표면의 10-19%인 경우,Corrosions involving 20-29％ of body surface with third-degree corrosions involving 10-19% of body surface,T32.2
+세세,T32.22,신체표면의 20-29％를 침범한 부식중 3도부식이 신체표면의 20-29%인 경우,Corrosions involving 20-29％ of body surface with third-degree corrosions involving 20-29% of body surface,T32.2
+세세,T32.30,신체표면의 30-39％를 침범한 부식중 3도부식이 신체표면의 10% 미만 또는 상세불명인 경우,Corrosions involving 30-39％ of body surface with third-degree corrosions involving less than 10% or unspecified,T32.3
+세세,T32.31,신체표면의 30-39％를 침범한 부식중 3도부식이 신체표면의 10-19%인 경우,Corrosions involving 30-39％ of body surface with third-degree corrosions involving 10-19% of body surface,T32.3
+세세,T32.32,신체표면의 30-39％를 침범한 부식중 3도부식이 신체표면의 20-29%인 경우,Corrosions involving 30-39％ of body surface with third-degree corrosions involving 20-29% of body surface,T32.3
+세세,T32.33,신체표면의 30-39％를 침범한 부식중 3도부식이 신체표면의 30-39%인 경우,Corrosions involving 30-39％ of body surface with third-degree corrosions involving 30-39% of body surface,T32.3
+세세,T32.40,신체표면의 40-49％를 침범한 부식중 3도부식이 신체표면의 10% 미만 또는 상세불명인 경우,Corrosions involving 40-49％ of body surface with third-degree corrosions involving less than 10% or unspecified,T32.4
+세세,T32.41,신체표면의 40-49％를 침범한 부식중 3도부식이 신체표면의 10-19%인 경우,Corrosions involving 40-49％ of body surface with third-degree corrosions involving 10-19% of body surface,T32.4
+세세,T32.42,신체표면의 40-49％를 침범한 부식중 3도부식이 신체표면의 20-29%인 경우,Corrosions involving 40-49％ of body surface with third-degree corrosions involving 20-29% of body surface,T32.4
+세세,T32.43,신체표면의 40-49％를 침범한 부식중 3도부식이 신체표면의 30-39%인 경우,Corrosions involving 40-49％ of body surface with third-degree corrosions involving 30-39% of body surface,T32.4
+세세,T32.44,신체표면의 40-49％를 침범한 부식중 3도부식이 신체표면의 40-49%인 경우,Corrosions involving 40-49％ of body surface with third-degree corrosions involving 40-49% of body surface,T32.4
+세세,T32.50,신체표면의 50-59％를 침범한 부식중 3도부식이 신체표면의 10% 미만 또는 상세불명인 경우,Corrosions involving 50-59％ of body surface with third-degree corrosions involving less than 10% or unspecified,T32.5
+세세,T32.51,신체표면의 50-59％를 침범한 부식중 3도부식이 신체표면의 10-19%인 경우,Corrosions involving 50-59％ of body surface with third-degree corrosions involving 10-19% of body surface,T32.5
+세세,T32.52,신체표면의 50-59％를 침범한 부식중 3도부식이 신체표면의 20-29%인 경우,Corrosions involving 50-59％ of body surface with third-degree corrosions involving 20-29% of body surface,T32.5
+세세,T32.53,신체표면의 50-59％를 침범한 부식중 3도부식이 신체표면의 30-39%인 경우,Corrosions involving 50-59％ of body surface with third-degree corrosions involving 30-39% of body surface,T32.5
+세세,T32.54,신체표면의 50-59％를 침범한 부식중 3도부식이 신체표면의 40-49%인 경우,Corrosions involving 50-59％ of body surface with third-degree corrosions involving 40-49% of body surface,T32.5
+세세,T32.55,신체표면의 50-59％를 침범한 부식중 3도부식이 신체표면의 50-59%인 경우,Corrosions involving 50-59％ of body surface with third-degree corrosions involving 50-59% of body surface,T32.5
+세세,T32.60,신체표면의 60-69％를 침범한 부식중 3도부식이 신체표면의 10% 미만 또는 상세불명인 경우,Corrosions involving 60-69％ of body surface with third-degree corrosions involving less than 10% or unspecified,T32.6
+세세,T32.61,신체표면의 60-69％를 침범한 부식중 3도부식이 신체표면의 10-19%인 경우,Corrosions involving 60-69％ of body surface with third-degree corrosions involving 10-19% of body surface,T32.6
+세세,T32.62,신체표면의 60-69％를 침범한 부식중 3도부식이 신체표면의 20-29%인 경우,Corrosions involving 60-69％ of body surface with third-degree corrosions involving 20-29% of body surface,T32.6
+세세,T32.63,신체표면의 60-69％를 침범한 부식중 3도부식이 신체표면의 30-39%인 경우,Corrosions involving 60-69％ of body surface with third-degree corrosions involving 30-39% of body surface,T32.6
+세세,T32.64,신체표면의 60-69％를 침범한 부식중 3도부식이 신체표면의 40-49%인 경우,Corrosions involving 60-69％ of body surface with third-degree corrosions involving 40-49% of body surface,T32.6
+세세,T32.65,신체표면의 60-69％를 침범한 부식중 3도부식이 신체표면의 50-59%인 경우,Corrosions involving 60-69％ of body surface with third-degree corrosions involving 50-59% of body surface,T32.6
+세세,T32.66,신체표면의 60-69％를 침범한 부식중 3도부식이 신체표면의 60-69%인 경우,Corrosions involving 60-69％ of body surface with third-degree corrosions involving 60-69% of body surface,T32.6
+세세,T32.70,신체표면의 70-79％를 침범한 부식중 3도부식이 신체표면의 10% 미만 또는 상세불명인 경우,Corrosions involving 70-79％ of body surface with third-degree corrosions involving less than 10% or unspecified,T32.7
+세세,T32.71,신체표면의 70-79％를 침범한 부식중 3도부식이 신체표면의 10-19%인 경우,Corrosions involving 70-79％ of body surface with third-degree corrosions involving 10-19% of body surface,T32.7
+세세,T32.72,신체표면의 70-79％를 침범한 부식중 3도부식이 신체표면의 20-29%인 경우,Corrosions involving 70-79％ of body surface with third-degree corrosions involving 20-29% of body surface,T32.7
+세세,T32.73,신체표면의 70-79％를 침범한 부식중 3도부식이 신체표면의 30-39%인 경우,Corrosions involving 70-79％ of body surface with third-degree corrosions involving 30-39% of body surface,T32.7
+세세,T32.74,신체표면의 70-79％를 침범한 부식중 3도부식이 신체표면의 40-49%인 경우,Corrosions involving 70-79％ of body surface with third-degree corrosions involving 40-49% of body surface,T32.7
+세세,T32.75,신체표면의 70-79％를 침범한 부식중 3도부식이 신체표면의 50-59%인 경우,Corrosions involving 70-79％ of body surface with third-degree corrosions involving 50-59% of body surface,T32.7
+세세,T32.76,신체표면의 70-79％를 침범한 부식중 3도부식이 신체표면의 60-69%인 경우,Corrosions involving 70-79％ of body surface with third-degree corrosions involving 60-69% of body surface,T32.7
+세세,T32.77,신체표면의 70-79％를 침범한 부식중 3도부식이 신체표면의 70-79%인 경우,Corrosions involving 70-79％ of body surface with third-degree corrosions involving 70-79% of body surface,T32.7
+세세,T32.80,신체표면의 80-89％를 침범한 부식중 3도부식이 신체표면의 10% 미만 또는 상세불명인 경우,Corrosions involving 80-89％ of body surface with third-degree corrosions involving less than 10% or unspecified,T32.8
+세세,T32.81,신체표면의 80-89％를 침범한 부식중 3도부식이 신체표면의 10-19%인 경우,Corrosions involving 80-89％ of body surface with third-degree corrosions involving 10-19% of body surface,T32.8
+세세,T32.82,신체표면의 80-89％를 침범한 부식중 3도부식이 신체표면의 20-29%인 경우,Corrosions involving 80-89％ of body surface with third-degree corrosions involving 20-29% of body surface,T32.8
+세세,T32.83,신체표면의 80-89％를 침범한 부식중 3도부식이 신체표면의 30-39%인 경우,Corrosions involving 80-89％ of body surface with third-degree corrosions involving 30-39% of body surface,T32.8
+세세,T32.84,신체표면의 80-89％를 침범한 부식중 3도부식이 신체표면의 40-49%인 경우,Corrosions involving 80-89％ of body surface with third-degree corrosions involving 40-49% of body surface,T32.8
+세세,T32.85,신체표면의 80-89％를 침범한 부식중 3도부식이 신체표면의 50-59%인 경우,Corrosions involving 80-89％ of body surface with third-degree corrosions involving 50-59% of body surface,T32.8
+세세,T32.86,신체표면의 80-89％를 침범한 부식중 3도부식이 신체표면의 60-69%인 경우,Corrosions involving 80-89％ of body surface with third-degree corrosions involving 60-69% of body surface,T32.8
+세세,T32.87,신체표면의 80-89％를 침범한 부식중 3도부식이 신체표면의 70-79%인 경우,Corrosions involving 80-89％ of body surface with third-degree corrosions involving 70-79% of body surface,T32.8
+세세,T32.88,신체표면의 80-89％를 침범한 부식중 3도부식이 신체표면의 80-89%인 경우,Corrosions involving 80-89％ of body surface with third-degree corrosions involving 80-89% of body surface,T32.8
+세세,T32.90,신체표면의 90％ 이상을 침범한 부식중 3도부식이 신체표면의 10% 미만 또는 상세불명인 경우,Corrosions involving 90％ or more of body surface with third-degree corrosions involving less than 10% or unspecified,T32.9
+세세,T32.91,신체표면의 90％ 이상을 침범한 부식중 3도부식이 신체표면의 10-19%인 경우,Corrosions involving 90％ or more of body surface with third-degree corrosions involving 10-19% of body surface,T32.9
+세세,T32.92,신체표면의 90％ 이상을 침범한 부식중 3도부식이 신체표면의 20-29%인 경우,Corrosions involving 90％ or more of body surface with third-degree corrosions involving 20-29% of body surface,T32.9
+세세,T32.93,신체표면의 90％ 이상을 침범한 부식중 3도부식이 신체표면의 30-39%인 경우,Corrosions involving 90％ or more of body surface with third-degree corrosions involving 30-39% of body surface,T32.9
+세세,T32.94,신체표면의 90％ 이상을 침범한 부식중 3도부식이 신체표면의 40-49%인 경우,Corrosions involving 90％ or more of body surface with third-degree corrosions involving 40-49% of body surface,T32.9
+세세,T32.95,신체표면의 90％ 이상을 침범한 부식중 3도부식이 신체표면의 50-59%인 경우,Corrosions involving 90％ or more of body surface with third-degree corrosions involving 50-59% of body surface,T32.9
+세세,T32.96,신체표면의 90％ 이상을 침범한 부식중 3도부식이 신체표면의 60-69%인 경우,Corrosions involving 90％ or more of body surface with third-degree corrosions involving 60-69% of body surface,T32.9
+세세,T32.97,신체표면의 90％ 이상을 침범한 부식중 3도부식이 신체표면의 70-79%인 경우,Corrosions involving 90％ or more of body surface with third-degree corrosions involving 70-79% of body surface,T32.9
+세세,T32.98,신체표면의 90％ 이상을 침범한 부식중 3도부식이 신체표면의 80-89%인 경우,Corrosions involving 90％ or more of body surface with third-degree corrosions involving 80-89% of body surface,T32.9
+세세,T32.99,신체표면의 90％ 이상을 침범한 부식중 3도부식이 신체표면의 90%이상을 경우,Corrosions involving 90％ or more of body surface with third-degree burns involving 90% or more of body surface,T32.9
+세세,T81.80,흡입요법의 합병증,Complication of inhalation therapy,T81.8
+세세,T81.81,처치에 의한 (피하)기종,Emphysema (subcutaneous) resulting from a procedure,T81.8
+세세,T81.82,지속적 수술후 누공,Persistent postoperative fistula,T81.8
+세세,T81.88,달리 분류되지 않은 처치의 기타 합병증,"Other complications of procedures, NEC",T81.8
+세,X47.0,"일산화탄소 및 기타 가스, 물질에 의한 불의의 중독 및 노출, 주택","Accidental poisoning by and exposure to other gases and vapors, home",X47.80
+세,X47.1,"일산화탄소 및 기타 가스, 물질에 의한 불의의 중독 및 노출, 집단거주시설","Accidental poisoning by and exposure to other gases and vapors, residential institution",X47.81
+세,X47.2,"일산화탄소 및 기타 가스, 물질에 의한 불의의 중독 및 노출, 학교, 기타 시설 및 공공행정 구역","Accidental poisoning by and exposure to other gases and vapors, school, other institution and public administrative area",X47.82
+세,X47.3,"일산화탄소 및 기타 가스, 물질에 의한 불의의 중독 및 노출, 운동 및 경기장","Accidental poisoning by and exposure to other gases and vapors, sports and athletics area",X47.83
+세,X47.4,"일산화탄소 및 기타 가스, 물질에 의한 불의의 중독 및 노출, 도로 및 고속도로","Accidental poisoning by and exposure to other gases and vapors, street and highway",X47.84
+세,X47.5,"일산화탄소 및 기타 가스, 물질에 의한 불의의 중독 및 노출, 상업 및 서비스 구역","Accidental poisoning by and exposure to other gases and vapors, trade and service area",X47.85
+세,X47.6,"일산화탄소 및 기타 가스, 물질에 의한 불의의 중독 및 노출, 산업 및 건설지역","Accidental poisoning by and exposure to other gases and vapors, industrial and construction area",X47.86
+세,X47.7,"일산화탄소 및 기타 가스, 물질에 의한 불의의 중독 및 노출, 농장","Accidental poisoning by and exposure to other gases and vapors, farm",X47.87
+세,X47.8,"일산화탄소 및 기타 가스, 물질에 의한 불의의 중독 및 노출, 기타 명시된 장소","Accidental poisoning by and exposure to other gases and vapors, other specified places",X47.88
+세,X47.9,"일산화탄소 및 기타 가스, 물질에 의한 불의의 중독 및 노출, 상세불명 장소","Accidental poisoning by and exposure to other gases and vapors, unspecified place",X47.89
+세,X67.0,"기타 가스 및 휘발성 물질에 의한 자의의 중독 및 노출, 주택","Intentional self-poisoning by and exposure to other gases and vapors, home",X67.80
+세,X67.1,"기타 가스 및 휘발성 물질에 의한 자의의 중독 및 노출, 집단거주시설","Intentional self-poisoning by and exposure to other gases and vapors, residential institution",X67.81
+세,X67.2,"기타 가스 및 휘발성 물질에 의한 자의의 중독 및 노출, 학교, 기타 시설 및 공공행정 구역","Intentional self-poisoning by and exposure to other gases and vapors, school, other institution and public administrative area",X67.82
+세,X67.3,"기타 가스 및 휘발성 물질에 의한 자의의 중독 및 노출, 운동 및 경기장","Intentional self-poisoning by and exposure to other gases and vapors, sports and athletics area",X67.83
+세,X67.4,"기타 가스 및 휘발성 물질에 의한 자의의 중독 및 노출, 도로 및 고속도로 ","Intentional self-poisoning by and exposure to other gases and vapors, street and highway",X67.84
+세,X67.5,"기타 가스 및 휘발성 물질에 의한 자의의 중독 및 노출, 상업 및 서비스 구역","Intentional self-poisoning by and exposure to other gases and vapors, trade and service area",X67.85
+세,X67.6,"기타 가스 및 휘발성 물질에 의한 자의의 중독 및 노출, 산업 및 건설지역","Intentional self-poisoning by and exposure to other gases and vapors, industrial and construction area",X67.86
+세,X67.7,"기타 가스 및 휘발성 물질에 의한 자의의 중독 및 노출, 농장","Intentional self-poisoning by and exposure to other gases and vapors, farm",X67.87
+세,X67.8,"기타 가스 및 휘발성 물질에 의한 자의의 중독 및 노출, 기타 명시된 장소","Intentional self-poisoning by and exposure to other gases and vapors, other specified places",X67.88
+세,X67.9,"기타 가스 및 휘발성 물질에 의한 자의의 중독 및 노출, 상세불명 장소","Intentional self-poisoning by and exposure to other gases and vapors, unspecified place",X67.89
+세,X88.0,"가스 및 휘발성 물질에 의한 가해, 주택","Assault by gases and vapours, home",X88.90
+세,X88.1,"가스 및 휘발성 물질에 의한 가해, 집단거주시설","Assault by gases and vapours, residential institution",X88.91
+세,X88.2,"가스 및 휘발성 물질에 의한 가해, 학교, 기타 시설 및 공공행정 구역","Assault by gases and vapours, school, other institution and public administrative area",X88.92
+세,X88.3,"가스 및 휘발성 물질에 의한 가해, 운동 및 경기장","Assault by gases and vapours, sports and athletics area",X88.93
+세,X88.4,"가스 및 휘발성 물질에 의한 가해, 도로 및 고속도로","Assault by gases and vapours, street and highway",X88.94
+세,X88.5,"가스 및 휘발성 물질에 의한 가해, 상업 및 서비스 구역","Assault by gases and vapours, trade and service area",X88.95
+세,X88.6,"가스 및 휘발성 물질에 의한 가해, 산업 및 건설지역","Assault by gases and vapours, industrial and construction area",X88.96
+세,X88.7,"가스 및 휘발성 물질에 의한 가해, 농장","Assault by gases and vapours, farm",X88.97
+세,X88.8,"가스 및 휘발성 물질에 의한 가해, 기타 명시된 장소","Assault by gases and vapours, other specified places",X88.98
+세,X88.9,"가스 및 휘발성 물질에 의한 가해, 상세불명 장소","Assault by gases and vapours, unspecified place",X88.99
+세,Y17.0,"의도 미확인의 기타 가스 및 휘발성 물질에 의한 중독 및 노출, 주택","Poisoning by and exposure to other gases and vapours, undetermined intent, home",Y17.90
+세,Y17.1,"의도 미확인의 기타 가스 및 휘발성 물질에 의한 중독 및 노출, 집단거주시설","Poisoning by and exposure to other gases and vapours, undetermined intent, residential institution",Y17.91
+세,Y17.2,"의도 미확인의 기타 가스 및 휘발성 물질에 의한 중독 및 노출, 학교, 기타 시설 및 공공행정 구역","Poisoning by and exposure to other gases and vapours, undetermined intent, school, other institution and public administrative area",Y17.92
+세,Y17.3,"의도 미확인의 기타 가스 및 휘발성 물질에 의한 중독 및 노출, 운동 및 경기장","Poisoning by and exposure to other gases and vapours, undetermined intent, sports and athletics area",Y17.93
+세,Y17.4,"의도 미확인의 기타 가스 및 휘발성 물질에 의한 중독 및 노출, 도로 및 고속도로","Poisoning by and exposure to other gases and vapours, undetermined intent, street and highway",Y17.94
+세,Y17.5,"의도 미확인의 기타 가스 및 휘발성 물질에 의한 중독 및 노출, 상업 및 서비스 구역","Poisoning by and exposure to other gases and vapours, undetermined intent, trade and service area",Y17.95
+세,Y17.6,"의도 미확인의 기타 가스 및 휘발성 물질에 의한 중독 및 노출, 산업 및 건설지역","Poisoning by and exposure to other gases and vapours, undetermined intent, industrial and construction area",Y17.96
+세,Y17.7,"의도 미확인의 기타 가스 및 휘발성 물질에 의한 중독 및 노출, 농장","Poisoning by and exposure to other gases and vapours, undetermined intent, farm",Y17.97
+세,Y17.8,"의도 미확인의 기타 가스 및 휘발성 물질에 의한 중독 및 노출, 기타 명시된 장소","Poisoning by and exposure to other gases and vapours, undetermined intent, other specified places",Y17.98
+세,Y17.9,"의도 미확인의 기타 가스 및 휘발성 물질에 의한 중독 및 노출, 상세불명 장소","Poisoning by and exposure to other gases and vapours, undetermined intent, unspecified place",Y17.99
+세세,Z30.00,경구피임약의 초기 처방을 위한 방문,Encounter for initial prescription of contraceptive pills,Z30.0
+세세,Z30.01,응급피임의 처방을 위한 방문,Encounter for prescription of emergency contraception,Z30.0
+세세,Z30.02,주사용피임제의 초기처방을 위한 방문,Encounter for initial prescription of injectable contraceptives,Z30.0
+세세,Z30.03,기타 피임제의 초기처방을 위한 방문,Encounter for initial prescription of other contraceptives,Z30.0
+세세,Z30.08,피임에 관한 기타 일반 상담 및 권고,Other general counselling and advice on contraception,Z30.0
+세세,Z30.80,주사용피임제의 감시,Surveillance of injectable contraceptives,Z30.8
+세세,Z30.81,기타 피임제의 감시,Surveillance of other contraceptives,Z30.8
+세세,Z30.88,기타 피임관리,Other contraceptive management,Z30.8
+세세,Z51.81,성분채집를 위하여 보건서비스와 접하고 있는 사람,Persons encountering health services for apheresis,Z51.8
+세세,Z51.88,기타 명시된 의료를 위하여 보건서비스와 접하고 있는 사람,Persons encountering health services for other specified medical care,Z51.8
+세세,Z96.60,어깨관절삽입물의 존재,Presence of shoulder joint implants,Z96.68
+세세,Z96.61,팔꿈치관절삽입물의 존재,Presence of elbow joint implants,Z96.68
+세세,Z96.62,손목관절삽입물의 존재,Presence of wrist joint implants,Z96.68
+세세,Z96.65,발목관절삽입물의 존재,Presence of ankle joint implants,Z96.68
+세세,Z96.69,상세불명의 관절삽입물의 존재,Presence of unspecified joint implants,Z96.68
+세세,Z98.80,굴절교정수술 후 (눈)상태,Refractive postsurgical (oculus) states,Z98.8
+세세,Z98.81,유리체전절제술후 (눈)상태,Vitrectomy postsurgical (oculus) states,Z98.8
+세세,Z98.88,기타 명시된 수술후 상태,Other specified postsurgical states,Z98.8
+소,U06,지카바이러스 질환,Zika virus diease,A92.5
+세,U06.0,U06.0의 응급사용,Emergency use of U06.0,-
+세,U06.1,U06.1의 응급사용,Emergency use of U06.1,-
+세,U06.2,U06.2의 응급사용,Emergency use of U06.2,-
+세,U06.3,U06.3의 응급사용,Emergency use of U06.3,-
+세,U06.4,U06.4의 응급사용,Emergency use of U06.4,-
+세,U06.5,U06.5의 응급사용,Emergency use of U06.5,-
+세,U06.6,U06.6의 응급사용,Emergency use of U06.6,-
+세,U06.7,U06.7의 응급사용,Emergency use of U06.7,-
+세,U06.8,U06.8의 응급사용,Emergency use of U06.8,-
+세,U06.9,상세불명의 지카바이러스감염증,"Zika virus diease, unspecified",A92.5
+소,U19,중동호흡기증후군 [MERS],Middle east respiratory syndrome [MERS],U18.0
+세,U19.9,상세불명의 중동호흡기증후군 [MERS],"Middle east respiratory syndrome [MERS], Unspecified",U18.0

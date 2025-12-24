@@ -1,0 +1,44 @@
+static_autoencoder:
+  embedding_dim: 4
+  categorical_card: [8, 8, 16]
+  num_numerical: 2
+  hidden_dim: 64
+  latent_dim: 32
+  mask: True
+  use_gumbel: True
+  logit_threshold: 0.5
+  conditional: True
+  condition_classes: 3
+
+temporal_autoencoder:
+  embedding_dim: 4
+  categorical_card: [8, 8, 16]
+  num_numerical: 28
+  hidden_dim: 256
+  latent_dim: 256 #128
+  mask: True
+  bidirectional: True
+  n_layers: 1
+  use_gumbel: True
+  logit_threshold: 0.5
+  conditional: True
+  condition_classes: 3
+
+gan:
+  generator:
+    latent_dim: 256
+    input_dim: 128
+    hidden_dims: [256, 128]
+    output_dim: 288
+    activation: 'relu'
+    z_s_dim: 32
+    z_t_dim: 256
+
+  discriminator:
+    input_dim: 288
+    hidden_dims: [128, 64]
+    output_dim: 1
+    activation: 'relu'
+
+  conditional: True
+  condition_classes: 3

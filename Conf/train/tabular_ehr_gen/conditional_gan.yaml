@@ -1,0 +1,66 @@
+model_name: 'GAN'
+
+loss:
+  name: 'wgan_discriminator'
+gen_loss:
+  name: 'wgan_generator'
+
+optimizer:
+  name: 'adam'
+  lr: 1e-4
+  beta1: 0.0
+  beta2: 0.9
+#  weight_decay: 1e-5
+
+  lookahead:
+    flag: False
+    k: 5
+    alpha: 0.5
+
+gen_optimizer:
+  name: 'adam'
+  lr: 1e-4
+  beta1: 0.0
+  beta2: 0.9
+#  weight_decay: 1e-5
+
+  lookahead:
+    flag: False
+    k: 5
+    alpha: 0.5
+
+scheduler:
+  name: 'exponential'
+  gamma: 0.99 #0.95
+  momentum: 0.1
+
+discriminator_steps: 5
+
+general:
+  seed: 42
+  distributed: False
+  compile_model: False
+
+  init_weight: False
+  num_epochs: 800
+  early_stopping:
+    patience: 50
+    verbose: True
+    target_key: 'Total_Loss'
+
+  eval_freq: 100
+  keys: ['Total_Loss', 'Disc_Loss', 'Gen_Loss', 'GP', 'S_Match_Loss', 'T_Match_Loss']
+
+static_ae:
+  name: 'StaticAE'
+#  checkpoint: '2025-10-22\09-53' # 7:3
+#  checkpoint: '2025-10-24\13-49' # 6:4
+  checkpoint: '2025-10-24\17-15' # 8:2
+
+temporal_ae:
+  name: 'TemporalAE'
+#  checkpoint: '2025-10-22\14-08' # 7:3
+#  checkpoint: '2025-10-24\13-56' # 6:4
+  checkpoint: '2025-10-24/17-21' # 8:2
+
+

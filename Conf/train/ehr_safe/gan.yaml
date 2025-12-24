@@ -1,0 +1,64 @@
+model_name: 'GAN'
+
+loss:
+  name: 'wgan_discriminator'
+gen_loss:
+  name: 'wgan_generator'
+
+optimizer:
+  name: 'adam'
+  lr: 1e-4
+  beta1: 0.0
+  beta2: 0.9
+  weight_decay: 1e-5
+
+  lookahead:
+    flag: False
+    k: 5
+    alpha: 0.5
+
+gen_optimizer:
+  name: 'adam'
+  lr: 1e-4
+  beta1: 0.0
+  beta2: 0.9
+  weight_decay: 1e-5
+
+  lookahead:
+    flag: False
+    k: 5
+    alpha: 0.5
+
+scheduler:
+  name: 'exponential'
+  gamma: 0.99
+  momentum: 0.1
+
+discriminator_steps: 5
+
+general:
+  seed: 42
+  distributed: False
+  compile_model: False
+
+  init_weight: False
+  num_epochs: 900
+  early_stopping:
+    patience: 100
+    verbose: True
+    target_key: 'Total_Loss'
+
+  eval_freq: 150
+  keys: ['Total_Loss', 'Disc_Loss', 'Gen_Loss']
+
+static_categorical_ae:
+  name: 'StaticCategoricalAE'
+  checkpoint: '2025-12-15\16-59'
+
+temporal_categorical_ae:
+  name: 'TemporalCategoricalAE'
+  checkpoint: '2025-12-15\17-05'
+
+ehr_safe_ae:
+  name: 'EHR-Safe AE'
+  checkpoint: '2025-12-15\17-07'

@@ -1,0 +1,14 @@
+subject_id
+hadm_id
+edregtime
+edouttime
+admittime
+dischtime
+deathtime
+admission_type
+discharge_location
+marital_status
+insurance
+nationality
+hospital_expire_flag
+icu_expire_flag

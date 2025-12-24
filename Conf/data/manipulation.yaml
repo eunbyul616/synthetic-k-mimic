@@ -1,0 +1,12 @@
+load: True
+save: True
+numerical_transform: 'stochastic'
+drop_first: False
+feature_range: [0, 1]
+
+activation_fn:
+  numerical: 'sigmoid'
+  categorical: 'softmax'
+  binary: 'sigmoid'
+
+transformer_name: 'stochastic'

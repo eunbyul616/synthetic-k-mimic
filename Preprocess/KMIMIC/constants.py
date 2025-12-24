@@ -1,0 +1,6 @@
+SUBJECT_ID_TYPE = 'int64'
+HADM_ID_TYPE = 'str'
+STAY_ID_TYPE = 'str'
+
+SECONDS_IN_HOUR = 3600
+HOURS_DTYPE = 'int64'

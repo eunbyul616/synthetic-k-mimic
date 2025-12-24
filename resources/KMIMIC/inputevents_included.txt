@@ -1,0 +1,9 @@
+subject_id
+hadm_id
+icustay_id
+starttime
+endtime
+itemid
+amount
+amountuom
+patientweight

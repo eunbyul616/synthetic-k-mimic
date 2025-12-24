@@ -1,0 +1,7 @@
+debug: False
+debug_n: 30000
+debug_col: 'subject_id'
+
+verbose: True
+
+dataset_name: 'KMIMIC_EMR_2023_ver'

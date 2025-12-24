@@ -1,0 +1,19 @@
+defaults:
+  - model@model: tabular_ehr_gen
+  - train: tabular_ehr_gen/gan
+  - log: wandb
+  - data@dataset: common
+  - data@dataloader: loader
+  - data@data: tabular_ehr_gen
+  - data@manipulation: manipulation
+  - preprocess@preprocess: k_mimic
+  - common@path: path
+  - evaluation: evaluation_tabular_ehr_gen
+
+hydra:
+  run:
+    #    dir: /Absolute/Path/for/Project/log/hydra/${now:%Y-%m-%d}/${now:%H-%M}  # Change needed in front of the "/log"
+    dir: /path/to/your/project/log/hydra/${now:%Y-%m-%d}/${now:%H-%M}
+
+device_num: 0
+seed: 42

@@ -1,0 +1,44 @@
+model_name: 'EHR-Safe AE'
+loss:
+  name: 'ce'
+
+optimizer:
+  name: 'adamw'
+  lr: 1e-4
+  beta1: 0.9
+  beta2: 0.99
+  weight_decay: 1e-5
+
+  lookahead:
+    flag: False
+    k: 5
+    alpha: 0.5
+
+scheduler:
+  name: 'exponential'
+  gamma: 0.95
+  momentum: 0.1
+
+general:
+  seed: 42
+  distributed: False
+  compile_model: False
+
+  init_weight: False
+  num_epochs: 800
+  early_stopping:
+    patience: 10
+    verbose: True
+    target_key: 'Total_Loss'
+
+  eval_freq: 100
+
+  keys: ['Total_Loss', 'BCE_Loss', 'MSE_Loss', 'Static_Loss', 'Temporal_Loss', 'Mask_Loss']
+
+static_categorical_ae:
+  name: 'StaticCategoricalAE'
+  checkpoint: '2025-12-15\16-59'
+
+temporal_categorical_ae:
+  name: 'TemporalCategoricalAE'
+  checkpoint: '2025-12-15\17-05'

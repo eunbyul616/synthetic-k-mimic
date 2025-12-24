@@ -1,0 +1,35 @@
+model_name: 'TemporalCategoricalAE'
+loss:
+  name: 'ce'
+
+optimizer:
+  name: 'adamw'
+  lr: 1e-4
+  beta1: 0.9
+  beta2: 0.99
+  weight_decay: 1e-5
+
+  lookahead:
+    k: 5
+    alpha: 0.5
+
+scheduler:
+  name: 'exponential'
+  gamma: 0.95
+  momentum: 0.1
+
+general:
+  seed: 42
+  distributed: False
+  compile_model: False
+
+  init_weight: False
+  num_epochs: 200
+  early_stopping:
+    patience: 10
+    verbose: True
+    target_key: 'Total_Loss'
+
+  eval_freq: 50
+
+  keys: ['Total_Loss']

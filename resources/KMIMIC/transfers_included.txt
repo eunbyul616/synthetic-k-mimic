@@ -1,0 +1,6 @@
+subject_id
+hadm_id
+eventtype
+careunit
+intime
+outtime

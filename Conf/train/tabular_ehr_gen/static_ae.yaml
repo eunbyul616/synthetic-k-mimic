@@ -1,0 +1,35 @@
+model_name: 'StaticAE'
+loss:
+  name: 'mse'
+
+optimizer:
+  name: 'adamw'
+  lr: 5e-4
+  beta1: 0.9
+  beta2: 0.99
+  weight_decay: 1e-5
+
+  lookahead:
+    k: 5
+    alpha: 0.5
+
+scheduler:
+  name: 'exponential'
+  gamma: 0.95
+  momentum: 0.1
+
+general:
+  seed: 42
+  distributed: False
+  compile_model: False
+
+  init_weight: False
+  num_epochs: 500
+  early_stopping:
+    patience: 10
+    verbose: True
+    target_key: 'Total_Loss'
+
+  eval_freq: 100
+
+  keys: ['Total_Loss', 'MSE_Loss', 'CE_Loss', 'BCE_Loss', 'KL_Loss', 'Listwise_Loss', 'Mask_Loss', 'Semantic_Loss']

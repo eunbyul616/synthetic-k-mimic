@@ -1,0 +1,7 @@
+subject_id
+hadm_id
+stay_id
+starttime
+endtime
+itemid
+patientweight

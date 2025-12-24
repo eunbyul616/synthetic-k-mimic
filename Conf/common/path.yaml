@@ -1,0 +1,27 @@
+# rootpath
+rootpath: /path/to/your/project/
+
+# path for saving checkpoint to local
+ckpt_path: ${path.rootpath}/results/checkpoints/${train.model_name}/
+
+# path for saving wandb log to local
+wandb_log_path: ${path.rootpath}/log/${train.model_name}/
+
+# configuration file path for saving hydra configuration
+# save_name will be replaced with the "cfg.log.time"
+base_config_file_path: ${path.rootpath}/log/hydra/${log.time}/.hydra/config.yaml
+
+# "model_name" will be replaced with "cfg.train.model_name"
+# "save_name" will be replaced with "cfg.log.time"
+ckpt_config_file_path: ${path.rootpath}/results/checkpoints/${train.model_name}/${log.time}
+
+raw_data_path : ${path.rootpath}/data/
+preprocessed_data_path : ${path.rootpath}/data/preprocessed/
+
+included_feature_path : ${path.rootpath}/resources/${preprocess.dataset}/
+mapping_path : ${path.rootpath}/resources/${preprocess.dataset}/mapping/
+
+transformer_path : ${path.rootpath}/results/manipulation/
+plot_file_path: ${path.rootpath}/results/plots/${train.model_name}/${log.time}/
+csv_file_path: ${path.rootpath}/results/csv/${train.model_name}/${log.time}/
+eval_file_path: ${path.rootpath}/results/csv/

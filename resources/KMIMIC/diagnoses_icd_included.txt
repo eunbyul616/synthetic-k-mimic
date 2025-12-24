@@ -1,0 +1,4 @@
+subject_id
+hadm_id
+seq_num
+icd_code

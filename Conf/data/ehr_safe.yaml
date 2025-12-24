@@ -1,0 +1,12 @@
+key_cols: ['subject_id', 'hadm_id', 'stay_id']
+time_cols: ['hours']
+patient_id: 'subject_id'
+target_col: 'hospital_expire_flag'
+excluded_cols:
+  static: []
+  temporal: []
+
+remove_timepoints: False
+clip_timepoints: True
+padding: True
+parallel: True

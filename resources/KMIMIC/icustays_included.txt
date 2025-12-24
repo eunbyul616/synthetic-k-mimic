@@ -1,0 +1,6 @@
+subject_id
+hadm_id
+stay_id
+intime
+outtime
+los

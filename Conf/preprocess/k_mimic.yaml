@@ -1,0 +1,66 @@
+dataset: 'KMIMIC_EMR_2023_ver'
+
+debug: False
+debug_num: 10000
+verbose: True
+chunk_size: 10000
+
+keys: ['subject_id', 'hadm_id', 'stay_id']
+time_cols: ['charttime']
+target_col: 'icu_expire_flag'
+patient_id: 'subject_id'
+
+cohort:
+  only_icu_stays: True
+  remove_icu_transfers: False
+  remove_multiple_stays_per_admission: False
+  remove_patients_on_age: True
+  remove_stays_on_los: True
+
+flag:
+  chartevents: True
+  outputevents: True
+  labevents: True
+  procedureevents: True
+  inputevents: True
+  diagnoses_icd: True
+  procedures_icd: True
+  transfers: True
+  emar: True
+  mapping_itemid: False
+
+icd_code:
+  ratio: 0.01
+  diagnoses_prefix: 'icd-10-cm_'
+  procedure_prefix: 'icd-10-pcs_'
+proc_prefix: 'proc_'
+
+cutoff_frequency_rank_ratio: 0.01
+
+mask:
+  prefix: 'mask_'
+
+los:
+  min: 0.5
+  max: 10
+
+preprocessed_file_name:
+    cohort: 'cohort.csv'
+    diagnoses_icd: 'diagnoses.csv'
+    procedures_icd: 'procedures.csv'
+    transfers: 'transfers.csv'
+    emar: 'emar.csv'
+    inputevents: 'inputevents.csv'
+    procedureevents: 'procedureevents.csv'
+    chartevents: 'chartevents.csv'
+    outputevents: 'outputevents.csv'
+    labevents: 'labevents.csv'
+
+seq_len: 30
+pad_flag: True
+parallel: False
+
+#train_valid_test_split_ratio: [0.8, 0.2]
+train_valid_test_split_ratio: [0.7, 0.3]
+#train_valid_test_split_ratio: [0.6, 0.4]
+preprocess_fname_suffix: 'preprocessed'

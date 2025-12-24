@@ -1,0 +1,8 @@
+subject_id
+hadm_id
+stay_id
+charttime
+itemid
+value
+valuenum
+valueuom
