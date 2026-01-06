@@ -2,6 +2,7 @@ from tqdm import tqdm
 import torch
 from Trainer.trainbase import TrainBase
 
+from Utils.log import WandbLogger
 from Utils.train import EarlyStopping, load_ckpt, save_ckpt
 from DataLoaders.loaderbase import get_dataloaders
 
@@ -47,6 +48,9 @@ class Trainer(TrainBase):
             scheduler=self.scheduler)
 
         self.total_epochs = self.cfg.train.general.num_epochs
+
+        self.wandb = WandbLogger(self.cfg, self.rank, self.start_epoch)
+
         # Early Stopping Watcher
         self.train_watcher = EarlyStopping(
             patience=self.cfg.train.general.early_stopping.patience,
@@ -87,6 +91,9 @@ class Trainer(TrainBase):
                         },
                 rank=self.rank
             )
+            self.wandb.log(self.train_loss, self.validation_loss, epoch)
+
+        self.wandb.cleanup()
 
     def _set_iterator(self, loader, epoch, mode='Train'):
         if (self.rank == 0) or (self.rank == self.cfg.device_num):

@@ -1,0 +1,7 @@
+keys: [ 'train.general.early_stopping.patience',
+        'train.general.num_epochs',
+        'log.time',
+        'path.ckpt_path',
+        'path.wandb_log_path',
+        'path.base_config_file_path',
+        'path.ckpt_config_file_path', ]

@@ -4,7 +4,7 @@ import pandas as pd
 from typing import List
 
 from Utils.utils import classify_variables_types
-from Visualization.distribution import distribution_pdf, distribution_cdf, distribution_countplot
+from Visualization.distribution import distribution_cdf, distribution_countplot
 from Visualization.scatter import scatterplot_dimension_wise_probability
 
 

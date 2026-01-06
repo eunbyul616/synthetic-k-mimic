@@ -33,9 +33,3 @@ general:
   eval_freq: 100
 
   keys: ['Total_Loss', 'MSE_Loss', 'CE_Loss', 'BCE_Loss', 'Listwise_Loss', 'KL_Loss', 'Mask_Loss', 'Matching_Loss', 'Semantic_Loss']
-
-static_ae:
-  name: 'StaticAE'
-  checkpoint: '2025-10-24\17-15' # 8:2
-#  checkpoint: '2025-10-22\09-53' # 7:3
-#  checkpoint: '2025-10-24\13-49' # 6:4

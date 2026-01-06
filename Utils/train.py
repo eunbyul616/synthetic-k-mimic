@@ -99,6 +99,8 @@ def set_loss_fn(config):
         loss_fn = nn.BCELoss()
     elif name == 'mae':
         loss_fn = nn.L1Loss()
+    elif name == 'mse':
+        loss_fn = nn.MSELoss()
     elif name == 'generator':
         loss_fn = generation_loss.GeneratorLoss()
     elif name == 'discriminator':

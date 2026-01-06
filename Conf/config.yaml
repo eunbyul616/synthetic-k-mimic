@@ -1,13 +1,14 @@
 defaults:
   - model@model: tabular_ehr_gen
-  - train: tabular_ehr_gen/gan
-  - log: wandb
+  - train: tabular_ehr_gen/static_ae
+  - log: log
   - data@dataset: common
   - data@dataloader: loader
   - data@data: tabular_ehr_gen
   - data@manipulation: manipulation
   - preprocess@preprocess: k_mimic
   - common@path: path
+  - common@ignore: ignore
   - evaluation: evaluation_tabular_ehr_gen
 
 hydra:

@@ -1,0 +1,10 @@
+flag: True
+time: ${now:%Y-%m-%d/%H-%M}
+ipaddr: '0.0.0.0'
+wandb_flag: False
+
+wandb:
+  project: SyntheticKMIMIC
+  entity: eunbyullee  # please set your wandb entity
+  name: dummy_name  # please set the name of the run before training for better interpretation
+  tags: [ 'dummy_tag' ]  # please set the tags for the run before training foeyr better interpretation

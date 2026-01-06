@@ -53,14 +53,10 @@ general:
 
 static_ae:
   name: 'StaticAE'
-#  checkpoint: '2025-10-22\09-53' # 7:3
-#  checkpoint: '2025-10-24\13-49' # 6:4
-  checkpoint: '2025-10-24\17-15' # 8:2
+  checkpoint: ''
 
 temporal_ae:
   name: 'TemporalAE'
-#  checkpoint: '2025-10-22\14-08' # 7:3
-#  checkpoint: '2025-10-24\13-56' # 6:4
-  checkpoint: '2025-10-24/17-21' # 8:2
+  checkpoint: ''
 
 
