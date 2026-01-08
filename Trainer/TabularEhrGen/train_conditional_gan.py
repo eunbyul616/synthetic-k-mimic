@@ -10,8 +10,8 @@ from DataLoaders.loaderbase import get_dataloaders
 from Utils.namespace import set_cfg
 from Utils.train import save_ckpt, load_ckpt
 
-from Trainer.tabular_ehr_gen.train_static_vae import StaticVAETrainer
-from Trainer.tabular_ehr_gen.train_temporal_vae import TemporalVAETrainer
+from Trainer.TabularEhrGen.train_static_vae import StaticVAETrainer
+from Trainer.TabularEhrGen.train_temporal_vae import TemporalVAETrainer
 
 from Models.TabularEhrGen.ConditionalGAN import build_model
 
