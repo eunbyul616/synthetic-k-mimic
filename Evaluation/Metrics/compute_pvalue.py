@@ -1,7 +1,7 @@
 import numpy as np
 from sklearn.metrics import average_precision_score
 
-from Evaluation.metrics.compare_auc_delong_xu import *
+from Evaluation.Metrics.compare_auc_delong_xu import *
 
 
 def compute_auc_p_value(y_true, y_proba1, y_proba2):
