@@ -382,5 +382,3 @@ if __name__ == '__main__':
         print(f'  Attribute Inference Attack ROC-AUC on Real Data: {np.round(roc_auc_real, 3):.3f}')
         print(f'  Attribute Inference Attack ROC-AUC on Synthetic Data: {np.round(roc_auc_synthetic, 3):.3f}')
 
-    breakpoint()
-

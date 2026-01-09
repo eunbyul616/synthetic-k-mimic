@@ -11,8 +11,6 @@ from Evaluation.DistributionSimilarity.distribution_comparison import *
 from Evaluation.DistributionSimilarity.correlation_comparison import *
 from Evaluation.Fidelity.utils import *
 
-from Visualization.timeseries import *
-
 import config_manager
 
 
@@ -318,8 +316,6 @@ if __name__ == '__main__':
                               interval=seq_len // interval,
                               save_path=os.path.join(save_eval_res_path,
                                                      'trajectory_correlation_comparison.png'))
-
-    breakpoint()
 
 
 

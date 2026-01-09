@@ -181,5 +181,3 @@ if __name__ == '__main__':
                                                     sensitive_index=sensitive_index)
     print('Thresholds:', cap_thresholds['attribute_disclosure_risk_thresholds']['90%'])
     print("Correct Attribution Probability:", np.round(cap, 3))
-
-    breakpoint()
