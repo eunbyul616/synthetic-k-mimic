@@ -84,6 +84,31 @@ hydra:
    python -m Inference.inference_tabular_ehr_gan evaluation.checkpoint='/path/to/checkpoint/gan/'
    ```
 
+### 3. **Evaluation**
+
+#### 1) Fidelity
+
+   ```bash
+   python -m Evaluation.Fidelity.evaluate_fidelity evaluation.checkpoint='/path/to/checkpoint/gan/'
+   ```
+
+#### 2) Utility
+
+   ```bash
+   python -m Evaluation.Utility.evaluate_utility evaluation.checkpoint='/path/to/checkpoint/gan/'
+   ```
+
+#### 3) Privacy
+- Model-based metrics
+    ```bash
+    python -m Evaluation.Privacy.evaluete_privacy_model_based evaluation.checkpoint='/path/to/checkpoint/gan/'
+    ```
+
+- Model-free metrics
+    ```bash
+    python -m Evaluation.Privacy.evaluete_privacy_model_free evaluation.checkpoint='/path/to/checkpoint/gan/'
+    ```
+
 ---
 
 ## Dataset
