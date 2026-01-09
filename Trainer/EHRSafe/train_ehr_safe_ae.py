@@ -108,9 +108,6 @@ class EHRSafeAETrainer(Trainer):
                 rank=self.rank,
                 save_condition='lower'
             )
-            self.wandb.log(self.train_loss, self.validation_loss, epoch)
-
-        self.wandb.cleanup()
 
     def _forward_batch(self, batch):
         sc, sn, sl, sm = self._unpack_static_batch(batch)

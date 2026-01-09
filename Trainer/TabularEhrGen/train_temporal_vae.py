@@ -414,9 +414,6 @@ class TemporalVAETrainer(Trainer):
                 rank=self.rank,
                 save_condition='lower'
             )
-            self.wandb.log(self.train_loss, self.validation_loss, epoch)
-
-        self.wandb.cleanup()
 
     def train_one_epoch(self, epoch):
         total_losses = {key: 0.0 for key in self.loss_keys}

@@ -182,9 +182,6 @@ class GANTrainer(Trainer):
                 rank=self.rank,
                 save_condition='last'
             )
-            self.wandb.log(self.train_loss, self.validation_loss, epoch)
-
-        self.wandb.cleanup()
 
     def _set_iterator_postfix(self, iterator, loss, disc_loss, gen_loss):
         iterator.set_postfix(loss=loss / (iterator.n + 1),
