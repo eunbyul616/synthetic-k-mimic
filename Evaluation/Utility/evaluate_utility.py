@@ -281,5 +281,3 @@ if __name__ == '__main__':
 
     merged_df.to_excel(os.path.join(save_eval_res_path, f'stratified_bootstrap_evaluation_ratio_{target_col}_{feature_mode}_{str(extract_half_flag)}.xlsx'), index=False)
 
-    breakpoint()
-
